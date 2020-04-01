@@ -18,7 +18,6 @@ def run_query(methods=['POST']):
         if not request.json or not 'query' in request.json or not 'table' in request.json:
             abort(400)
         query = request.json['query']
-        dbname = request.json['dbname']
         table = request.json['table']
 
         df = sqlContext.read.load('/tmp/*.csv', format='csv', inferSchema='true', header='true')

@@ -5,7 +5,7 @@ from aiohttp import ClientSession
 import asyncio
 import taskmanager
 
-async def process_query(raw_query:str):
+async def process_query(raw_query:str) -> bool:
     ''' Manages execution of the query'''
 
     parsed_query = parser.parse(raw_query)
@@ -45,7 +45,16 @@ async def process_query(raw_query:str):
             print('Aggregator will result in partial output')
     
     #send to aggregator
+    agg_url = 'http://localhost:6000/runagg'
+    async with ClientSession() as session:
+        json_data = {'query': parsed_query[1], 'table': parsed_query[2]}
+
+        async with session.post(agg_url, data=json_data) as response:
+            response = await response.read()
+            if response.status == 202:
+                return True
+            else:
+                return False
 
     # check if agg returned True and exit
-
-
+    return False
