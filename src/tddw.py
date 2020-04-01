@@ -22,12 +22,18 @@ def run_query(methods=['POST']):
         table = request.json['table']
 
         #load the table in the db
-        tpath = os.path.join('db', dbname, table)
+        tpath = os.path.join('db', dbname, table[0])
         df = sqlContext.read.load(tpath+'.csv', format='csv', inferSchema='true', header='true')
+        df.registerTempTable(table[0])
+        
+        if len(table) == 2:
+            #load the table in the db
+            tpath = os.path.join('db', dbname, table[1])
+            df_j = sqlContext.read.load(tpath+'.csv', format='csv', inferSchema='true', header='true')
+            df_j.registerTempTable(table[1])
         
         #run SQL query here
-        df.registerTempTable(table)
-        df = sqlContext.sql(query)  
+        df = sqlContext.sql(query)
 
         #save in the partial output path
         toutpath = os.path.join('tmp','part-'+dbname+'-'+table+'.csv')
@@ -36,4 +42,13 @@ def run_query(methods=['POST']):
         return json.dumps(True), 202
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument('-p', '--port', required=False, help='port number')
+    args = vars(ap.parse_args())
+
+    try:
+        port = args['port']
+        app.run(port=int(port), debug=True)
+    except ValueError:
+        app.run(port=5000, debug=True)
