@@ -1,14 +1,14 @@
 import sys
-import parser
 import yaml
 from aiohttp import ClientSession
 import asyncio
 import taskmanager
+import qparser
 
 async def process_query(raw_query:str) -> bool:
     ''' Manages execution of the query'''
 
-    parsed_query = parser.parse(raw_query)
+    parsed_query = qparser.qparse(raw_query)
 
     partial_op_checks = list()
 
@@ -39,9 +39,9 @@ async def process_query(raw_query:str) -> bool:
     # for all the True values get the values from the temp files,
     for i in range(0,len(res)):
         if res[i] == True:
-            print('Task '+i+' is successful')
+            print('Task '+str(i)+' is successful')
         else:
-            print(' Error in executing Task '+i)
+            print(' Error in executing Task '+str(i))
             print('Aggregator will result in partial output')
     
     #send to aggregator
@@ -49,8 +49,8 @@ async def process_query(raw_query:str) -> bool:
     async with ClientSession() as session:
         json_data = {'query': parsed_query[1], 'table': parsed_query[2]}
 
-        async with session.post(agg_url, data=json_data) as response:
-            response = await response.read()
+        async with session.post(agg_url, json=json_data) as response:
+            r = await response.read()
             if response.status == 202:
                 return True
             else:
@@ -58,3 +58,6 @@ async def process_query(raw_query:str) -> bool:
 
     # check if agg returned True and exit
     return False
+
+def proc_main(inp: str):
+   return asyncio.run(process_query(inp), debug= True)

@@ -1,6 +1,4 @@
-import sys
-
-def parse(query:str) -> list:
+def qparse(query:str) -> list:
     ''' Parse the query and send parts A and B \n
         A -> select , from , which and join clause --> parsed_out[0] \n
         B -> group by, having clause      --> parsed_out[1] \n
@@ -113,11 +111,11 @@ def parse(query:str) -> list:
 
     return parsed_out
 
-if __name__ == "__main__":
-    print(parse('SELECT * FROM table_name'))
-    print(parse('SELECT * FROM Customers WHERE CustomerID=1'))
-    print(parse('SELECT * FROM Customers WHERE City="Berlin" OR City="München"'))
-    print(parse('SELECT * FROM Customers WHERE NOT Country="Germany"'))
-    print(parse('SELECT Customers.CustomerName,Orders.OrderID FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY Customers.CustomerName'))
-    print(parse('SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country ORDER BY COUNT(CustomerID) DESC'))
-    print(parse('SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country HAVING COUNT(CustomerID) > 5 ORDER BY COUNT(CustomerID) DESC'))
+# if __name__ == "__main__":
+#     print(parse('SELECT * FROM table_name'))
+#     print(parse('SELECT * FROM Customers WHERE CustomerID=1'))
+#     print(parse('SELECT * FROM Customers WHERE City="Berlin" OR City="München"'))
+#     print(parse('SELECT * FROM Customers WHERE NOT Country="Germany"'))
+#     print(parse('SELECT Customers.CustomerName,Orders.OrderID FROM Customers LEFT JOIN Orders ON Customers.CustomerID = Orders.CustomerID ORDER BY Customers.CustomerName'))
+#     print(parse('SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country ORDER BY COUNT(CustomerID) DESC'))
+#     print(parse('SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country HAVING COUNT(CustomerID) > 5 ORDER BY COUNT(CustomerID) DESC'))

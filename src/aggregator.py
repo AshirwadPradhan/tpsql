@@ -12,15 +12,15 @@ sqlContext = SQLContext(sc)
 def index():
     return "Hello, World!"
 
-@app.route('/runagg')
-def run_query(methods=['POST']):
+@app.route('/runagg', methods=['POST'])
+def run_query():
     if request.method == 'POST':
         if not request.json or not 'query' in request.json or not 'table' in request.json:
             abort(400)
         query = request.json['query']
         table = request.json['table']
 
-        df = sqlContext.read.load('/tmp/*.csv', format='csv', inferSchema='true', header='true')
+        df = sqlContext.read.load('tmp', format='csv', inferSchema='true', header='true')
         
         #run SQL query here
         df.registerTempTable(table[0])

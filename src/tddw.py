@@ -12,14 +12,17 @@ sqlContext = SQLContext(sc)
 def index():
     return "Hello, World!"
 
-@app.route('/runq')
-def run_query(methods=['POST']):
+@app.route('/runq', methods=['POST'])
+def run_query():
+    print('this')
     if request.method == 'POST':
+        print(request.method)
         if not request.json or not 'query' in request.json or not 'table' in request.json:
             abort(400)
         query = request.json['query']
         dbname = request.json['dbname']
         table = request.json['table']
+        print(query)
 
         #load the table in the db
         tpath = os.path.join('db', dbname, table[0])
@@ -36,8 +39,8 @@ def run_query(methods=['POST']):
         df = sqlContext.sql(query)
 
         #save in the partial output path
-        toutpath = os.path.join('tmp','part-'+dbname+'-'+table+'.csv')
-        out_csv = df.write.csv(toutpath)
+        # toutpath = os.path.join('tmp','f.csv')
+        out_csv = df.toPandas().to_csv('tmp\db'+dbname+'.csv', index=False)
 
         return json.dumps(True), 202
 

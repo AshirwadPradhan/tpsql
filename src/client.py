@@ -1,4 +1,5 @@
 from cmd import Cmd
+from querymanager import proc_main
 
 class TPSQLClient(Cmd):
     intro ='Welcome to TPSQL. Please enter your query!'
@@ -13,7 +14,11 @@ class TPSQLClient(Cmd):
         '''  Command should start with SELECT ...'''
         if len(inp.strip()) >= 1:
             # send to query manager
-            print('send the sql query to querymanager')
+            res = proc_main('select '+inp)
+            if res == True:
+                print('Query Execution Completed..')
+            else:
+                print('Problem in Execution... Please see logs for errors')
         else:
             print('*** No input provided')
     
