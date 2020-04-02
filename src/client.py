@@ -14,7 +14,10 @@ class TPSQLClient(Cmd):
         '''  Command should start with SELECT ...'''
         if len(inp.strip()) >= 1:
             # send to query manager
-            res = proc_main('select '+inp)
+            try:
+                res = proc_main('select '+inp)
+            except Exception as e:
+                print('Exception Occurred: See logs for details: \n'+str(e))
             if res == True:
                 print('Query Execution Completed..')
             else:
