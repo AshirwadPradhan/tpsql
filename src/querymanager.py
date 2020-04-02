@@ -4,6 +4,7 @@ from aiohttp import ClientSession
 import asyncio
 import taskmanager
 import qparser
+import os
 
 async def process_query(raw_query:str) -> bool:
     ''' Manages execution of the query'''
@@ -12,15 +13,16 @@ async def process_query(raw_query:str) -> bool:
 
     partial_op_checks = list()
 
+    p_path = os.path.join('src','')
     try:
-        with open('server-conf.yaml', 'r') as file:
+        with open(p_path+'server-conf.yaml', 'r') as file:
             servers_list = yaml.load(file, Loader=yaml.FullLoader)
     except FileNotFoundError:
         print('Server Config file missing...')
         raise FileNotFoundError
     
     try:
-        with open('db-conf.yaml', 'r') as file:
+        with open(p_path+'db-conf.yaml', 'r') as file:
             db_list = yaml.load(file, Loader=yaml.FullLoader)
     except FileNotFoundError:
         print('DB Config file missing...')

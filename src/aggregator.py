@@ -15,19 +15,20 @@ def index():
 @app.route('/runagg', methods=['POST'])
 def run_query():
     if request.method == 'POST':
+        p_path = os.path.join('src','')
         if not request.json or not 'query' in request.json or not 'table' in request.json:
             abort(400)
         query = request.json['query']
         table = request.json['table']
 
-        df = sqlContext.read.load('tmp', format='csv', inferSchema='true', header='true')
+        df = sqlContext.read.load(p_path+'tmp', format='csv', inferSchema='true', header='true')
         
         #run SQL query here
         df.registerTempTable(table[0])
         df = sqlContext.sql(query)  
 
         #save in the partial output path
-        toutpath = os.path.join('out','final_q.csv')
+        toutpath = os.path.join(p_path+'out','final_q')
         out_csv = df.write.csv(toutpath)
 
         return json.dumps(True), 202
