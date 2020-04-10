@@ -28,3 +28,7 @@ Steps to use build this project:
     The folder `/src/out/finalq` contains some files. The csv file which is contained in the folder has the final output of the query.
 10. If you wish to clean all the temporary files run `make clean`.
 11. After cleaning the project if you wish to run again the run `make init` first to initialize the repo and then follow Steps 1 ... 9.
+
+Known Issues:
+
+Don't put spaces between commas and column names in select clause. Write `select column1,column2,column3...`

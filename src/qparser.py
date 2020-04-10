@@ -177,7 +177,8 @@ if __name__ == "__main__":
     # print(remove_alias('b.*,a.CategoryName'))
     # print(remove_alias('b.*,t.tribe,m.mribbee,c.*,d.fjfjf,b.o,c.*'))
     # print(qparse('select b.*,a.CategoryName from Categories a inner join Products b on a.CategoryID = b.CategoryID where b.Discontinued=1 order by b.ProductName'))
-    print(qparse('select productID, productName, categoryID from products'))
+    print(qparse('select productID,productName,categoryID from products'))
+    print(qparse('select a.CategoryName,productName,categoryID,unitPrice from Categories a inner join Products b on a.CategoryID = b.CategoryID where b.Discontinued=1 order by b.supplierID'))
     # removes aliasing of column names and end clause
     # aggregator cannot handle aliasing in column names and end clause--> Problem of sqlContext.sql(query) function
     # columns seprated by ',' should not have spaces

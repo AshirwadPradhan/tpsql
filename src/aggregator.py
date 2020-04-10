@@ -39,7 +39,8 @@ def run_query():
             print('Identified the left table coulmns and right table columns')
             df_j = df.select(right_col)
             print('Loaded Right table columns')
-            df_j.registerTempTable(table[2])
+            if len(table) > 2:
+                df_j.registerTempTable(table[2])
         # print(right_col)
         # print(left_col)
         df.registerTempTable(table[0])
