@@ -151,30 +151,33 @@ def remove_alias(inp: str):
     except ValueError:
         #remove * if present
         # print(tmp)
-        tmp = tmp.replace('*,',',')
-        tmp = tmp.replace(',*',',')
-            
-        # tmp = tmp.replace('*','')
-        # print(tmp)
-        #replace ',,' with ','
-        # print(tmp)
-        tmp = tmp.replace(',,',',')
-        #remove if ','(comma) is 1st character
-        if tmp[0] == ',':
-            tmp = tmp[1:]
+        try:
+            tmp = tmp.replace('*,',',')
+            tmp = tmp.replace(',*',',')
+                
+            # tmp = tmp.replace('*','')
             # print(tmp)
-        if tmp[len(tmp)- 1] == ',':
-            tmp = tmp[:len(tmp) - 1]
-    
+            #replace ',,' with ','
+            # print(tmp)
+            tmp = tmp.replace(',,',',')
+            #remove if ','(comma) is 1st character
+            if tmp[0] == ',':
+                tmp = tmp[1:]
+                # print(tmp)
+            if tmp[len(tmp)- 1] == ',':
+                tmp = tmp[:len(tmp) - 1]
+        except IndexError:
+            pass
+
     return tmp
 
 if __name__ == "__main__":
-    print(remove_alias('order by b.ProductName'))
-    print(remove_alias('OrderID,sum(UnitPrice*Quantity*(1-Discount))'))
-    print(remove_alias('b.*,a.CategoryName'))
-    print(remove_alias('b.*,t.tribe,m.mribbee,c.*,d.fjfjf,b.o,c.*'))
-    print(qparse('select b.*,a.CategoryName from Categories a inner join Products b on a.CategoryID = b.CategoryID where b.Discontinued=1 order by b.ProductName'))
-
+    # print(remove_alias('order by b.ProductName'))
+    # print(remove_alias('OrderID,sum(UnitPrice*Quantity*(1-Discount))'))
+    # print(remove_alias('b.*,a.CategoryName'))
+    # print(remove_alias('b.*,t.tribe,m.mribbee,c.*,d.fjfjf,b.o,c.*'))
+    # print(qparse('select b.*,a.CategoryName from Categories a inner join Products b on a.CategoryID = b.CategoryID where b.Discontinued=1 order by b.ProductName'))
+    print(qparse('select productID, productName, categoryID from products'))
     # removes aliasing of column names and end clause
     # aggregator cannot handle aliasing in column names and end clause--> Problem of sqlContext.sql(query) function
     # columns seprated by ',' should not have spaces
