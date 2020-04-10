@@ -173,6 +173,7 @@ if __name__ == "__main__":
     print(remove_alias('OrderID,sum(UnitPrice*Quantity*(1-Discount))'))
     print(remove_alias('b.*,a.CategoryName'))
     print(remove_alias('b.*,t.tribe,m.mribbee,c.*,d.fjfjf,b.o,c.*'))
+    print(qparse('select b.*,a.CategoryName from Categories a inner join Products b on a.CategoryID = b.CategoryID where b.Discontinued=1 order by b.ProductName'))
 
     # removes aliasing of column names and end clause
     # aggregator cannot handle aliasing in column names and end clause--> Problem of sqlContext.sql(query) function

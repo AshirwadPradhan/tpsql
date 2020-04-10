@@ -1,0 +1,229 @@
+customerID,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,fax
+STEIN,Steinberg KG,Gisbert Heydrich B.Eng.,,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany,09961 21158,NULL
+SCHIN,Schinke,Dipl.-Ing. Ehrhard Huhn,,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany,+49 (0) 2290 466284,NULL
+BEYER,Beyer GmbH,Dipl.-Ing. Natalia Etzler,,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany,08660 90472,NULL
+HANDE,Hande Baum GmbH,Dr. Ingmar Nette,,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany,04590 974115,NULL
+BLüM,Blümel Bähr GbR,José Heidrich-Pechel,,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany,+49 (0) 7825 176111,NULL
+SPEER,Speer,Elfriede Blümel,,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany,(09169) 548205,NULL
+SPEER,Speer,Alexander Henck MBA.,,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany,(08309) 733100,NULL
+KRAME,Kramer Müller GmbH & Co. KG,Mustafa Jüttner B.Eng.,,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany,09402 839648,NULL
+KREBS,Krebs Textor AG & Co. KG,Dr. Dietlinde Stumpf,,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany,+49(0)6280 230809,NULL
+WAGNE,Wagner Cichorius AG & Co. OHG,Denis Junk,,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany,+49(0)2796 942476,NULL
+HOLZA,Holzapfel,Steven Bolzmann B.A.,,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany,(05836) 16396,NULL
+DAVID,Davids Pärtzelt AG,Prof. Bärbel Gumprich B.A.,,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany,+49(0)0148 611526,NULL
+JäKE,Jäkel AG & Co. OHG,Andree Ortmann-Weller,,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany,05053 299979,NULL
+LöFF,Löffler KG,Hiltrud Pölitz,,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany,(09788) 518180,NULL
+HäRI,Häring,Pascale Scholz MBA.,,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany,+49 (0) 0659 632637,NULL
+KARZ ,Karz e.V.,Emma Striebitz-Gute,,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany,+49 (0) 3920 829048,NULL
+CARST,Carsten Binner AG,Ljudmila Atzler B.A.,,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany,(07755) 436507,NULL
+TRUBI,Trubin Sager AG,Dr. Jerzy Wieloch,,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany,985564025,NULL
+BIRNB,Birnbaum,Aloisia Schuchhardt B.Eng.,,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany,02125 70262,NULL
+WIELO,Wieloch AG,Svetlana Blümel,,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany,+49(0) 037146076,NULL
+LOLLO,"Lollobrigida, Camanni e Viola s.r.l.",Sig.ra Griselda Praga ,,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy,+39 101 08 86 4553,NULL
+ANTON,"Antonucci, Semitecolo e Manunta SPA",Dott. Eugenia Traversa,,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy,+39 827 71166828,NULL
+CARUS,Caruso-Trezzini s.r.l.,Fausto Binaghi,,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy,+39 50 83309496,NULL
+ORTOL,"Ortolani, Cremonesi e Troisi SPA",Annetta Mercalli,,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy,+39 333 32914817,NULL
+BARIL,Barillaro-Bodoni e figli,Alphons Mazzi-Basso,,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy,+39 1022 99622119,NULL
+PEDER,Pederiva-Nordio Group,Paloma Serlupi,,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy,+39 6292 7177523,NULL
+PROCA,"Procacci, Romagnoli e Cossiga SPA",Lauretta Tosi,,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy,+39 1055 3326419,NULL
+SALIE,"Salieri, Gregorio e Gianetti e figli",Umberto Tarchetti,,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy,+39 778 4208370,NULL
+FERRA,Ferrazzi-Majewski e figli,Giampaolo Barberini ,,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy,+39 05 4817110,NULL
+GABBA,"Gabba, Modiano e Guidotti SPA",Anita Amaldi,,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy,+39 5494 39487970,NULL
+BAGGI,Baggio-Siffredi e figli,Dott. Martina Armani,,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy,+39 26 1616607,NULL
+RONCA,Roncalli SPA,Azeglio Zeffirelli ,,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy,+39 91 4862606,NULL
+MERIS,Merisi s.r.l.,Dott. Daniele Mezzetta ,,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy,+39 28 39200038,NULL
+LETTA,Letta-Turchetta s.r.l.,Patrizio Sbarbaro,,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy,+39 717 33 56 4324,NULL
+LUCAR,Lucarelli SPA,Galasso Bandello-Nordio,,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy,+39 01 3296714,NULL
+PANIC,Panicucci s.r.l.,Pasqual Renier,,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy,+39 795 04170697,NULL
+BRAGA,Bragaglia-Trapanese SPA,Emma Campise,,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy,+39 1738 7075552,NULL
+BARES,"Barese, Mazzini e Pareto SPA",Gilberto Boiardo,,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy,+39 3997 6244770,NULL
+PIRAN,"Pirandello, Interiano e Aloisio s.r.l.",Mirco Battisti,,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy,+39 91 80079203,NULL
+TROMB,Trombetta Group,Micheletto Tasca-Cavalcanti,,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy,+39 0732 91247307,NULL
+LAMAS,Lamas-Mesa,Fátima Caparrós Figueroa,,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain,+34 130 29 96 43,NULL
+MALDO,"Maldonado, Escribano and Gascón",Consuelo Chaparro Barragán,,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain,34841601638,NULL
+CANTE,"Cantero, Alcalde and Corominas",Patricia Luz Girona Bayón,,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain,34856332076,NULL
+JIMEN,Jimenez-Fábregas,Lorena Jaume-Sotelo,,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain,34291230015,NULL
+MáRM,Mármol Inc,Trinidad Múñiz Sevillano,,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain,+34 447003249,NULL
+BADí,Badía-Luna,Dolores Beltrán Roig,,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain,+34 854 95 44 16,NULL
+REY-T,Rey-Torrijos,Mario Torrents Conde,,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain,+34851 69 16 38,NULL
+ARIñ,Ariño-Aragonés,Purificación Maldonado-Gómez,,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain,+34 780 432 138,NULL
+"MATA,","Mata, Gimeno and Perelló",Hector Aguilar,,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain,+34 040039435,NULL
+AZNAR,Aznar-Múgica,Juan de Quiroga,,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain,+34 658044382,NULL
+BORRE,Borrego Inc,Juan Conesa Pozuelo,,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain,+34 409839877,NULL
+CHAVE,Chaves Inc,Cristina Alicia Andrade Ferrer,,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain,34514821578,NULL
+COLOM,"Coloma, Simó and Tamayo",Francisco Franch,,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain,+34 555744548,NULL
+SARAB,"Sarabia, Quiroga and Puente",Esther Castell Godoy,,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain,+34 963 265 193,NULL
+ARAUJ,"Araujo, Alberola and Pedrero",Luís Pizarro Torrijos,,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain,+34186 509 858,NULL
+GáRA,Gárate Group,Gregorio del Rocamora,,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain,+34 515337781,NULL
+VALDE,Valderrama-Ortega,Eugenia Alicia Aragonés Llobet,,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain,34682736769,NULL
+GOMIL,Gomila-Pino,Julia Valcárcel Huertas,,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain,+34 032 02 42 45,NULL
+CERD�,Cerdá and Sons,Juan Carlos Badía Luz,,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain,+34183 408 155,NULL
+AMAT-,Amat-Blasco,Marta Terrón Blasco,,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain,+34 441236064,NULL
+THOMA,Thomas-Stephens,Damian Webb,,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB,(029)2018202,NULL
+EDWAR,"Edwards, White and Cook",Adam Smith-Brown,,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB,+44(0)113 496 0980,NULL
+AKHTA,"Akhtar, Williams and Wright",Russell Townsend,,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB,+44(0)1632 960067,NULL
+WHITE,Whitehead-Hall,Claire Wilson-Edwards,,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB,0117 496 0123,NULL
+ELLIS,Ellis Ltd,Dr. Iain Bray,,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB,1632960975,NULL
+DOBSO,Dobson-North,Eric Whitehouse-O'Connor,,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB,289018062,NULL
+HARDY,Hardy-Brown,Richard Cross,,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB,+44(0)113 4960392,NULL
+GIBSO,Gibson-Pope,Mr. Richard Robinson,,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB,4.41145E+11,NULL
+KNOWL,Knowles LLC,Dr. Valerie Daly,,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB,(020) 7496 0616,NULL
+KELLY,Kelly and Sons,Amelia Hayward,,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB,4.41915E+11,NULL
+WALSH,Walsh and Sons,Miss Sharon Bates,,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB,(0909)8790525,NULL
+LLOYD,Lloyd Group,Amber Johnson,,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB,+44(0)1134960821,NULL
+JONES,Jones-Allen,Rachel Ward,,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB,+44116 496 0864,NULL
+PUGH-,Pugh-Phillips,Diane Baker,,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB,0909 879 0490,NULL
+CAMPB,Campbell-Lyons,Ms. Amber Payne,,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB,+44306 9990609,NULL
+AUSTI,"Austin, Gill and Owens",Mrs. Kayleigh Sanderson,,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB,1632960703,NULL
+FLYNN,"Flynn, Read and Smith",Dr. Kenneth Khan,,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB,1614960202,NULL
+BOYLE,"Boyle, King and Holden",Dr. Declan Peters,,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB,(0161)4960134,NULL
+WONG-,Wong-Carpenter,Bernard Clark,,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB,9098790373,NULL
+DAVIS,"Davis, Johnson and Taylor",Sarah Jackson,,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB,+44(0)1144960667,NULL
+LITTL,Little PLC,Adam Norton,,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US,(050)149-6188,NULL
+ADKIN,"Adkins, Walker and Harmon",Michael Wood,,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US,(843)709-0685x445,NULL
+"ROSS,","Ross, Travis and Hamilton",Mason Nelson,,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US,001-015-862-9639x042,NULL
+KENT ,Kent and Sons,Kristen Mercado,,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US,159-888-8886x12938,NULL
+MEZA ,Meza Inc,Lisa Cole,,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US,179-827-1607x88977,NULL
+JONES,Jones Inc,Melissa Richards,,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US,118.582.5727x4753,NULL
+"NASH,","Nash, Smith and Ward",Hannah Harrison,,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US,+1-457-234-9916x3671,NULL
+WATKI,"Watkins, Cunningham and Chavez",David Tucker,,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US,001-211-756-2574x12152,NULL
+RICHA,Richardson Ltd,Sharon Blankenship,,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US,8531960140,NULL
+VASQU,"Vasquez, Banks and Gonzalez",Kelsey Nunez,,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US,449-055-6122x692,NULL
+SMITH,"Smith, Whitehead and Page",Jason Morales,,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US,581.866.1706x119,NULL
+CRANE,Crane LLC,Gabriel Sheppard,,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US,-8225,NULL
+SWANS,Swanson and Sons,Renee Perez,,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US,+1-725-161-5466x6495,NULL
+DAVIS,Davis-Elliott,Elizabeth Allen,,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US,001-484-308-9760x3082,NULL
+KELLY,Kelly-Haas,Jacqueline Quinn,,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US,140-392-0143x04524,NULL
+WHITN,Whitney-Henry,Lindsay Lucas,,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US,001-342-029-0097x95334,NULL
+CLARK,"Clark, Smith and Acosta",Robert Martinez,,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US,098-422-5831x41880,NULL
+MARTI,Martin PLC,Amy Page,,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US,(192)112-5475,NULL
+HUNTE,"Hunter, Oliver and Lynch",Nancy Day,,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US,5806752720,NULL
+SANCH,Sanchez-Lane,Kenneth Anderson,,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US,155.570.5751,NULL

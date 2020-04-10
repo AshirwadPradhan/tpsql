@@ -1,0 +1,1557 @@
+orderID,customerID,employeeID,orderDate,requiredDate,shippedDate,shipVia,freight,shipName,shipAddress,shipCity,shipRegion,shipPostalCode,shipCountry
+5600,PANIC,6,9/4/1997,11/15/1997,9/17/1997,3,49.1,Old World Delicatessen,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+5601,BIRNB,5,4/3/1997,6/16/1997,5/14/1997,2,125.3,Old World Delicatessen,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+5602,KREBS,1,12/28/1997,3/1/1998,12/31/1997,2,60.8,Hungry Owl All-Night Grocers,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+5603,LUCAR,7,5/11/1996,7/2/1996,5/19/1996,3,33.5,QUICK-Stop,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+5604,BOYLE,7,5/22/1997,6/13/1997,6/2/1997,1,86.6,Rattlesnake Canyon Grocery,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+5605,LAMAS,2,4/9/1997,6/6/1997,5/24/1997,2,148.3,QUICK-Stop,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+5606,DAVIS,9,9/4/1996,10/27/1996,9/14/1996,1,73.9,Chop-suey Chinese,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+5607,COLOM,8,8/10/1996,9/19/1996,8/14/1996,2,130,Romero y tomillo,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+5608,SARAB,7,4/22/1996,6/26/1996,4/28/1996,3,19.6,Island Trading,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+5609,KELLY,9,1/6/1997,1/18/1997,1/6/1997,2,90,LILA-Supermercado,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+5610,HäRI,8,4/30/1998,7/29/1998,5/1/1998,3,76,Magazzini Alimentari Riuniti,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+5611,"NASH,",5,4/19/1997,5/14/1997,5/2/1997,2,18.8,Ana Trujillo Emparedados y helados,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+5612,CARUS,3,6/19/1996,8/22/1996,7/4/1996,2,34.3,Frankenversand,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+5613,AZNAR,6,4/9/1996,7/18/1996,5/8/1996,1,141.1,The Big Cheese,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+5614,LöFF,1,10/2/1997,10/18/1997,10/4/1997,1,104,Tortuga Restaurante,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+5615,HUNTE,3,3/20/1997,5/26/1997,4/6/1997,3,79.1,Wellington Importadora,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+5616,ARAUJ,2,7/31/1997,10/8/1997,8/1/1997,1,123.3,Morgenstern Gesundkost,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+5617,LöFF,9,5/28/1996,7/11/1996,6/9/1996,3,80.6,Island Trading,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+5618,PANIC,6,3/19/1997,4/26/1997,3/24/1997,3,11.1,Mère Paillarde,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+5619,SARAB,6,7/1/1997,7/13/1997,7/3/1997,2,130.2,Bon app',"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+5620,CARUS,8,4/5/1997,5/21/1997,4/6/1997,2,100.4,Bon app',"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+5621,STEIN,5,7/29/1997,9/24/1997,8/20/1997,1,82.1,Frankenversand,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+5622,EDWAR,4,8/18/1996,11/22/1996,10/1/1996,1,79.7,Que Delícia,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+5623,AKHTA,5,2/4/1997,5/2/1997,3/14/1997,2,134.9,Magazzini Alimentari Riuniti,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+5624,CAMPB,4,8/2/1996,8/12/1996,8/2/1996,3,19.8,Frankenversand,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+5625,PIRAN,6,4/30/1997,5/20/1997,5/10/1997,1,104.1,Toms Spezialitäten,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+5626,HOLZA,9,6/25/1996,9/22/1996,7/1/1996,2,11,Bon app',"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+5627,CARST,7,2/24/1997,5/6/1997,4/16/1997,1,108.1,Folk och fä HB,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+5628,AMAT-,7,10/20/1997,11/24/1997,11/7/1997,2,149.4,Folk och fä HB,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+5629,FLYNN,5,4/1/1998,5/15/1998,5/4/1998,2,83,Toms Spezialitäten,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+5630,AUSTI,2,7/3/1996,9/15/1996,7/17/1996,2,29.1,Romero y tomillo,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+5631,CARUS,4,4/26/1997,5/20/1997,5/2/1997,3,106.1,Hanari Carnes,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+5632,AUSTI,5,10/14/1996,11/3/1996,10/14/1996,3,55.3,Romero y tomillo,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+5633,SPEER,8,9/17/1997,10/28/1997,9/23/1997,2,101.6,Lonesome Pine Restaurant,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+5634,KNOWL,8,4/29/1998,7/1/1998,5/23/1998,1,109.6,Furia Bacalhau e Frutos do Mar,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+5635,DOBSO,8,2/20/1998,4/22/1998,3/17/1998,2,70.4,Hanari Carnes,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+5636,HOLZA,1,11/14/1996,1/5/1997,12/14/1996,1,61.8,Ricardo Adocicados,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+5637,LETTA,2,9/8/1997,12/9/1997,11/28/1997,2,65.5,Hungry Owl All-Night Grocers,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+5638,SCHIN,4,2/12/1998,4/24/1998,4/14/1998,2,85.3,Old World Delicatessen,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+5639,DAVIS,3,5/5/1996,8/2/1996,7/18/1996,1,146.7,Berglunds snabbköp,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+5640,JONES,4,9/6/1997,10/5/1997,9/10/1997,1,109.8,Lehmanns Marktstand,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+5641,CLARK,8,9/20/1996,10/13/1996,9/27/1996,3,73,Hanari Carnes,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+5642,HäRI,4,5/27/1997,8/14/1997,7/7/1997,2,130.8,Rattlesnake Canyon Grocery,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+5643,THOMA,8,10/9/1996,11/11/1996,10/19/1996,1,138,LILA-Supermercado,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+5644,WALSH,2,7/20/1996,9/15/1996,7/28/1996,2,25.5,Toms Spezialitäten,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+5645,GOMIL,3,9/8/1997,9/18/1997,9/8/1997,3,110,Princesa Isabel Vinhos,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+5646,RICHA,7,7/7/1996,8/21/1996,7/13/1996,1,124.2,Romero y tomillo,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+5647,KELLY,4,4/23/1998,6/19/1998,6/4/1998,2,142.7,Romero y tomillo,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+5648,CANTE,2,9/30/1996,11/12/1996,10/16/1996,1,137.1,Reggiani Caseifici,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+5649,MEZA ,3,10/30/1997,11/13/1997,10/30/1997,2,139.6,LILA-Supermercado,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+5650,EDWAR,9,4/24/1997,6/30/1997,5/4/1997,1,56,QUICK-Stop,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+5651,CERD�,2,2/12/1998,4/17/1998,4/3/1998,1,39.6,Hungry Owl All-Night Grocers,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+5652,BARES,1,8/2/1997,9/18/1997,8/24/1997,3,68.5,Ana Trujillo Emparedados y helados,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+5653,GIBSO,9,4/28/1997,7/16/1997,5/26/1997,2,146.4,Berglunds snabbköp,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+5654,GABBA,7,8/8/1997,10/18/1997,8/26/1997,3,105,Split Rail Beer & Ale,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+5655,ANTON,5,9/7/1997,10/24/1997,9/27/1997,2,81.7,Mère Paillarde,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+5656,ARIñ,9,3/31/1998,5/18/1998,4/9/1998,3,122.2,Hungry Owl All-Night Grocers,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+5657,WIELO,6,6/27/1996,10/4/1996,9/17/1996,1,92.4,Wartian Herkku,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+5658,REY-T,3,9/13/1996,11/25/1996,9/30/1996,1,4,Königlich Essen,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+5659,ARAUJ,2,4/6/1997,5/6/1997,4/9/1997,2,83.8,Centro comercial Moctezuma,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+5660,SMITH,7,10/15/1996,1/22/1997,1/7/1997,2,112.4,Island Trading,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+5661,LOLLO,9,10/5/1997,11/30/1997,11/4/1997,1,90.5,Wellington Importadora,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+5662,BARIL,6,2/16/1998,3/15/1998,2/22/1998,2,22.3,Victuailles en stock,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+5663,WHITN,1,12/11/1996,1/17/1997,12/11/1996,1,66.7,Rattlesnake Canyon Grocery,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+5664,ORTOL,4,12/21/1997,1/26/1998,12/27/1997,1,83.1,Romero y tomillo,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+5665,HANDE,8,1/8/1998,3/17/1998,1/16/1998,3,92.1,Lonesome Pine Restaurant,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+5666,WATKI,6,5/14/1997,8/2/1997,5/20/1997,3,37,Rattlesnake Canyon Grocery,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+5667,THOMA,5,11/1/1996,1/31/1997,12/16/1996,1,95,Island Trading,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+5668,DAVID,1,9/14/1997,10/27/1997,9/23/1997,1,129.9,QUICK-Stop,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+5669,KARZ ,5,12/19/1996,2/1/1997,12/29/1996,1,105.2,Königlich Essen,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+5670,PEDER,6,2/13/1997,3/30/1997,3/14/1997,1,133.1,Ricardo Adocicados,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+5671,LUCAR,1,11/14/1996,11/24/1996,11/14/1996,1,84.1,Bon app',"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+5672,BARES,7,9/23/1996,12/15/1996,10/6/1996,3,27.6,Ottilies Käseladen,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+5673,MEZA ,5,11/2/1997,12/2/1997,11/10/1997,3,121.3,LILA-Supermercado,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+5674,REY-T,3,11/2/1997,12/20/1997,11/29/1997,1,16.2,Romero y tomillo,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+5675,WHITE,7,1/22/1997,3/24/1997,2/5/1997,2,48.7,Tortuga Restaurante,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+5676,LAMAS,6,10/17/1996,12/2/1996,11/22/1996,1,18.3,Princesa Isabel Vinhos,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+5677,BRAGA,3,1/24/1998,3/4/1998,2/19/1998,3,133.5,Split Rail Beer & Ale,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+5678,CARUS,8,6/4/1997,9/8/1997,8/21/1997,1,14.4,Toms Spezialitäten,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+5679,PEDER,3,4/20/1997,6/28/1997,4/25/1997,3,101.1,Rattlesnake Canyon Grocery,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+5680,GABBA,5,9/25/1997,12/28/1997,11/5/1997,1,21.7,Morgenstern Gesundkost,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+5681,BLüM,2,2/21/1998,4/29/1998,2/22/1998,3,10.9,Vins et alcools Chevalier,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+5682,KREBS,5,9/27/1996,11/26/1996,11/5/1996,1,143.8,Blondel père et fils,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+5683,CAMPB,3,5/26/1997,9/3/1997,6/3/1997,3,38.2,QUICK-Stop,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+5684,ADKIN,9,1/10/1998,2/17/1998,1/20/1998,3,43.6,Frankenversand,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+5685,THOMA,3,11/18/1996,2/25/1997,12/8/1996,1,90.5,Save-a-lot Markets,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+5686,JäKE,2,4/19/1997,7/17/1997,6/1/1997,2,100.9,Romero y tomillo,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+5687,KREBS,9,9/15/1997,11/3/1997,9/27/1997,1,53.5,Lehmanns Marktstand,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+5688,CRANE,2,9/27/1996,12/21/1996,12/5/1996,2,136.7,White Clover Markets,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+5689,GIBSO,6,5/12/1996,6/29/1996,5/19/1996,2,120.7,LILA-Supermercado,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+5690,CERD�,4,4/23/1998,6/19/1998,5/10/1998,2,51.1,Königlich Essen,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+5691,HäRI,5,4/9/1998,5/13/1998,4/25/1998,2,4.5,Wartian Herkku,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+5692,WHITN,8,2/18/1997,4/3/1997,3/9/1997,1,35.9,Rattlesnake Canyon Grocery,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+5693,ARAUJ,8,1/28/1998,3/4/1998,2/21/1998,2,88.9,Island Trading,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+5694,JIMEN,7,12/7/1997,2/7/1998,12/29/1997,3,121.8,Richter Supermarkt,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+5695,KELLY,8,6/9/1996,7/24/1996,6/29/1996,2,75.6,HILARION-Abastos,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+5696,DAVID,8,1/29/1998,2/11/1998,1/29/1998,3,17.7,GROSELLA-Restaurante,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+5697,BORRE,4,6/3/1996,8/23/1996,8/8/1996,1,33.5,QUICK-Stop,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+5698,ARIñ,4,11/24/1996,1/27/1997,12/20/1996,2,96.2,B's Beverages,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+5699,"NASH,",9,10/1/1997,1/3/1998,10/6/1997,1,111.7,Victuailles en stock,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+5700,AMAT-,8,10/3/1997,1/3/1998,11/6/1997,3,72.4,Berglunds snabbköp,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+5701,HäRI,2,3/24/1998,6/28/1998,4/9/1998,1,36.6,Frankenversand,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+5702,WHITE,5,5/4/1998,6/26/1998,6/8/1998,2,13.5,Simons bistro,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+5703,ELLIS,5,5/8/1997,6/21/1997,5/20/1997,1,147,Rattlesnake Canyon Grocery,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+5704,BAGGI,6,4/18/1998,7/7/1998,6/4/1998,2,123.5,0,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+5705,ARAUJ,2,9/21/1997,11/27/1997,10/1/1997,1,51.4,White Clover Markets,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+5706,CARST,3,12/4/1997,1/4/1998,12/12/1997,3,94,QUICK-Stop,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+5707,GáRA,6,12/5/1996,2/22/1997,1/9/1997,1,111.4,Tortuga Restaurante,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+5708,JIMEN,6,12/10/1996,2/28/1997,2/7/1997,2,109.3,Simons bistro,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+5709,VASQU,3,1/1/1997,1/22/1997,1/2/1997,3,135.1,Romero y tomillo,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+5710,"ROSS,",8,6/11/1997,9/7/1997,7/12/1997,1,19.8,Bon app',"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+5711,FERRA,8,12/16/1996,3/8/1997,2/13/1997,3,6.4,QUICK-Stop,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+5712,GABBA,6,6/14/1996,9/8/1996,7/27/1996,3,111.5,Toms Spezialitäten,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+5713,ARIñ,2,10/28/1997,2/5/1998,12/20/1997,2,115.6,Berglunds snabbköp,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+5714,PROCA,9,5/30/1996,6/24/1996,6/6/1996,1,141.1,Mère Paillarde,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+5715,WAGNE,7,11/27/1996,1/28/1997,1/2/1997,3,69.9,Die Wandernde Kuh,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+5716,PEDER,2,7/5/1996,9/3/1996,7/26/1996,3,44.4,Tortuga Restaurante,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+5717,DOBSO,9,3/10/1997,6/17/1997,4/7/1997,3,144.5,Bon app',"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+5718,MERIS,3,9/10/1996,10/8/1996,9/22/1996,3,62.5,HILARION-Abastos,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+5719,DAVIS,6,8/10/1996,11/14/1996,8/31/1996,2,31.8,Romero y tomillo,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+5720,PANIC,4,6/18/1996,7/4/1996,6/24/1996,1,49.4,Wellington Importadora,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+5721,BEYER,5,5/31/1996,8/28/1996,8/6/1996,2,74.9,HILARION-Abastos,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+5722,LETTA,6,7/27/1996,8/13/1996,7/29/1996,1,49.9,Richter Supermarkt,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+5723,VASQU,2,5/1/1998,6/27/1998,5/31/1998,2,5.5,Hanari Carnes,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+5724,PEDER,6,9/8/1997,11/28/1997,11/16/1997,1,59.4,Island Trading,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+5725,SALIE,7,1/14/1998,2/4/1998,1/18/1998,2,4.4,Magazzini Alimentari Riuniti,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+5726,SPEER,5,4/29/1998,6/7/1998,5/3/1998,3,16.6,Du monde entier,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+5727,MARTI,6,5/12/1997,5/30/1997,5/12/1997,1,127.9,Suprêmes délices,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+5728,RONCA,9,9/16/1996,10/6/1996,9/23/1996,3,123.1,Furia Bacalhau e Frutos do Mar,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+5729,CLARK,3,5/4/1996,7/16/1996,6/20/1996,2,33.8,GROSELLA-Restaurante,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+5730,BAGGI,2,6/18/1997,9/14/1997,6/22/1997,3,147,HILARION-Abastos,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+5731,JONES,3,1/23/1998,4/9/1998,3/8/1998,1,48.6,Mère Paillarde,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+5732,KELLY,2,6/28/1997,7/10/1997,6/28/1997,3,58.8,Ricardo Adocicados,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+5733,PANIC,9,12/22/1997,2/9/1998,12/25/1997,1,77.8,Chop-suey Chinese,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+5734,MEZA ,4,12/17/1996,3/24/1997,1/5/1997,2,65.9,Berglunds snabbköp,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+5735,LOLLO,8,4/4/1997,7/1/1997,4/4/1997,3,19.5,Suprêmes délices,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+5736,MEZA ,9,12/23/1997,1/3/1998,12/24/1997,2,29.9,Toms Spezialitäten,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+5737,GABBA,8,1/2/1997,1/21/1997,1/10/1997,1,42.5,Hungry Owl All-Night Grocers,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+5738,WHITN,9,7/22/1996,10/27/1996,7/26/1996,2,37.6,Furia Bacalhau e Frutos do Mar,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+5739,PEDER,5,12/12/1996,12/27/1996,12/13/1996,3,102.7,Lehmanns Marktstand,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+5740,SALIE,2,12/15/1996,3/6/1997,1/15/1997,2,105.4,Die Wandernde Kuh,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+5741,MáRM,4,5/15/1997,8/18/1997,7/16/1997,2,110.4,Wartian Herkku,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+5742,MARTI,1,7/10/1996,8/31/1996,7/27/1996,2,66.1,GROSELLA-Restaurante,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+5743,LUCAR,9,1/25/1998,2/16/1998,1/29/1998,1,37.4,Rattlesnake Canyon Grocery,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+5744,GIBSO,2,7/1/1997,9/14/1997,7/12/1997,1,90,Die Wandernde Kuh,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+5745,PROCA,3,10/21/1996,1/29/1997,1/17/1997,3,112.8,Berglunds snabbköp,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+5746,LAMAS,8,2/7/1997,3/17/1997,2/25/1997,1,42.4,Hungry Owl All-Night Grocers,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+5747,ARAUJ,8,7/21/1997,8/17/1997,7/29/1997,1,28.5,HILARION-Abastos,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+5748,SPEER,5,3/21/1998,4/5/1998,3/24/1998,1,82.5,Blondel père et fils,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+5749,BOYLE,7,8/7/1997,10/29/1997,9/14/1997,1,75.4,Princesa Isabel Vinhos,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+5750,PANIC,7,6/19/1996,8/2/1996,7/13/1996,1,143,Centro comercial Moctezuma,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+5751,HUNTE,7,2/20/1998,4/1/1998,3/10/1998,1,105.5,Magazzini Alimentari Riuniti,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+5752,KNOWL,5,2/11/1998,3/12/1998,2/28/1998,1,37.6,Que Delícia,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+5753,JONES,9,3/28/1997,4/18/1997,3/31/1997,1,73.3,Mère Paillarde,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+5754,LOLLO,9,12/31/1996,2/6/1997,1/8/1997,1,149.9,Blondel père et fils,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+5755,BEYER,6,2/20/1997,4/14/1997,3/23/1997,3,30.5,Die Wandernde Kuh,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+5756,TROMB,1,7/1/1996,10/4/1996,7/30/1996,2,28.7,Mère Paillarde,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+5757,LITTL,7,4/11/1997,6/11/1997,5/22/1997,1,95.1,Reggiani Caseifici,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+5758,JONES,9,8/29/1997,11/6/1997,9/24/1997,2,95.2,Ernst Handel,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+5759,WHITN,7,2/14/1998,5/25/1998,2/18/1998,3,61.2,Berglunds snabbköp,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+5760,CANTE,6,8/10/1997,11/10/1997,9/8/1997,1,6.3,Magazzini Alimentari Riuniti,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+5761,CARUS,9,11/25/1996,1/19/1997,12/19/1996,1,81.8,Lonesome Pine Restaurant,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+5762,CLARK,6,10/17/1996,12/3/1996,10/26/1996,3,125.4,Victuailles en stock,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+5763,VALDE,3,5/30/1997,6/12/1997,6/2/1997,3,121.2,Victuailles en stock,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+5764,AKHTA,6,8/8/1996,11/6/1996,10/21/1996,2,133.6,Rattlesnake Canyon Grocery,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+5765,"ROSS,",5,5/5/1998,8/10/1998,7/10/1998,3,145.8,Bon app',"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+5766,BADí,5,2/24/1997,5/30/1997,5/4/1997,3,52.2,Pericles Comidas clásicas,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+5767,WATKI,9,5/27/1997,7/2/1997,6/15/1997,1,109.5,LILA-Supermercado,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+5768,PIRAN,2,7/26/1996,9/22/1996,8/25/1996,1,76.1,Lonesome Pine Restaurant,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+5769,VALDE,7,1/31/1997,3/27/1997,2/7/1997,2,115.6,Ernst Handel,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+5770,AKHTA,1,12/2/1996,1/10/1997,12/26/1996,2,4,Romero y tomillo,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+5771,AMAT-,5,3/9/1997,5/15/1997,3/21/1997,3,23.9,Bon app',"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+5772,LöFF,3,7/27/1997,10/7/1997,8/17/1997,2,46.5,Toms Spezialitäten,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+5773,COLOM,1,7/14/1997,8/1/1997,7/16/1997,2,38.3,B's Beverages,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+5774,AMAT-,2,5/23/1997,7/13/1997,7/3/1997,3,23.2,QUICK-Stop,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+5775,SCHIN,2,12/8/1996,2/10/1997,12/18/1996,2,27.1,Split Rail Beer & Ale,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+5776,MáRM,5,5/19/1996,7/9/1996,6/24/1996,3,79.6,QUICK-Stop,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+5777,JäKE,7,11/10/1996,11/21/1996,11/10/1996,2,77.4,Que Delícia,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+5778,SARAB,4,5/20/1997,7/1/1997,5/21/1997,3,96.1,Hungry Owl All-Night Grocers,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+5779,CLARK,5,12/1/1997,1/10/1998,12/2/1997,2,79.6,Reggiani Caseifici,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+5780,AUSTI,2,8/1/1997,9/14/1997,8/6/1997,3,85.9,Que Delícia,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+5781,REY-T,1,10/22/1996,11/20/1996,10/29/1996,1,24.1,QUICK-Stop,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+5782,KNOWL,9,10/19/1997,11/2/1997,10/21/1997,2,41,Hungry Owl All-Night Grocers,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+5783,BADí,5,3/12/1997,3/29/1997,3/16/1997,1,72.8,Lonesome Pine Restaurant,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+5784,BORRE,4,7/2/1997,8/11/1997,7/23/1997,1,57.5,QUICK-Stop,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+5785,FERRA,5,5/19/1996,8/2/1996,6/22/1996,1,96.4,Ricardo Adocicados,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+5786,AKHTA,3,3/27/1998,6/11/1998,5/30/1998,3,149.2,Lonesome Pine Restaurant,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+5787,HOLZA,4,4/27/1997,7/7/1997,6/24/1997,1,120,Die Wandernde Kuh,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+5788,LöFF,4,7/4/1996,9/9/1996,7/13/1996,2,110.1,Vins et alcools Chevalier,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+5789,WHITN,4,5/2/1996,6/24/1996,6/1/1996,2,16.1,Frankenversand,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+5790,MALDO,1,10/13/1997,1/6/1998,11/26/1997,3,54.6,Hanari Carnes,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+5791,BIRNB,2,9/23/1996,11/5/1996,9/28/1996,2,9.1,Bólido Comidas preparadas,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+5792,KELLY,5,1/30/1997,3/30/1997,1/30/1997,1,5,Magazzini Alimentari Riuniti,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+5793,MALDO,5,5/2/1997,6/27/1997,6/5/1997,3,104.4,Island Trading,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+5794,AZNAR,1,11/5/1996,12/11/1996,11/17/1996,2,99.2,Suprêmes délices,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+5795,BEYER,8,3/23/1998,5/22/1998,4/8/1998,2,8,Wartian Herkku,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+5796,JäKE,3,7/9/1997,9/26/1997,7/10/1997,3,103.3,Ricardo Adocicados,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+5797,AUSTI,1,12/28/1996,3/23/1997,2/3/1997,1,49.3,GROSELLA-Restaurante,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+5798,WONG-,7,3/4/1997,4/24/1997,3/10/1997,1,53.2,Ernst Handel,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+5799,LOLLO,1,9/17/1996,10/4/1996,9/23/1996,1,46.1,Hungry Owl All-Night Grocers,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+5800,KELLY,9,3/25/1998,6/26/1998,5/20/1998,3,13.8,Mère Paillarde,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+5801,BRAGA,1,9/21/1997,10/7/1997,9/24/1997,2,138.1,HILARION-Abastos,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+5802,SARAB,9,5/3/1998,7/1/1998,5/3/1998,1,63.9,Frankenversand,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+5803,DAVID,7,9/30/1996,11/14/1996,10/10/1996,3,87.2,Blondel père et fils,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+5804,TROMB,9,7/29/1997,9/25/1997,8/21/1997,3,30.6,Old World Delicatessen,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+5805,COLOM,7,1/20/1998,3/13/1998,2/5/1998,3,102.7,Mère Paillarde,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+5806,DAVIS,9,10/16/1997,1/5/1998,10/23/1997,3,128.7,Frankenversand,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+5807,VALDE,5,6/25/1997,7/26/1997,7/8/1997,3,75.9,Simons bistro,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+5808,AZNAR,8,9/2/1997,11/5/1997,10/13/1997,3,25.9,Hanari Carnes,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+5809,GABBA,1,11/1/1996,1/27/1997,11/1/1996,2,38.1,Ana Trujillo Emparedados y helados,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+5810,PIRAN,4,12/10/1997,3/19/1998,2/7/1998,2,132.3,Island Trading,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+5811,FLYNN,2,3/7/1998,3/17/1998,3/7/1998,2,40,Victuailles en stock,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+5812,LITTL,4,12/9/1996,1/12/1997,12/16/1996,1,128.2,Tortuga Restaurante,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+5813,THOMA,8,6/20/1997,9/1/1997,7/28/1997,1,18.2,Princesa Isabel Vinhos,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+5814,LLOYD,1,4/8/1998,5/29/1998,4/12/1998,2,29.5,Split Rail Beer & Ale,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+5815,KRAME,9,1/22/1997,4/16/1997,3/23/1997,3,64,Ernst Handel,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+5816,WHITE,4,5/6/1998,6/26/1998,5/12/1998,2,45.2,Island Trading,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+5817,ARAUJ,4,4/7/1998,5/25/1998,4/20/1998,1,149.4,Rattlesnake Canyon Grocery,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+5818,LITTL,4,10/28/1997,1/7/1998,12/3/1997,3,108.9,Reggiani Caseifici,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+5819,SALIE,7,6/9/1996,8/19/1996,7/20/1996,3,81.6,Die Wandernde Kuh,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+5820,RICHA,4,6/25/1997,7/10/1997,6/30/1997,1,72.3,Rattlesnake Canyon Grocery,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+5821,SARAB,7,3/7/1998,5/6/1998,4/8/1998,1,59.4,Die Wandernde Kuh,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+5822,PUGH-,5,10/3/1997,11/29/1997,11/5/1997,3,72.1,Island Trading,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+5823,PEDER,2,6/12/1996,8/6/1996,7/27/1996,1,70.9,Hanari Carnes,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+5824,REY-T,7,4/19/1996,6/4/1996,4/27/1996,2,88.5,Bon app',"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+5825,VASQU,3,10/5/1996,10/26/1996,10/9/1996,2,147.9,Morgenstern Gesundkost,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+5826,THOMA,2,7/18/1997,8/21/1997,8/1/1997,2,55.7,Rattlesnake Canyon Grocery,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+5827,WATKI,6,9/6/1996,9/16/1996,9/6/1996,3,113.8,Tortuga Restaurante,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+5828,DAVID,4,4/3/1998,4/25/1998,4/6/1998,1,81.5,Magazzini Alimentari Riuniti,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+5829,ARAUJ,3,6/27/1997,9/21/1997,9/3/1997,3,80.3,Magazzini Alimentari Riuniti,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+5830,CARST,4,8/17/1996,10/22/1996,10/11/1996,1,18.1,Die Wandernde Kuh,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+5831,MEZA ,5,11/8/1997,1/15/1998,11/18/1997,3,56.2,Vins et alcools Chevalier,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+5832,CARUS,6,4/17/1997,7/13/1997,5/12/1997,1,136.1,Königlich Essen,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+5833,BORRE,8,6/18/1997,7/4/1997,6/18/1997,3,27.4,Tortuga Restaurante,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+5834,KNOWL,2,12/23/1996,3/15/1997,1/17/1997,2,90.6,Centro comercial Moctezuma,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+5835,"ROSS,",7,10/26/1997,11/22/1997,11/7/1997,1,147,Furia Bacalhau e Frutos do Mar,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+5836,RONCA,7,6/27/1996,8/3/1996,7/2/1996,1,86.5,Lonesome Pine Restaurant,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+5837,BADí,7,8/5/1997,10/1/1997,8/15/1997,3,149.4,White Clover Markets,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+5838,GABBA,8,4/4/1997,4/27/1997,4/17/1997,3,95.1,Morgenstern Gesundkost,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+5839,THOMA,7,10/12/1997,11/25/1997,10/28/1997,3,88.9,Ricardo Adocicados,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+5840,SWANS,5,8/25/1997,11/3/1997,9/14/1997,2,118.2,Blondel père et fils,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+5841,JIMEN,4,10/20/1996,12/6/1996,11/2/1996,3,104.4,Tortuga Restaurante,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+5842,SALIE,1,6/23/1996,7/24/1996,7/11/1996,3,146.4,Rattlesnake Canyon Grocery,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+5843,DAVID,3,12/26/1996,2/3/1997,1/13/1997,2,122.9,Tortuga Restaurante,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+5844,AUSTI,9,12/18/1996,2/25/1997,1/7/1997,3,120.1,Que Delícia,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+5845,WHITN,5,4/11/1997,6/6/1997,4/29/1997,2,61.8,Hanari Carnes,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+5846,KRAME,8,3/11/1997,4/13/1997,3/13/1997,3,8.8,Lehmanns Marktstand,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+5847,LUCAR,5,2/2/1998,4/1/1998,3/13/1998,2,138.9,Pericles Comidas clásicas,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+5848,WIELO,2,11/8/1996,12/31/1996,12/19/1996,1,41.8,Blondel père et fils,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+5849,BORRE,4,4/1/1997,6/27/1997,4/21/1997,3,35.3,White Clover Markets,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+5850,BADí,3,2/8/1997,4/23/1997,4/12/1997,2,91.1,Tortuga Restaurante,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+5851,STEIN,9,9/4/1996,11/2/1996,10/15/1996,2,11.9,Tortuga Restaurante,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+5852,SCHIN,1,4/13/1996,7/4/1996,4/27/1996,1,20.8,Lonesome Pine Restaurant,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+5853,SPEER,6,12/10/1996,1/29/1997,12/14/1996,3,47.6,Romero y tomillo,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+5854,KRAME,2,2/18/1998,3/25/1998,3/4/1998,1,25.7,LILA-Supermercado,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+5855,HäRI,8,12/31/1996,3/19/1997,3/1/1997,1,108.5,Hanari Carnes,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+5856,AZNAR,4,6/30/1996,7/19/1996,7/6/1996,2,137.6,Suprêmes délices,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+5857,LAMAS,9,5/13/1997,6/15/1997,5/14/1997,3,60.8,Rattlesnake Canyon Grocery,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+5858,ORTOL,8,9/15/1996,12/17/1996,11/2/1996,3,40.1,Chop-suey Chinese,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+5859,"NASH,",1,10/7/1997,11/13/1997,10/21/1997,1,137.6,LILA-Supermercado,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+5860,WIELO,1,12/3/1997,1/6/1998,12/18/1997,3,75.9,Suprêmes délices,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+5861,SCHIN,7,6/5/1996,8/18/1996,6/16/1996,3,49.4,QUICK-Stop,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+5862,CARST,1,8/30/1996,10/18/1996,9/23/1996,2,5,Wartian Herkku,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+5863,LUCAR,6,10/23/1996,1/5/1997,11/4/1996,1,42.5,Tortuga Restaurante,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+5864,"MATA,",4,10/22/1997,11/8/1997,10/26/1997,3,97,Königlich Essen,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+5865,BEYER,9,5/19/1996,6/18/1996,5/31/1996,3,67.9,Comércio Mineiro,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+5866,JäKE,6,1/19/1997,2/26/1997,2/8/1997,3,17.3,0,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+5867,BLüM,6,6/2/1997,8/3/1997,6/8/1997,3,130,Rattlesnake Canyon Grocery,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+5868,DOBSO,4,4/2/1997,5/2/1997,4/2/1997,3,131.4,Die Wandernde Kuh,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+5869,ORTOL,8,4/22/1996,5/10/1996,4/27/1996,2,58.3,Wellington Importadora,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+5870,WAGNE,1,3/13/1997,5/9/1997,4/4/1997,3,14.4,Tortuga Restaurante,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+5871,ORTOL,3,10/18/1997,12/7/1997,11/9/1997,3,39.8,Folk och fä HB,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+5872,AMAT-,5,2/4/1997,3/22/1997,3/9/1997,3,35.6,Que Delícia,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+5873,CARUS,7,12/5/1996,2/26/1997,2/2/1997,1,101.2,Centro comercial Moctezuma,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+5874,WATKI,4,2/23/1998,3/20/1998,3/2/1998,1,130.3,Lehmanns Marktstand,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+5875,ANTON,9,12/25/1997,2/5/1998,12/25/1997,3,108,Toms Spezialitäten,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+5876,COLOM,5,5/21/1996,6/6/1996,5/22/1996,3,99.8,Rattlesnake Canyon Grocery,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+5877,KNOWL,8,5/18/1996,7/8/1996,5/28/1996,1,24.6,Folk och fä HB,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+5878,GIBSO,8,6/11/1997,7/12/1997,6/14/1997,3,133.4,QUICK-Stop,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+5879,RONCA,1,7/13/1997,7/28/1997,7/14/1997,2,12.7,Hungry Owl All-Night Grocers,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+5880,VASQU,9,8/12/1996,9/16/1996,9/4/1996,1,56.3,Königlich Essen,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+5881,BAGGI,1,1/22/1997,4/2/1997,3/9/1997,1,17.1,Island Trading,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+5882,JONES,7,4/9/1998,7/5/1998,4/18/1998,3,114.8,Frankenversand,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+5883,LöFF,1,10/16/1997,11/27/1997,11/12/1997,3,69.2,Die Wandernde Kuh,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+5884,WALSH,2,7/18/1997,8/23/1997,8/4/1997,2,138.9,Suprêmes délices,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+5885,WIELO,8,8/4/1996,10/25/1996,9/14/1996,2,126.7,Vins et alcools Chevalier,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+5886,MARTI,9,3/23/1997,4/4/1997,3/23/1997,2,114.2,Comércio Mineiro,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+5887,WHITE,5,2/4/1997,2/25/1997,2/10/1997,1,80.5,Berglunds snabbköp,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+5888,FERRA,2,10/2/1997,10/16/1997,10/2/1997,3,97.9,Du monde entier,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+5889,BLüM,3,5/18/1996,7/8/1996,6/6/1996,1,121.1,Ernst Handel,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+5890,BORRE,2,11/19/1997,12/29/1997,12/11/1997,1,106.7,Ernst Handel,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+5891,SMITH,5,11/5/1997,12/5/1997,11/15/1997,1,33.9,Rattlesnake Canyon Grocery,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+5892,PIRAN,3,4/16/1997,5/8/1997,4/26/1997,1,1.6,Frankenversand,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+5893,WHITE,8,1/25/1998,3/11/1998,1/27/1998,1,24.2,Mère Paillarde,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+5894,MEZA ,6,5/8/1997,5/31/1997,5/15/1997,3,3,Split Rail Beer & Ale,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+5895,CANTE,6,11/27/1996,2/15/1997,12/29/1996,3,146.2,Frankenversand,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+5896,AMAT-,6,3/29/1998,6/12/1998,4/11/1998,1,120.5,Wellington Importadora,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+5897,TRUBI,9,9/24/1997,11/1/1997,10/5/1997,3,54.7,Suprêmes délices,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+5898,THOMA,7,5/7/1996,7/18/1996,6/19/1996,2,99.2,Suprêmes délices,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+5899,MERIS,4,12/31/1996,2/17/1997,1/31/1997,3,102.7,Ernst Handel,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+5900,WALSH,2,3/4/1997,3/17/1997,3/4/1997,3,144,Split Rail Beer & Ale,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+5901,BARES,8,8/16/1997,9/4/1997,8/25/1997,1,24.8,Magazzini Alimentari Riuniti,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+5902,KRAME,7,9/30/1997,12/13/1997,10/20/1997,2,145.3,Furia Bacalhau e Frutos do Mar,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+5903,TRUBI,7,7/20/1997,8/29/1997,7/21/1997,3,114.4,Tradiçao Hipermercados,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+5904,DAVIS,5,6/5/1997,6/20/1997,6/5/1997,2,16.8,Lehmanns Marktstand,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+5905,ARAUJ,4,5/25/1996,7/17/1996,6/28/1996,2,13.8,Suprêmes délices,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+5906,WIELO,7,10/2/1997,10/29/1997,10/7/1997,1,13.5,Ernst Handel,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+5907,ADKIN,5,5/7/1996,7/1/1996,6/6/1996,1,7.8,Mère Paillarde,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+5908,FERRA,4,2/1/1997,4/29/1997,3/24/1997,3,39.6,LILA-Supermercado,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+5909,DAVID,2,6/16/1997,8/27/1997,8/12/1997,2,107.9,Frankenversand,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+5910,WAGNE,7,9/1/1996,10/22/1996,10/5/1996,1,11.9,LILA-Supermercado,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+5911,ANTON,8,10/7/1997,12/10/1997,10/16/1997,2,12.4,QUICK-Stop,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+5912,DOBSO,4,3/31/1997,4/12/1997,3/31/1997,3,96.8,Blondel père et fils,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+5913,VALDE,7,1/11/1997,3/20/1997,2/1/1997,2,100.7,Hungry Owl All-Night Grocers,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+5914,PIRAN,5,7/9/1997,8/7/1997,7/12/1997,1,140.1,Ricardo Adocicados,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+5915,PEDER,3,6/16/1996,7/2/1996,6/22/1996,2,1.4,Wartian Herkku,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+5916,WHITN,9,2/25/1997,5/22/1997,5/6/1997,2,55.9,Romero y tomillo,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+5917,KARZ ,5,2/10/1997,4/6/1997,3/8/1997,1,95.5,Island Trading,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+5918,MáRM,1,10/13/1996,12/19/1996,11/5/1996,2,143,QUICK-Stop,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+5919,JäKE,7,9/10/1996,10/17/1996,10/7/1996,1,40.8,Suprêmes délices,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+5920,PROCA,2,12/11/1997,3/4/1998,1/3/1998,3,66.9,Lehmanns Marktstand,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+5921,AUSTI,4,4/23/1998,6/18/1998,5/20/1998,3,64.3,Wartian Herkku,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+5922,BORRE,4,5/20/1997,7/24/1997,7/7/1997,2,49.6,Ricardo Adocicados,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+5923,AMAT-,7,7/31/1997,11/3/1997,8/29/1997,2,42.2,Blondel père et fils,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+5924,DOBSO,6,1/26/1997,4/19/1997,3/12/1997,1,128.4,Hanari Carnes,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+5925,MARTI,8,8/28/1997,9/14/1997,8/31/1997,3,118,Hungry Owl All-Night Grocers,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+5926,GáRA,4,5/13/1996,6/23/1996,5/26/1996,1,126.7,Island Trading,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+5927,ELLIS,9,4/29/1996,7/7/1996,6/20/1996,2,122.2,Comércio Mineiro,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+5928,RICHA,2,5/9/1997,6/18/1997,6/7/1997,3,132.5,Hungry Owl All-Night Grocers,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+5929,CANTE,7,2/20/1998,5/24/1998,3/7/1998,1,127.5,Mère Paillarde,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+5930,WALSH,2,12/29/1997,1/12/1998,1/2/1998,1,50.3,Wartian Herkku,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+5931,HUNTE,4,12/23/1996,3/17/1997,2/22/1997,1,41.7,Rattlesnake Canyon Grocery,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+5932,"MATA,",2,5/21/1997,8/17/1997,6/29/1997,3,50.2,Königlich Essen,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+5933,SALIE,1,11/16/1996,12/29/1996,12/11/1996,3,115.5,Island Trading,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+5934,ARIñ,7,7/27/1997,9/3/1997,8/20/1997,3,122.7,Lehmanns Marktstand,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+5935,EDWAR,4,1/1/1997,4/10/1997,2/20/1997,2,115.8,Furia Bacalhau e Frutos do Mar,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+5936,AKHTA,8,10/15/1996,10/27/1996,10/17/1996,2,32.9,Romero y tomillo,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+5937,BEYER,9,12/25/1996,3/26/1997,2/8/1997,3,127.6,Reggiani Caseifici,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+5938,CAMPB,1,11/30/1997,3/5/1998,2/7/1998,1,88.2,White Clover Markets,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+5939,BADí,4,4/12/1998,5/20/1998,4/15/1998,3,80.7,LILA-Supermercado,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+5940,KENT ,2,7/8/1996,8/25/1996,7/15/1996,2,16.2,Die Wandernde Kuh,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+5941,JONES,2,7/10/1997,9/2/1997,7/22/1997,2,137.9,Ernst Handel,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+5942,BARIL,9,6/15/1997,7/29/1997,7/10/1997,2,27.2,Rattlesnake Canyon Grocery,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+5943,LUCAR,4,6/4/1997,8/12/1997,7/2/1997,3,130.8,Blondel père et fils,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+5944,BARES,8,6/29/1997,10/2/1997,8/1/1997,3,78.5,Folk och fä HB,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+5945,MáRM,8,12/29/1997,1/25/1998,1/4/1998,2,104,Victuailles en stock,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+5946,ARAUJ,6,7/24/1996,8/14/1996,8/3/1996,2,11.5,Lehmanns Marktstand,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+5947,PANIC,2,3/27/1997,7/4/1997,6/23/1997,1,71.6,Ernst Handel,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+5948,CAMPB,8,10/19/1996,12/4/1996,11/17/1996,3,53.7,Tortuga Restaurante,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+5949,COLOM,2,11/5/1996,1/13/1997,1/3/1997,1,28.6,Que Delícia,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+5950,PIRAN,6,12/30/1996,1/25/1997,1/7/1997,3,15.4,Die Wandernde Kuh,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+5951,BEYER,1,6/22/1997,9/13/1997,7/15/1997,2,37.5,Tortuga Restaurante,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+5952,AZNAR,8,10/23/1997,11/12/1997,11/2/1997,2,72.2,Ricardo Adocicados,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+5953,THOMA,9,1/1/1998,2/2/1998,1/23/1998,1,88.3,Königlich Essen,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+5954,ELLIS,8,6/21/1996,9/8/1996,7/15/1996,1,141.6,Lehmanns Marktstand,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+5955,BEYER,6,3/10/1997,5/2/1997,4/12/1997,2,144.2,Split Rail Beer & Ale,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+5956,LITTL,6,12/29/1996,3/24/1997,12/31/1996,3,66,Victuailles en stock,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+5957,BRAGA,8,3/21/1998,5/23/1998,3/22/1998,3,113.6,Victuailles en stock,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+5958,WHITE,1,8/8/1997,8/22/1997,8/9/1997,3,37.2,Reggiani Caseifici,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+5959,VALDE,3,4/21/1997,6/22/1997,4/29/1997,3,63.9,Hungry Owl All-Night Grocers,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+5960,PUGH-,2,12/31/1996,2/9/1997,1/18/1997,3,56.3,Berglunds snabbköp,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+5961,KELLY,6,4/28/1996,6/27/1996,5/9/1996,1,92.5,Blondel père et fils,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+5962,"ROSS,",5,7/17/1997,9/10/1997,8/3/1997,2,29.2,Hanari Carnes,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+5963,AMAT-,2,11/11/1997,2/10/1998,1/11/1998,2,101.5,Ernst Handel,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+5964,BRAGA,5,4/28/1997,7/16/1997,6/16/1997,1,34,Berglunds snabbköp,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+5965,WONG-,3,5/2/1996,6/9/1996,5/24/1996,2,101.8,Split Rail Beer & Ale,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+5966,DAVIS,3,12/23/1997,2/1/1998,1/22/1998,3,40.8,LILA-Supermercado,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+5967,SARAB,8,8/30/1996,10/14/1996,9/5/1996,2,50.5,Richter Supermarkt,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+5968,GABBA,7,4/24/1998,6/4/1998,4/28/1998,3,98.4,Mère Paillarde,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+5969,MARTI,6,7/15/1996,8/25/1996,8/6/1996,2,69,Frankenversand,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+5970,RICHA,8,11/11/1997,12/27/1997,12/4/1997,2,86.7,HILARION-Abastos,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+5971,FLYNN,3,1/18/1998,3/11/1998,1/18/1998,1,51.8,Wartian Herkku,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+5972,LUCAR,8,7/17/1996,8/3/1996,7/18/1996,3,17.3,Split Rail Beer & Ale,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+5973,REY-T,8,8/4/1996,9/10/1996,8/17/1996,1,111.5,Blondel père et fils,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+5974,MALDO,6,6/30/1996,9/22/1996,7/7/1996,1,94,Save-a-lot Markets,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+5975,AMAT-,5,10/11/1997,12/30/1997,10/26/1997,2,86.5,Wartian Herkku,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+5976,LAMAS,2,12/27/1997,2/3/1998,1/21/1998,2,96.6,0,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+5977,WATKI,9,7/27/1997,10/14/1997,8/29/1997,2,97.2,Vins et alcools Chevalier,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+5978,LAMAS,2,1/18/1998,4/9/1998,1/22/1998,2,96.7,Richter Supermarkt,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+5979,BLüM,3,1/15/1997,4/8/1997,3/28/1997,2,101.8,Island Trading,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+5980,HUNTE,9,1/25/1997,3/27/1997,2/24/1997,2,56.4,Bólido Comidas preparadas,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+5981,CLARK,1,3/31/1998,5/14/1998,4/6/1998,3,141,Berglunds snabbköp,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+5982,PANIC,3,2/15/1997,5/7/1997,4/19/1997,1,125.2,Lehmanns Marktstand,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+5983,CRANE,3,10/30/1997,12/4/1997,11/13/1997,1,30.8,Vins et alcools Chevalier,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+5984,KENT ,1,10/6/1997,10/18/1997,10/8/1997,1,143.5,Königlich Essen,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+5985,AUSTI,3,10/15/1997,1/11/1998,12/24/1997,2,1.3,Lonesome Pine Restaurant,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+5986,HOLZA,7,11/22/1997,1/2/1998,11/29/1997,2,101.1,Ana Trujillo Emparedados y helados,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+5987,BRAGA,6,1/22/1997,2/27/1997,2/3/1997,3,116.6,Rattlesnake Canyon Grocery,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+5988,CARST,5,8/12/1996,10/27/1996,8/16/1996,1,139.7,Ernst Handel,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+5989,WHITE,2,3/6/1997,4/15/1997,3/10/1997,3,43.6,Königlich Essen,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+5990,JIMEN,6,9/11/1997,11/10/1997,9/15/1997,1,35.3,Hungry Owl All-Night Grocers,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+5991,SMITH,1,8/3/1996,11/10/1996,10/4/1996,1,82.3,Island Trading,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+5992,GIBSO,7,7/24/1997,8/13/1997,7/26/1997,1,55.7,QUICK-Stop,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+5993,BRAGA,5,4/14/1997,5/28/1997,4/23/1997,1,144.5,Rattlesnake Canyon Grocery,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+5994,JIMEN,9,12/20/1997,2/15/1998,1/7/1998,2,100,Que Delícia,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+5995,MERIS,9,5/20/1996,6/23/1996,6/13/1996,1,62.3,Mère Paillarde,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+5996,LITTL,8,2/1/1998,2/16/1998,2/2/1998,1,111.6,Bólido Comidas preparadas,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+5997,GOMIL,3,10/29/1997,12/14/1997,11/21/1997,2,82.1,Ana Trujillo Emparedados y helados,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+5998,HANDE,1,9/25/1997,11/6/1997,9/26/1997,1,48.6,Rattlesnake Canyon Grocery,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+5999,ORTOL,3,1/31/1998,3/14/1998,1/31/1998,2,32.2,Königlich Essen,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+6000,CANTE,4,1/25/1998,3/18/1998,1/27/1998,2,99.7,Tortuga Restaurante,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+6001,"ROSS,",4,8/4/1997,11/9/1997,9/11/1997,2,6.6,Pericles Comidas clásicas,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+6002,WAGNE,8,3/20/1998,5/12/1998,4/2/1998,3,36.8,Hungry Owl All-Night Grocers,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+6003,KENT ,8,12/26/1996,3/3/1997,2/1/1997,3,83.3,Bólido Comidas preparadas,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+6004,HäRI,3,6/10/1996,7/14/1996,6/26/1996,3,120.4,Old World Delicatessen,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+6005,MARTI,6,3/20/1997,5/31/1997,4/15/1997,2,1.1,LILA-Supermercado,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+6006,REY-T,2,4/19/1998,6/9/1998,5/16/1998,3,81.1,Lonesome Pine Restaurant,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+6007,BRAGA,6,2/26/1997,3/21/1997,2/28/1997,2,44.4,Mère Paillarde,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+6008,JIMEN,1,4/26/1998,7/14/1998,6/15/1998,3,129.5,Ana Trujillo Emparedados y helados,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+6009,"ROSS,",3,4/26/1997,6/19/1997,5/20/1997,2,94.9,Magazzini Alimentari Riuniti,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+6010,AKHTA,8,2/8/1997,2/24/1997,2/14/1997,3,124.4,Ernst Handel,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+6011,PANIC,5,6/20/1997,8/9/1997,7/14/1997,1,80.6,Ricardo Adocicados,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+6012,AMAT-,2,2/25/1997,4/20/1997,3/24/1997,1,34,Rattlesnake Canyon Grocery,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+6013,CRANE,7,12/25/1997,3/17/1998,12/26/1997,2,118.4,Frankenversand,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+6014,ADKIN,5,2/4/1997,2/28/1997,2/9/1997,3,42.8,Lonesome Pine Restaurant,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+6015,CANTE,6,6/6/1996,7/16/1996,6/28/1996,3,121.3,Tortuga Restaurante,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+6016,ELLIS,4,2/22/1997,5/18/1997,3/4/1997,3,148.6,Die Wandernde Kuh,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+6017,SPEER,9,1/20/1998,3/20/1998,2/4/1998,2,139.6,Que Delícia,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+6018,MALDO,3,4/30/1997,5/22/1997,5/10/1997,3,7.8,Berglunds snabbköp,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+6019,BARIL,4,5/6/1996,7/9/1996,5/13/1996,3,2.4,Hanari Carnes,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+6020,WHITE,7,9/18/1996,12/27/1996,9/20/1996,3,47.9,White Clover Markets,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+6021,WIELO,7,8/5/1997,11/1/1997,10/2/1997,2,51.2,Toms Spezialitäten,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+6022,SWANS,3,6/25/1996,8/30/1996,8/15/1996,2,97.6,Tortuga Restaurante,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+6023,WATKI,9,5/15/1997,7/7/1997,6/13/1997,3,37.3,Old World Delicatessen,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+6024,KELLY,6,7/25/1996,9/2/1996,8/6/1996,2,17.2,Tortuga Restaurante,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+6025,SPEER,9,8/26/1997,10/23/1997,10/9/1997,2,49.9,Hanari Carnes,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+6026,ADKIN,6,5/30/1996,6/14/1996,6/3/1996,2,87.1,Rattlesnake Canyon Grocery,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+6027,DAVIS,3,5/2/1998,7/21/1998,5/5/1998,1,9,Suprêmes délices,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+6028,SWANS,4,8/9/1996,9/17/1996,8/24/1996,1,146.6,Wartian Herkku,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+6029,KRAME,2,8/13/1996,11/21/1996,8/29/1996,1,143.6,Morgenstern Gesundkost,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+6030,GáRA,2,12/9/1996,2/10/1997,1/23/1997,3,26.8,Frankenversand,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+6031,LITTL,5,1/8/1998,3/26/1998,1/27/1998,2,67.4,Victuailles en stock,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+6032,RICHA,4,8/19/1996,10/18/1996,9/17/1996,3,14.1,Bon app',"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+6033,DOBSO,1,3/29/1997,6/25/1997,5/28/1997,1,143.6,Wellington Importadora,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+6034,WIELO,7,4/14/1996,5/31/1996,4/20/1996,1,147.3,Hanari Carnes,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+6035,GIBSO,4,11/24/1996,12/16/1996,11/24/1996,1,2.7,Richter Supermarkt,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+6036,EDWAR,7,6/4/1996,8/10/1996,7/18/1996,2,44.5,Rattlesnake Canyon Grocery,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+6037,BARES,2,10/1/1996,11/25/1996,10/6/1996,1,11.8,Split Rail Beer & Ale,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+6038,PROCA,3,4/28/1997,6/16/1997,6/4/1997,2,144.2,Ernst Handel,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+6039,SPEER,6,3/24/1997,6/23/1997,4/19/1997,2,107,The Big Cheese,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+6040,TRUBI,9,1/22/1997,4/25/1997,4/15/1997,1,133.4,QUICK-Stop,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+6041,KNOWL,2,5/14/1996,6/10/1996,5/27/1996,3,40.7,Lehmanns Marktstand,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+6042,GIBSO,7,7/14/1997,9/25/1997,7/22/1997,3,141.4,0,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+6043,BARIL,6,5/30/1996,8/9/1996,7/9/1996,3,143.4,Ernst Handel,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+6044,BIRNB,5,11/7/1996,12/15/1996,11/16/1996,2,49.6,Save-a-lot Markets,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+6045,LAMAS,5,4/16/1996,5/23/1996,4/17/1996,1,59.9,Ottilies Käseladen,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+6046,HOLZA,2,10/2/1996,10/14/1996,10/2/1996,1,103.9,Lonesome Pine Restaurant,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+6047,PROCA,3,3/26/1997,5/5/1997,3/28/1997,1,22.2,Island Trading,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+6048,MERIS,1,12/21/1996,3/19/1997,2/20/1997,3,21.3,LILA-Supermercado,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+6049,HANDE,1,4/6/1998,6/30/1998,6/14/1998,1,20.9,Tradiçao Hipermercados,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+6050,AMAT-,9,10/26/1996,1/31/1997,11/10/1996,1,77.4,Berglunds snabbköp,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+6051,HANDE,9,5/2/1996,6/9/1996,5/13/1996,2,1.4,Romero y tomillo,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+6052,ARAUJ,9,7/22/1997,10/3/1997,8/17/1997,1,102.1,Frankenversand,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+6053,PROCA,5,9/29/1996,10/23/1996,10/10/1996,2,124.1,Wartian Herkku,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+6054,LUCAR,6,2/8/1997,5/15/1997,4/3/1997,2,3.7,Toms Spezialitäten,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+6055,AMAT-,4,10/9/1996,11/16/1996,10/22/1996,2,26.7,Magazzini Alimentari Riuniti,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+6056,MERIS,1,11/20/1996,2/22/1997,2/7/1997,1,66.6,Romero y tomillo,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+6057,DAVIS,6,4/18/1996,5/22/1996,5/5/1996,1,76.9,Blondel père et fils,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+6058,WIELO,4,4/26/1997,7/19/1997,5/31/1997,2,103.9,Centro comercial Moctezuma,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+6059,FLYNN,5,12/2/1997,3/1/1998,1/4/1998,3,127.3,Island Trading,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+6060,BADí,2,3/21/1998,5/29/1998,3/23/1998,2,86.1,Que Delícia,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+6061,MALDO,1,5/23/1996,7/1/1996,6/17/1996,1,119.3,Island Trading,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+6062,JONES,4,7/21/1996,8/12/1996,7/27/1996,2,115.2,Toms Spezialitäten,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+6063,PANIC,5,2/11/1998,4/8/1998,3/12/1998,2,8.7,Wartian Herkku,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+6064,TRUBI,4,8/21/1996,11/15/1996,10/8/1996,1,8.7,Berglunds snabbköp,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+6065,SANCH,5,6/7/1996,8/13/1996,6/29/1996,2,120.4,Rattlesnake Canyon Grocery,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+6066,TRUBI,9,8/5/1996,9/29/1996,8/6/1996,2,129.9,LILA-Supermercado,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+6067,PANIC,6,1/14/1997,4/5/1997,3/23/1997,3,134,Rattlesnake Canyon Grocery,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+6068,DAVID,4,12/13/1996,2/17/1997,12/22/1996,1,118,Hungry Owl All-Night Grocers,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+6069,HOLZA,5,10/2/1997,12/27/1997,12/15/1997,2,135.5,Rattlesnake Canyon Grocery,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+6070,LLOYD,7,4/28/1998,6/3/1998,5/19/1998,1,116.1,Frankenversand,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+6071,SALIE,1,4/9/1996,6/22/1996,5/2/1996,3,105.9,Mère Paillarde,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+6072,FLYNN,3,5/25/1997,7/16/1997,6/19/1997,2,76,Romero y tomillo,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+6073,LAMAS,6,12/2/1996,12/15/1996,12/2/1996,2,12.3,Hungry Owl All-Night Grocers,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+6074,VALDE,3,11/10/1996,1/21/1997,12/24/1996,3,94.8,Ottilies Käseladen,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+6075,AMAT-,5,1/3/1998,2/1/1998,1/9/1998,3,149.6,Wartian Herkku,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+6076,BEYER,3,11/20/1997,1/22/1998,11/28/1997,3,123.1,Ricardo Adocicados,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+6077,DAVIS,2,6/22/1996,8/30/1996,8/6/1996,1,73.5,Magazzini Alimentari Riuniti,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+6078,JONES,1,11/24/1996,2/17/1997,12/27/1996,1,126,Comércio Mineiro,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+6079,FERRA,9,3/19/1998,4/2/1998,3/23/1998,3,56.8,Suprêmes délices,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+6080,ARIñ,8,9/1/1997,12/7/1997,10/1/1997,3,148.6,QUICK-Stop,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+6081,AZNAR,8,10/20/1996,1/2/1997,12/9/1996,2,73.4,Suprêmes délices,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+6082,CANTE,3,7/7/1996,8/31/1996,7/30/1996,3,148.8,Furia Bacalhau e Frutos do Mar,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+6083,LAMAS,7,3/31/1998,6/15/1998,5/17/1998,3,51.3,Du monde entier,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+6084,KNOWL,8,4/12/1997,7/15/1997,6/13/1997,1,101.3,Romero y tomillo,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+6085,BADí,5,4/7/1996,4/17/1996,4/7/1996,3,40.7,Lehmanns Marktstand,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+6086,ELLIS,1,3/2/1997,6/8/1997,3/14/1997,1,17.9,Vins et alcools Chevalier,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+6087,LOLLO,8,8/9/1997,8/31/1997,8/21/1997,3,107.5,Mère Paillarde,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+6088,TROMB,7,4/10/1997,7/1/1997,6/15/1997,1,86,Bon app',"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+6089,KELLY,6,8/3/1996,10/29/1996,8/6/1996,1,11.7,Richter Supermarkt,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+6090,VASQU,3,3/7/1997,5/20/1997,3/17/1997,3,1.1,Split Rail Beer & Ale,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+6091,SPEER,6,1/11/1998,3/24/1998,2/26/1998,1,64.7,Ottilies Käseladen,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+6092,BADí,3,12/19/1997,2/12/1998,1/19/1998,1,22.3,Chop-suey Chinese,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+6093,SMITH,4,7/3/1997,9/20/1997,7/11/1997,2,149.4,White Clover Markets,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+6094,LUCAR,5,8/6/1996,8/23/1996,8/9/1996,1,108.5,Romero y tomillo,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+6095,ORTOL,8,2/13/1998,4/25/1998,2/16/1998,2,104.8,Hanari Carnes,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+6096,LUCAR,5,7/29/1996,9/16/1996,8/19/1996,1,135.9,Bon app',"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+6097,PEDER,1,7/10/1997,8/8/1997,7/13/1997,1,126.1,Folk och fä HB,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+6098,CANTE,2,8/5/1997,9/20/1997,8/12/1997,2,75.5,Vins et alcools Chevalier,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+6099,KELLY,6,10/11/1996,12/27/1996,11/17/1996,2,126.5,Frankenversand,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+6100,KRAME,2,3/11/1997,6/19/1997,5/10/1997,1,138,White Clover Markets,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+6101,VASQU,6,4/1/1997,6/7/1997,5/15/1997,3,71.7,QUICK-Stop,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+6102,CARST,3,10/3/1996,1/11/1997,10/26/1996,1,47.5,The Big Cheese,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+6103,TROMB,5,1/17/1997,3/12/1997,2/19/1997,3,103.3,Ricardo Adocicados,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+6104,PUGH-,5,9/11/1997,12/1/1997,11/10/1997,2,11.8,Split Rail Beer & Ale,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+6105,CLARK,6,9/13/1997,11/27/1997,11/3/1997,1,10.3,Romero y tomillo,"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+6106,MáRM,3,1/29/1997,4/6/1997,2/26/1997,2,133.9,QUICK-Stop,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+6107,REY-T,9,12/3/1997,1/26/1998,12/3/1997,1,75.7,QUICK-Stop,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+6108,CANTE,9,5/9/1996,6/12/1996,5/21/1996,1,84.6,LILA-Supermercado,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+6109,WALSH,4,3/13/1997,3/25/1997,3/13/1997,1,59.9,Tortuga Restaurante,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+6110,AKHTA,2,11/9/1996,1/7/1997,12/7/1996,1,29.3,The Big Cheese,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+6111,DAVIS,3,11/5/1996,1/13/1997,11/13/1996,3,30.8,Furia Bacalhau e Frutos do Mar,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+6112,REY-T,1,8/18/1996,9/26/1996,9/5/1996,1,101.9,Blondel père et fils,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+6113,MEZA ,8,3/7/1997,5/16/1997,3/13/1997,3,89.6,Ricardo Adocicados,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+6114,AZNAR,1,1/29/1997,2/23/1997,1/31/1997,3,20.8,Split Rail Beer & Ale,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+6115,MALDO,1,10/2/1996,12/20/1996,12/5/1996,3,112,Vins et alcools Chevalier,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+6116,GáRA,8,5/7/1996,6/25/1996,6/9/1996,2,80.1,Lonesome Pine Restaurant,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+6117,FLYNN,4,2/6/1997,5/7/1997,4/25/1997,2,133,Romero y tomillo,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+6118,KARZ ,8,3/28/1998,7/6/1998,4/17/1998,3,98.7,Que Delícia,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+6119,TROMB,9,7/27/1996,10/13/1996,7/27/1996,2,55.1,Morgenstern Gesundkost,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+6120,BRAGA,6,3/6/1997,6/12/1997,3/22/1997,3,35.6,Victuailles en stock,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+6121,CARST,2,2/21/1997,4/28/1997,3/11/1997,1,38.3,Old World Delicatessen,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+6122,CANTE,4,10/16/1996,11/26/1996,10/24/1996,1,25.6,Toms Spezialitäten,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+6123,SALIE,6,4/12/1998,6/23/1998,5/14/1998,2,35.8,Hanari Carnes,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+6124,PEDER,2,10/7/1997,12/8/1997,10/31/1997,1,66.7,LILA-Supermercado,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+6125,ANTON,7,11/18/1997,12/6/1997,11/21/1997,3,17,Folk och fä HB,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+6126,MERIS,1,9/28/1996,11/8/1996,10/8/1996,2,124,Magazzini Alimentari Riuniti,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+6127,RICHA,3,5/30/1996,6/22/1996,6/8/1996,3,83.2,Hanari Carnes,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+6128,LAMAS,7,9/1/1996,10/24/1996,10/9/1996,1,72.9,Frankenversand,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+6129,"ROSS,",7,1/11/1997,3/14/1997,1/16/1997,3,47.9,Rattlesnake Canyon Grocery,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+6130,CAMPB,5,10/14/1996,1/1/1997,12/2/1996,3,83.1,Old World Delicatessen,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+6131,LOLLO,7,4/13/1996,7/17/1996,4/22/1996,2,131,Wellington Importadora,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+6132,ARAUJ,5,7/23/1996,8/5/1996,7/25/1996,3,16.6,Hanari Carnes,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+6133,EDWAR,7,1/30/1997,3/18/1997,3/1/1997,1,12.5,Comércio Mineiro,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+6134,BRAGA,2,11/13/1996,12/24/1996,11/17/1996,3,47.5,QUICK-Stop,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+6135,KELLY,6,9/13/1996,12/21/1996,10/29/1996,1,4.6,HILARION-Abastos,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+6136,KARZ ,6,2/18/1998,3/5/1998,2/18/1998,2,117.4,Richter Supermarkt,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+6137,KENT ,4,6/24/1997,9/20/1997,8/26/1997,2,142.3,Reggiani Caseifici,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+6138,MEZA ,1,6/4/1997,7/21/1997,6/15/1997,2,130,Island Trading,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+6139,SCHIN,3,6/11/1997,7/12/1997,6/23/1997,1,64.9,QUICK-Stop,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+6140,KNOWL,9,11/11/1997,12/21/1997,11/19/1997,2,9.4,Romero y tomillo,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+6141,WALSH,5,6/29/1996,8/23/1996,7/14/1996,2,128.9,Ricardo Adocicados,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+6142,ORTOL,8,10/31/1996,12/14/1996,11/8/1996,2,13.7,Tortuga Restaurante,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+6143,CANTE,3,12/2/1997,1/22/1998,12/20/1997,1,65.4,0,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+6144,VASQU,9,12/23/1997,1/22/1998,1/7/1998,2,118.1,Magazzini Alimentari Riuniti,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+6145,"MATA,",6,10/18/1997,11/26/1997,11/2/1997,1,64.4,Magazzini Alimentari Riuniti,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+6146,SPEER,3,5/10/1996,7/25/1996,5/13/1996,3,18.1,Magazzini Alimentari Riuniti,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+6147,GáRA,8,3/15/1998,4/26/1998,3/18/1998,2,98.6,Tortuga Restaurante,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+6148,"ROSS,",2,9/1/1997,11/3/1997,10/2/1997,1,96,Bólido Comidas preparadas,"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+6149,HäRI,1,9/29/1997,10/26/1997,10/3/1997,3,145.6,Vins et alcools Chevalier,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+6150,LAMAS,2,12/6/1997,12/25/1997,12/10/1997,3,53.9,Ottilies Käseladen,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+6151,SWANS,1,5/10/1997,6/17/1997,5/17/1997,1,11.4,Frankenversand,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+6152,BADí,4,4/19/1998,7/1/1998,5/24/1998,3,15.7,QUICK-Stop,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+6153,EDWAR,3,11/25/1996,2/19/1997,1/10/1997,3,137.1,Mère Paillarde,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+6154,LöFF,6,11/9/1996,2/2/1997,1/23/1997,3,127.3,Ana Trujillo Emparedados y helados,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+6155,COLOM,5,11/4/1997,12/28/1997,12/8/1997,1,21.9,Folk och fä HB,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+6156,DAVID,8,7/21/1996,9/7/1996,8/12/1996,2,138.7,Tortuga Restaurante,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+6157,LOLLO,6,11/12/1997,1/3/1998,12/18/1997,2,105.3,Königlich Essen,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+6158,LOLLO,9,9/29/1996,11/12/1996,11/1/1996,2,147.1,Lonesome Pine Restaurant,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+6159,WONG-,7,5/25/1997,8/20/1997,8/6/1997,3,38.6,QUICK-Stop,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+6160,DAVID,3,7/24/1996,9/12/1996,8/17/1996,3,4.9,Split Rail Beer & Ale,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+6161,KELLY,8,6/25/1996,9/18/1996,8/6/1996,2,125,Blondel père et fils,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+6162,SMITH,4,1/24/1997,3/9/1997,2/4/1997,2,101.1,Königlich Essen,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+6163,BARIL,9,5/17/1996,7/4/1996,6/3/1996,3,116.9,Lonesome Pine Restaurant,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+6164,WONG-,7,11/23/1996,2/20/1997,1/18/1997,3,40,Du monde entier,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+6165,BOYLE,8,5/29/1997,7/6/1997,6/26/1997,3,44.5,Blondel père et fils,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+6166,CERD�,8,4/2/1998,4/24/1998,4/5/1998,3,29.2,Que Delícia,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+6167,WONG-,3,8/25/1997,10/26/1997,9/29/1997,3,23,Godos Cocina Típica,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+6168,THOMA,7,6/26/1996,9/20/1996,8/27/1996,1,6.7,Rattlesnake Canyon Grocery,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+6169,ORTOL,7,4/26/1998,7/24/1998,5/18/1998,2,147.4,Lonesome Pine Restaurant,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+6170,VALDE,4,6/29/1996,8/19/1996,7/10/1996,2,10.1,Morgenstern Gesundkost,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+6171,VASQU,2,7/29/1997,9/8/1997,7/29/1997,3,35.9,Tradiçao Hipermercados,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+6172,ADKIN,4,7/8/1996,8/21/1996,7/15/1996,2,30.2,Rattlesnake Canyon Grocery,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+6173,JäKE,4,9/3/1996,11/20/1996,9/6/1996,3,37.2,Hungry Owl All-Night Grocers,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+6174,BORRE,4,4/27/1997,7/30/1997,5/13/1997,3,123,Island Trading,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+6175,KNOWL,3,6/10/1996,8/4/1996,7/15/1996,2,10,Comércio Mineiro,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+6176,MALDO,3,10/28/1997,1/8/1998,12/6/1997,3,111.5,Hungry Owl All-Night Grocers,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+6177,GABBA,9,8/1/1997,9/2/1997,8/17/1997,3,135,Hungry Owl All-Night Grocers,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+6178,KELLY,5,12/1/1997,3/4/1998,12/26/1997,2,132.5,LILA-Supermercado,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+6179,HOLZA,6,6/12/1997,8/4/1997,7/25/1997,1,8.7,QUICK-Stop,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+6180,KELLY,7,9/12/1997,10/2/1997,9/18/1997,1,41.8,Tortuga Restaurante,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+6181,AMAT-,4,4/27/1996,5/23/1996,5/11/1996,2,60.1,Island Trading,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+6182,SANCH,2,2/20/1997,5/9/1997,4/23/1997,1,49.4,Toms Spezialitäten,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+6183,ARAUJ,3,7/5/1997,9/28/1997,8/31/1997,2,47,Reggiani Caseifici,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US
+6184,MEZA ,1,3/30/1997,6/25/1997,4/14/1997,2,139,Chop-suey Chinese,"Heinz-Peter-Otto-Gasse 7
+73746 Sömmerda",73746 Sömmerda,NULL,73746,Germany
+6185,SARAB,1,5/3/1998,6/14/1998,5/30/1998,1,57.6,Pericles Comidas clásicas,"Manfred-Fechner-Straße 39
+51444 Siegen",51444 Siegen,NULL,51444,Germany
+6186,JONES,4,10/7/1997,11/13/1997,10/26/1997,2,100,Reggiani Caseifici,"Goran-Werner-Ring 0
+50446 Schmölln",50446 Schmölln,NULL,50446,Germany
+6187,BAGGI,8,5/3/1996,7/27/1996,6/17/1996,1,48.4,Rattlesnake Canyon Grocery,"PSC 8918, Box 5022
+APO AE 32641",APO AE 32641,NULL,32641,US
+6188,REY-T,9,3/5/1998,5/30/1998,3/31/1998,2,110.6,Lonesome Pine Restaurant,"Studio 84
+Smith skyway
+Joshshire
+L62 6TH",Joshshire,NULL,L62 6TH,GB
+6189,AMAT-,9,11/30/1996,1/23/1997,12/31/1996,2,112,Morgenstern Gesundkost,"Viale Dulbecco 353 Piano 8
+Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)","Settimo Guglielmo, 08237 Verbano-Cusio-Ossola (CB)",NULL,8237,Italy
+6190,CHAVE,8,2/11/1998,4/13/1998,2/14/1998,2,62.4,Frankenversand,"Heserstr. 37
+49761 Gelnhausen",49761 Gelnhausen,NULL,49761,Germany
+6191,WIELO,1,1/23/1997,4/20/1997,3/17/1997,1,13.1,Pericles Comidas clásicas,"Avenida Jaime Morata 59
+Huelva, 20413","Huelva, 20413",NULL,20414,Spain
+6192,AMAT-,2,8/16/1996,10/21/1996,9/14/1996,1,109,Victuailles en stock,"007 Michelle Branch
+New George, CO 74919","New George, CO 74919",NULL,74919,US
+6193,"NASH,",6,10/26/1997,12/11/1997,10/31/1997,3,84.9,GROSELLA-Restaurante,"Pölitzplatz 1/0
+37413 Nauen",37413 Nauen,NULL,37413,Germany
+6194,HOLZA,4,12/3/1997,1/10/1998,12/29/1997,1,138.3,Berglunds snabbköp,"Flat 83
+Gemma ford
+South Raymondberg
+PR0M 6EP",South Raymondberg,NULL,PR0M 6EP,GB
+6195,SWANS,8,5/10/1996,7/15/1996,5/24/1996,2,124.9,Vins et alcools Chevalier,"836 Christopher Freeway Suite 130
+North Loriport, WV 41342","North Loriport, WV 41342",NULL,41342,US
+6196,PEDER,3,4/22/1998,7/6/1998,6/23/1998,3,31.9,Split Rail Beer & Ale,"Flat 6
+Burke run
+Port Josephine
+SY6E 4ND",Port Josephine,NULL,SY6E 4ND,GB
+6197,HUNTE,6,9/13/1997,10/2/1997,9/17/1997,2,90.4,QUICK-Stop,"5666 Ellison Court Suite 067
+North Angel, CA 65756","North Angel, CA 65756",NULL,65756,US
+6198,VALDE,8,8/11/1997,9/1/1997,8/22/1997,2,116.9,Frankenversand,"Edeltraut-Beier-Allee 9/9
+28064 Groß-Gerau",28064 Groß-Gerau,NULL,28064,Germany
+6199,BARES,7,3/9/1997,5/26/1997,5/15/1997,2,122.1,Wartian Herkku,"Flat 97B
+Emma locks
+New Kathryn
+B48 1SZ",New Kathryn,NULL,B48 1SZ,GB
+6200,ANTON,1,11/22/1996,1/10/1997,12/8/1996,2,35,Folk och fä HB,"6524 Farley Lights Apt. 097
+Carlosland, MT 86692","Carlosland, MT 86692",NULL,86692,US
+6201,JäKE,8,2/15/1998,2/27/1998,2/15/1998,3,45.5,Wartian Herkku,"547 Ashley dam
+New Bradley
+DN2 2JG",DN2 2JG,NULL,DN2 2JG,GB
+6202,WONG-,3,11/7/1996,1/10/1997,12/14/1996,2,3.3,Rattlesnake Canyon Grocery,"Alameda Nerea Macías 320 Piso 6 
+Toledo, 44552","Toledo, 44552",NULL,44553,Spain
+6203,BLüM,7,8/29/1997,10/24/1997,10/8/1997,1,1.7,Tradiçao Hipermercados,"Contrada Jacopo 247 Appartamento 60
+San Paloma ligure, 05936 Ascoli Piceno (MO)","San Paloma ligure, 05936 Ascoli Piceno (MO)",NULL,Ascoli,Italy
+6204,JONES,9,7/31/1996,9/28/1996,9/4/1996,1,46.3,Victuailles en stock,"Acceso de Ángel Pardo 66
+Lleida, 53894","Lleida, 53894",NULL,53895,Spain
+6205,WAGNE,2,11/27/1997,2/18/1998,1/4/1998,1,52,Bon app',"Calle Olga Adadia 33 Piso 3 
+Lugo, 19984","Lugo, 19984",NULL,19985,Spain
+6206,SPEER,1,5/17/1997,8/21/1997,7/24/1997,1,9.8,Island Trading,"47 Warren fords
+Clarkchester
+M76 2PS",M76 2PS,NULL,M76 2PS,GB
+6207,CHAVE,4,6/22/1996,9/21/1996,6/30/1996,3,143.4,Frankenversand,"Avenida de Vicente Coloma 52
+Huesca, 01277","Huesca, 01277",NULL,1278,Spain
+6208,CARST,2,7/17/1997,10/25/1997,8/25/1997,1,76.9,Old World Delicatessen,"Alameda Albert Lumbreras 46
+Valencia, 49304","Valencia, 49304",NULL,49305,Spain
+6209,LöFF,3,1/13/1998,3/19/1998,3/5/1998,2,73.3,Berglunds snabbköp,"Strada Michelotto 86
+Sesto Torquato lido, 79294 Olbia-Tempio (TA)","Sesto Torquato lido, 79294 Olbia-Tempio (TA)",NULL,79294,Italy
+6210,ADKIN,6,8/24/1997,10/19/1997,9/26/1997,2,108.5,QUICK-Stop,"Rotonda Odescalchi 08
+Settimo Marcantonio veneto, 91541 Biella (PG)","Settimo Marcantonio veneto, 91541 Biella (PG)",NULL,91541,Italy
+6211,CARST,8,2/12/1997,3/15/1997,2/28/1997,3,11.4,Blondel père et fils,"Contrada Pertile 779 Appartamento 68
+Sesto Eugenia, 75423 Bologna (LI)","Sesto Eugenia, 75423 Bologna (LI)",NULL,75423,Italy
+6212,TROMB,8,2/5/1997,4/23/1997,3/15/1997,2,79.8,Vins et alcools Chevalier,"Trübstraße 6/0
+06299 Germersheim",06299 Germersheim,NULL,6299,Germany
+6213,KREBS,4,12/28/1997,3/23/1998,1/24/1998,3,134,Tortuga Restaurante,"Elfi-Boucsein-Gasse 383
+14490 Hechingen",14490 Hechingen,NULL,14490,Germany
+6214,LAMAS,8,12/13/1997,2/10/1998,12/29/1997,2,120.5,Que Delícia,"Siegmar-Bauer-Platz 7/5
+38499 Pfaffenhofenner Ilm",38499 Pfaffenhofenner Ilm,NULL,38499,Germany
+6215,"MATA,",7,3/21/1997,5/16/1997,4/10/1997,2,84.8,Berglunds snabbköp,"C. de Luz Ponce 25
+Huelva, 31893","Huelva, 31893",NULL,31894,Spain
+6216,DAVIS,1,9/1/1996,10/6/1996,9/10/1996,3,110.6,Victuailles en stock,"651 Laura square
+Ashleymouth
+B7B 2AG",B7B 2AG,NULL,B7B 2AG,GB
+6217,GOMIL,2,12/23/1996,1/30/1997,12/26/1996,2,137.7,Die Wandernde Kuh,"Contrada Trussardi 53 Piano 5
+Federico umbro, 25423 Sondrio (LI)","Federico umbro, 25423 Sondrio (LI)",NULL,25423,Italy
+6218,WATKI,9,4/26/1996,8/3/1996,5/8/1996,3,24.6,Richter Supermarkt,"Flat 60
+Hunter burg
+East Shannon
+M6C 2RW",East Shannon,NULL,M6C 2RW,GB
+6219,ORTOL,6,5/3/1996,8/1/1996,6/15/1996,2,100.1,Du monde entier,"Plaza Luís Figueroa 60 Apt. 35 
+Soria, 97896","Soria, 97896",NULL,97897,Spain
+6220,ARIñ,6,11/28/1996,2/23/1997,1/8/1997,2,116.9,Old World Delicatessen,"Jeannette-Weller-Platz 829
+93330 Bruchsal",93330 Bruchsal,NULL,93330,Germany
+6221,FLYNN,1,10/10/1997,1/18/1998,12/16/1997,2,82.1,QUICK-Stop,"Borgo Petralli 18 Piano 6
+Sesto Luisa, 87875 Verona (CN)","Sesto Luisa, 87875 Verona (CN)",NULL,87875,Italy
+6222,VASQU,4,7/10/1997,9/27/1997,9/4/1997,1,101.7,Wellington Importadora,"Pasadizo Alejandro Gallego 24
+Valencia, 72183","Valencia, 72183",NULL,72184,Spain
+6223,BORRE,2,10/7/1997,12/12/1997,10/13/1997,2,140.5,B's Beverages,"Pasadizo de Remedios Franch 60 Puerta 0 
+Valencia, 28026","Valencia, 28026",NULL,28027,Spain
+6224,"NASH,",1,12/3/1997,1/21/1998,12/28/1997,1,106,Hungry Owl All-Night Grocers,"2799 Karen Harbors
+East Sarah, NM 12461","East Sarah, NM 12461",NULL,12461,US
+6225,STEIN,5,2/22/1997,3/29/1997,3/10/1997,1,70.6,Lonesome Pine Restaurant,"Acceso Jaime Arco 43 Apt. 92 
+Granada, 90423","Granada, 90423",NULL,90424,Spain
+6226,FERRA,8,8/22/1997,10/15/1997,9/20/1997,1,52.4,Romero y tomillo,"1860 Jennifer Brooks
+South Heathershire, KY 97963","South Heathershire, KY 97963",NULL,97963,US
+6227,GABBA,2,11/7/1996,2/8/1997,12/26/1996,1,116.1,Chop-suey Chinese,"Ute-Seifert-Straße 8
+61784 Griesbach Rottal",61784 Griesbach Rottal,NULL,61784,Germany
+6228,ORTOL,2,12/12/1996,2/18/1997,1/28/1997,3,65.9,Vins et alcools Chevalier,"Studio 83
+Thomas passage
+Callumstad
+HU94 1UF",Callumstad,NULL,HU94 1UF,GB
+6229,CARUS,2,10/15/1996,12/4/1996,11/18/1996,2,32.7,Ana Trujillo Emparedados y helados,"08469 Cindy Circle
+Gonzalestown, VA 09938","Gonzalestown, VA 09938",NULL,9938,US
+6230,MERIS,6,6/3/1996,8/17/1996,7/31/1996,1,57.4,Romero y tomillo,"8 Albert road
+West Victor
+G2 5NR",G2 5NR,NULL,G2 5NR,GB
+6231,SALIE,9,9/19/1996,12/20/1996,11/15/1996,2,109,Tortuga Restaurante,"87 Declan pike
+Adamsmouth
+G28 5DZ",G28 5DZ,NULL,G28 5DZ,GB
+6232,LLOYD,5,10/2/1996,11/22/1996,10/2/1996,2,60.1,Frankenversand,"483 Katherine turnpike
+North Julie
+NN9 8DJ",NN9 8DJ,NULL,NN9 8DJ,GB
+6233,RONCA,5,12/14/1996,3/20/1997,12/28/1996,2,85.6,Blondel père et fils,"Strada Scarfoglio 4
+Ludovica calabro, 34006 Vercelli (PG)","Ludovica calabro, 34006 Vercelli (PG)",NULL,34006,Italy
+6234,MALDO,1,3/9/1997,6/7/1997,3/21/1997,2,127,Reggiani Caseifici,"1 Charlene mount
+Birdside
+IG0 9AZ",IG0 9AZ,NULL,IG0 9AZ,GB
+6235,BEYER,3,1/21/1998,4/30/1998,2/6/1998,3,131.5,Rattlesnake Canyon Grocery,"Calle de Aitor Tapia 48 Apt. 50 
+Almería, 82771","Almería, 82771",NULL,82772,Spain
+6236,HOLZA,8,6/12/1996,7/28/1996,7/8/1996,1,141.8,Lehmanns Marktstand,"Incrocio Tuzzolino 2
+Sesto Donna ligure, 97393 Pavia (MC)","Sesto Donna ligure, 97393 Pavia (MC)",NULL,97393,Italy
+6237,GáRA,9,11/2/1996,11/25/1996,11/3/1996,1,84.4,QUICK-Stop,"987 Sandra unions
+Leehaven
+WN1V 4AH",WN1V 4AH,NULL,WN1V 4AH,GB
+6238,AMAT-,9,10/29/1996,12/22/1996,12/5/1996,2,65.2,Godos Cocina Típica,"Alameda de Adrián Vilar 70 Piso 4 
+Ceuta, 65844","Ceuta, 65844",NULL,65845,Spain
+6239,SMITH,8,8/2/1996,8/29/1996,8/4/1996,1,133.5,Lehmanns Marktstand,"Köhlerstraße 198
+67204 Schwarzenberg",67204 Schwarzenberg,NULL,67204,Germany
+6240,ARAUJ,1,4/24/1997,7/30/1997,7/16/1997,1,76.8,HILARION-Abastos,"Killergasse 179
+13964 Paderborn",13964 Paderborn,NULL,13964,Germany
+6241,WHITE,8,3/13/1998,4/24/1998,3/29/1998,2,2.7,LILA-Supermercado,"23 Katherine views
+Katiehaven
+IP5P 2LG",IP5P 2LG,NULL,IP5P 2LG,GB
+6242,SALIE,1,11/1/1997,1/5/1998,11/19/1997,3,84.9,Rattlesnake Canyon Grocery,"Mühlegasse 3
+86814 Gadebusch",86814 Gadebusch,NULL,86814,Germany
+6243,SCHIN,3,4/3/1998,5/2/1998,4/3/1998,1,148,Wartian Herkku,"8645 Bell Throughway Apt. 377
+West Kristenburgh, RI 68178","West Kristenburgh, RI 68178",NULL,68178,US
+6244,SANCH,3,2/12/1998,2/24/1998,2/14/1998,3,83.2,Mère Paillarde,"Täschegasse 127
+24846 Tübingen",24846 Tübingen,NULL,24846,Germany
+6245,JONES,2,5/5/1997,7/2/1997,6/6/1997,1,17.9,Que Delícia,"Ronda Jose Múgica 2 Puerta 1 
+Zamora, 80887","Zamora, 80887",NULL,80888,Spain
+6246,PEDER,6,5/5/1996,8/4/1996,5/29/1996,3,59.2,Richter Supermarkt,"292 Smith parkways
+Port Thomasstad
+B3 8EG",B3 8EG,NULL,B3 8EG,GB
+6247,VALDE,4,12/17/1997,3/20/1998,2/24/1998,3,65.5,Folk och fä HB,"329 Anne Forge
+South Michaelmouth, TX 35234","South Michaelmouth, TX 35234",NULL,35234,US
+6248,CLARK,1,4/8/1998,6/22/1998,4/12/1998,1,106.4,Bon app',"Hansjörg-Fischer-Platz 505
+54416 Northeim",54416 Northeim,NULL,54416,Germany
+6249,SANCH,9,10/13/1997,12/28/1997,11/21/1997,1,26.5,Wartian Herkku,"Studio 1
+Andrea walk
+Kingburgh
+S5E 5YP",Kingburgh,NULL,S5E 5YP,GB
+6250,SALIE,7,3/26/1998,4/17/1998,3/28/1998,2,82.3,Island Trading,"613 Butler Prairie
+Lake Erin, OH 10075","Lake Erin, OH 10075",NULL,10075,US
+6251,TROMB,7,5/12/1997,8/1/1997,7/13/1997,2,37.6,Magazzini Alimentari Riuniti,"681 Tran Expressway
+Lake Katelyn, TX 91922","Lake Katelyn, TX 91922",NULL,91922,US
+6252,WHITE,7,6/16/1997,9/9/1997,7/9/1997,2,70.4,Split Rail Beer & Ale,"Flat 42
+Jake junction
+South Valerieside
+RH82 4YT",South Valerieside,NULL,RH82 4YT,GB
+6253,HäRI,1,8/10/1997,8/24/1997,8/10/1997,1,131.8,Romero y tomillo,"Holtstr. 1
+22206 Bad Kreuznach",22206 Bad Kreuznach,NULL,22206,Germany
+6254,WONG-,3,3/30/1997,6/5/1997,5/25/1997,1,139.7,Rattlesnake Canyon Grocery,"Susana-Spieß-Ring 6/1
+70513 Dresden",70513 Dresden,NULL,70513,Germany
+6255,REY-T,7,1/29/1998,2/27/1998,1/30/1998,2,123.2,LILA-Supermercado,"Krausestraße 2
+63089 Gardelegen",63089 Gardelegen,NULL,63089,Germany
+6256,PANIC,2,7/3/1996,10/4/1996,9/5/1996,3,13.9,Lonesome Pine Restaurant,"C. Ángel Muñoz 409
+Córdoba, 86689","Córdoba, 86689",NULL,86689,Spain
+6257,"MATA,",2,10/14/1996,11/10/1996,10/15/1996,2,71.4,Save-a-lot Markets,"Borgo Raimondo 748
+Broschi ligure, 69324 Carbonia-Iglesias (BL)","Broschi ligure, 69324 Carbonia-Iglesias (BL)",NULL,69324,Italy
+6258,DAVID,1,12/18/1996,2/28/1997,1/19/1997,3,29,Rattlesnake Canyon Grocery,"090 Green Crescent
+Jacksonberg, TN 43347","Jacksonberg, TN 43347",NULL,43347,US
+6259,CHAVE,8,7/18/1996,8/3/1996,7/23/1996,2,60.9,The Big Cheese,"656 Smith haven
+South Charles
+B60 6NL",B60 6NL,NULL,B60 6NL,GB
+6260,ADKIN,4,11/23/1996,1/23/1997,12/11/1996,3,77.8,Mère Paillarde,"Borgo Patrizia 87
+Adelmo terme, 74753 Siena (RM)","Adelmo terme, 74753 Siena (RM)",NULL,74753,Italy
+6261,BOYLE,9,1/18/1997,2/11/1997,1/20/1997,3,2,Mère Paillarde,"Vicolo Arsenio 72 Piano 6
+Agostino nell'emilia, 64209 Bologna (PV)","Agostino nell'emilia, 64209 Bologna (PV)",NULL,64209,Italy
+6262,AUSTI,2,9/5/1996,12/14/1996,10/12/1996,1,118.4,The Big Cheese,"Calle de Rafael Diez 45
+Teruel, 96230","Teruel, 96230",NULL,96231,Spain
+6263,GOMIL,1,4/29/1996,6/6/1996,5/11/1996,1,36.2,Richter Supermarkt,"Camino de Aitor Cuadrado 70 Piso 0 
+Burgos, 41894","Burgos, 41894",NULL,86689,Spain
+6264,REY-T,3,2/3/1997,4/23/1997,2/21/1997,1,122.7,Hanari Carnes,"498 Andrew Underpass Suite 163
+Aimeeland, MN 24349","Aimeeland, MN 24349",NULL,24349,US
+6265,SARAB,1,2/24/1997,3/20/1997,2/28/1997,3,70.9,Ricardo Adocicados,"Glorieta Jose Ávila 153 Apt. 58 
+Murcia, 60537","Murcia, 60537",NULL,60538,Spain
+6266,LöFF,8,6/13/1996,7/10/1996,6/24/1996,2,7,Chop-suey Chinese,"Piazza Parmitano 9
+Ruggeri del friuli, 32973 Agrigento (PI)","Ruggeri del friuli, 32973 Agrigento (PI)",NULL,32973,Italy
+6267,TROMB,5,9/30/1997,11/16/1997,10/9/1997,3,37.1,Ricardo Adocicados,"102 Daniel Greens
+Hayesberg, MI 19809","Hayesberg, MI 19809",NULL,19809,US
+6268,WAGNE,9,5/8/1997,7/22/1997,5/25/1997,2,45.4,Mère Paillarde,"95672 Mary Spurs
+Yorktown, IA 53945","Yorktown, IA 53945",NULL,53945,US
+6269,ELLIS,2,5/14/1997,5/31/1997,5/15/1997,3,57.6,Hungry Owl All-Night Grocers,"Canale Cafarchia 851
+Bazzi ligure, 75183 Belluno (GE)","Bazzi ligure, 75183 Belluno (GE)",NULL,75183,Italy
+6270,EDWAR,9,2/5/1997,3/10/1997,2/15/1997,3,74.1,Reggiani Caseifici,"Vicolo Salvo 19
+Quarto Sebastiano terme, 73855 Caserta (CT)","Quarto Sebastiano terme, 73855 Caserta (CT)",NULL,73855,Italy
+6271,ARIñ,9,7/26/1997,10/16/1997,9/5/1997,3,87.5,Simons bistro,"Borgo Adelmo 7
+Emilio ligure, 35572 Enna (SA)","Emilio ligure, 35572 Enna (SA)",NULL,35572,Italy
+6272,VALDE,1,5/1/1998,5/17/1998,5/7/1998,1,20.3,The Big Cheese,"Piazza Massimo 5
+Borgo Alberico ligure, 74230 Enna (FG)","Borgo Alberico ligure, 74230 Enna (FG)",NULL,74230,Italy
+6273,PIRAN,3,4/24/1997,6/21/1997,5/27/1997,1,1.7,Wartian Herkku,"Rotonda Giada 1 Appartamento 51
+Micheletti ligure, 11847 Como (CN)","Micheletti ligure, 11847 Como (CN)",NULL,11847,Italy
+6274,MARTI,1,8/3/1997,8/25/1997,8/4/1997,3,117.5,Split Rail Beer & Ale,"870 Arnold ville
+Lake Leeberg
+BN8 5GX",BN8 5GX,NULL,BN8 5GX,GB
+6275,ARAUJ,3,7/22/1996,8/28/1996,8/18/1996,3,115.2,Tradiçao Hipermercados,"Vial Alberto Rovira 84
+Sevilla, 25431","Sevilla, 25431",NULL,25432,Spain
+6276,ELLIS,2,12/24/1996,2/4/1997,12/24/1996,3,90.8,Split Rail Beer & Ale,"6654 Philip Lake Suite 770
+North Elizabethside, TN 49265","North Elizabethside, TN 49265",NULL,49265,US
+6277,LLOYD,7,8/19/1997,10/5/1997,8/28/1997,2,7.1,Tortuga Restaurante,"Borgo Nitto 2
+Borgo Azeglio del friuli, 61704 Grosseto (TO)","Borgo Azeglio del friuli, 61704 Grosseto (TO)",NULL,61704,Italy
+6278,WALSH,3,3/25/1998,6/5/1998,3/29/1998,2,1.8,Godos Cocina Típica,"227 Duncan Skyway
+Brittanyborough, MI 49497","Brittanyborough, MI 49497",NULL,49497,US
+6279,PEDER,3,7/22/1997,9/1/1997,7/29/1997,1,86,Morgenstern Gesundkost,"Contrada Soffici 47 Piano 7
+Borgo Paoletta, 27467 Genova (LU)","Borgo Paoletta, 27467 Genova (LU)",NULL,27467,Italy
+6280,BIRNB,5,5/27/1997,9/4/1997,8/3/1997,3,100,Berglunds snabbköp,"11215 Benson Neck Suite 277
+Gregorymouth, SD 27431","Gregorymouth, SD 27431",NULL,27431,US
+6281,PANIC,4,2/11/1997,5/19/1997,4/4/1997,2,115.2,Blondel père et fils,"Alameda Asunción Vazquez 26 Apt. 04 
+Huesca, 19285","Huesca, 19285",NULL,19286,Spain
+6282,VASQU,3,7/28/1996,8/29/1996,8/11/1996,1,46.3,Suprêmes délices,"Annaliese-Adler-Weg 77
+23220 Mühlhausen",23220 Mühlhausen,NULL,23220,Germany
+6283,KELLY,2,10/26/1997,12/17/1997,11/8/1997,2,137.9,Tortuga Restaurante,"Unit 9847 Box 7470
+DPO AE 53104",DPO AE 53104,NULL,53104,US

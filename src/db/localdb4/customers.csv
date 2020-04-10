@@ -1,0 +1,201 @@
+customerID,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,fax
+ZACCO,Zacco-Tognazzi Group,Geronimo Comisso-Manzoni,Mr/Ms,"Viale Lazzaro 813
+Borgo Romana, 85928 Reggio Calabria (PG)",Calabria,NULL,49776,Italy,+39 75 46716566,NULL
+CIANI,"Ciani, Cimarosa e Comencini e figli",Romana Adinolfi,Mr/Ms,"Piazza Lolita 21
+Borgo Sebastiano nell'emilia, 49776 Verona (CT)",Verona,NULL,19470,Italy,+39 300 87116649,NULL
+GAGLI,Gagliardi-Finzi Group,Gioacchino Petrucci-Bocca,Mr/Ms,"Piazza Enrico 50 Piano 1
+Spinelli del friuli, 19470 Milano (LO)",Milano,NULL,26968,Italy,+39 32 32056014,NULL
+BOEZI,"Boezio, Scarpetta e Antonini e figli",Chiara Caracciolo,Mr/Ms,"Rotonda Vittorio 241 Piano 1
+Gabriele veneto, 26968 Verbano-Cusio-Ossola (PN)",Verbano-Cusio-Ossola,NULL,12283,Italy,+39 88 77957794,NULL
+MAGLI,Maglio-Gaito SPA,Sig.ra Giulia Solimena ,Mr/Ms,"Stretto Guariento 1
+Caironi salentino, 12283 Alessandria (BO)",Alessandria,NULL,66758,Italy,+39 2059 60081958,NULL
+ORSIN,Orsini-Romiti s.r.l.,Bernardo Battaglia,Mr/Ms,"Incrocio Bembo 12
+Notarbartolo terme, 66758 Lodi (GE)",Lodi,NULL,18269,Italy,+39 93 1694173,NULL
+PEROZ,Perozzo e figli,Diana Bertoli-Traetta,Mr/Ms,"Strada Cipriano 2
+Boccioni laziale, 01007 Olbia-Tempio (PG)",Olbia-Tempio,NULL,26269,Italy,+39 0466 21718717,NULL
+"BOVA,","Bova, Lanfranchi e Barcella SPA",Rodolfo Pavarotti-Petralli,Mr/Ms,"Viale Ostinelli 040 Piano 5
+Borzomì salentino, 26269 Forlì-Cesena (OR)",Forlì-Cesena,NULL,80887,Italy,+39 86 61171492,NULL
+TURCH,Turchetta-Ziani s.r.l.,Sig.ra Letizia Montessori ,Mr/Ms,"Incrocio Surian 314 Piano 2
+Borgo Benito calabro, 04073 Ascoli Piceno (FI)",Piceno,NULL,14706,Italy,+39 13 56324516,NULL
+MERIS,Merisi e figli,Claudia Bellocchio ,Mr/Ms,"Borgo Giosuè 783 Piano 6
+Sesto Elvira laziale, 14706 Genova (FG)",Genova,NULL,13902,Italy,+39 82 99518624,NULL
+CIGNA,Cignaroli SPA,Torquato Borzomì,Mr/Ms,"Stretto Antelami 04 Appartamento 54
+Quarto Michela ligure, 13902 Frosinone (RC)",Frosinone,NULL,19861,Italy,+39 044 79851406,NULL
+OLIVE,"Olivetti, Ferrabosco e Ubaldi s.r.l.",Margherita Jovinelli,Mr/Ms,"Strada Fabia 3 Appartamento 00
+Sesto Rosario calabro, 19861 Varese (BL)",Varese,NULL,30245,Italy,+39 261 6722949,NULL
+MORRI,Morricone-Roth s.r.l.,Alessio Jacuzzi,Mr/Ms,"Contrada Emo 150
+Borgo Romina umbro, 30245 Ferrara (CE)",Ferrara,NULL,34074,Italy,+39 57 02421738,NULL
+TACCO,Taccola-Acerbi Group,Mario Tartaglia,Mr/Ms,"Canale Aria 59
+Hugo nell'emilia, 34074 Matera (RO)",Matera,NULL,5724,Italy,+39 379 88 76 6930,NULL
+GONZA,Gonzaga-Coardi SPA,Temistocle Varano,Mr/Ms,"Strada Samele 11
+Dallapé nell'emilia, 05724 Lucca (BR)",Lucca,NULL,97791,Italy,+39 8306 6846860,NULL
+ARGEN,"Argenti, Barbarigo e Volterra SPA",Ennio Galtarossa,Mr/Ms,"Contrada Tamburello 3 Piano 9
+Ignazio nell'emilia, 97791 Latina (BT)",Latina,NULL,68147,Italy,+39 60 0954300,NULL
+FABRI,Fabrizi e figli,Dott. Chiara Lupo,Mr/Ms,"Vicolo Daniele 4 Appartamento 27
+Quarto Vittorio, 45364 Pesaro e Urbino (FR)",Urbino,NULL,97636,Italy,+39 26 1048252,NULL
+CIVAS,"Civaschi, Maglio e Chechi Group",Vittoria Camiscione ,Mr/Ms,"Piazza Oreste 10
+Giulia terme, 97636 Isernia (MI)",Isernia,NULL,96165,Italy,+39 1278 3477896,NULL
+GOZZI,Gozzi e figli,Lara Trevisani,Mr/Ms,"Contrada Martino 023 Piano 6
+Borgo Tonino, 96165 Avellino (VA)",Avellino,NULL,90331,Italy,+39 22 83522570,NULL
+DORIA,"Doria, Serlupi e Missoni e figli",Loredana Scialpi-Moretti,Mr/Ms,"Piazza Liguori 57
+Quarto Serafina, 90331 Bergamo (CA)",Bergamo,NULL,20740,Italy,+39 601 30811396,NULL
+FERMI,Fermi-Pepe SPA,Lara Gadda,Mr/Ms,"Strada Gianni 7 Piano 0
+Aria nell'emilia, 20740 Messina (GR)",Messina,NULL,84421,Italy,+39 734 39 34 2641,NULL
+RISMO,Rismondo-Piovani s.r.l.,Severino Rapisardi,Mr/Ms,"Rotonda Ceschi 1 Piano 0
+Settimo Rocco laziale, 84421 L'Aquila (RO)",L'Aquila,NULL,18269,Italy,+39 97 57383044,NULL
+MONTA,Montanelli e figli,Durante Navone-Tropea,Mr/Ms,"Vicolo Rocco 81 Piano 1
+Foà lido, 18269 Taranto (AL)",Taranto,NULL,35997,Italy,+39 60 8300617,NULL
+CUOMO,Cuomo Group,Renata Raurica,Mr/Ms,"Stretto Morena 6
+Bossi lido, 35997 Crotone (VB)",Crotone,NULL,73995,Italy,+39 6995 5581977,NULL
+RAURI,"Raurica, Ossola e Dandolo Group",Gloria Grasso,Mr/Ms,"Via Adelasia 592
+Borgo Cristina ligure, 73995 Barletta-Andria-Trani (SO)",Barletta-Andria-Trani,NULL,85627,Italy,+39 956 88718147,NULL
+CICAL,"Cicala, Camanni e Iannuzzi s.r.l.",Alderano Saracino,Mr/Ms,"Viale Montalcini 8
+San Marissa del friuli, 85627 Parma (BL)",Parma,NULL,80887,Italy,+39 251 26706016,NULL
+TENCA,Tencalla s.r.l.,Antonia Anichini,Mr/Ms,"Incrocio Zaccagnini 340
+Bettina laziale, 80887 Sassari (PN)",Sassari,NULL,59436,Italy,+39 139 40245455,NULL
+MASCH,Mascheroni SPA,Vincentio Gelli,Mr/Ms,"Vicolo Nicola 532
+Sesto Giuliana, 59436 Barletta-Andria-Trani (IM)",Barletta-Andria-Trani,NULL,90331,Italy,+39 3334 36665752,NULL
+T-MER,T-Mercantini SPA,Sig. Adamo Viviani,Mr/Ms,"Canale Montalti 8 Appartamento 00
+Cirillo calabro, 29576 Vibo Valentia (BL)",Valentia,NULL,51232,Italy,+39 544 13234708,NULL
+JILAN,Jilani s.r.l.,Sig. Elmo Cundari,Mr/Ms,"Stretto Aldo 9
+Settimo Letizia ligure, 51232 Fermo (OR)",Fermo,NULL,65116,Italy,+39 05 1463467,NULL
+CURIE,Curiel-Pometta Group,Sig.ra Liliana Peano ,Mr/Ms,"Canale Interiano 73
+Paulina del friuli, 65116 Matera (AT)",Matera,NULL,99062,Italy,+39 44 0406600,NULL
+BASSI,"Bassi, Bianchini e Badoglio SPA",Tonia Mascagni,Mr/Ms,"Incrocio Fabrizia 59 Appartamento 16
+Ciani laziale, 99062 Venezia (CT)",Venezia,NULL,84421,Italy,+39 0989 6088792,NULL
+TENCA,"Tencalla, Bertoni e Vercelloni e figli",Sig. Giancarlo Bernetti,Mr/Ms,"Contrada Jolanda 154 Appartamento 43
+Niccolò laziale, 86944 Medio Campidano (LU)",Campidano,NULL,74733,Italy,+39 437 50 36 0267,NULL
+DURAN,"Durante, Cheda e Spanevello Group",Mirco Raurica,Mr/Ms,"Rotonda Annalisa 43
+Settimo Vittoria, 74733 Mantova (MT)",Mantova,NULL,85561,Italy,+39 07 80751470,NULL
+TRECC,"Treccani, Zarlino e Virgilio s.r.l.",Eva Ferrucci,Mr/Ms,"Rotonda Giuseppe 94 Piano 8
+Alessia laziale, 85561 Torino (TN)",Torino,NULL,68147,Italy,+39 8985 19526005,NULL
+CERAV,Ceravolo Group,Amalia Brugnaro,Mr/Ms,"Canale Zeffirelli 0 Piano 4
+Borgo Amico, 68147 Modena (CA)",Modena,NULL,39323,Italy,+39 3206 04396423,NULL
+GENTI,Gentileschi-Borghese e figli,Luigi Fusani,Mr/Ms,"Stretto Priscilla 6
+Settimo Barbara salentino, 39323 Savona (BO)",Savona,NULL,1800,Italy,+39 4452 58462051,NULL
+CARRI,Carriera-Lancisi SPA,Dott. Napoleone Spinelli,Mr/Ms,"Borgo Morricone 292 Piano 1
+San Vanessa, 01800 Siena (EN)",Siena,NULL,65766,Italy,+39 72 41847545,NULL
+TREBB,"Trebbi, Zoppetti e Balla SPA",Patrizio Ceri-Sandi,Mr/Ms,"Borgo Calogero 5
+San Gino, 65766 Macerata (RA)",Macerata,NULL,10385,Italy,+39 41 5248610,NULL
+COPPO,Coppola-Riccardi Group,Sig.ra Luciana Battelli ,Mr/Ms,"Borgo Borsellino 683 Appartamento 03
+Settimo Ottavio calabro, 10385 Macerata (CH)",Macerata,NULL,35246,Italy,+39 17 1212012,NULL
+TAMBO,Tamborini e figli,Berenice Vezzali,Mr/Ms,"Canale Luigina 285 Appartamento 84
+Settimo Aurora, 35246 Cuneo (PI)",Cuneo,NULL,41682,Italy,+39 286 3732398,NULL
+PAOLI,"Paolini, Legnante e Maderno s.r.l.",Dott. Donatello Viola ,Mr/Ms,"Via Detti 3 Piano 1
+San Rita sardo, 41682 Pisa (FG)",Pisa,NULL,28523,Italy,+39 77 12926953,NULL
+MATTE,Matteotti-Beccheria s.r.l.,Alessandra Leonardi,Mr/Ms,"Rotonda Paolo 30
+Zarlino del friuli, 28523 Olbia-Tempio (RO)",Olbia-Tempio,NULL,22890,Italy,+39 11 5267356,NULL
+NAVAR,Navarria-Brugnaro SPA,Telemaco Ferrabosco,Mr/Ms,"Piazza Pacillo 96 Appartamento 66
+Borgo Pasqual salentino, 22890 Forlì-Cesena (FI)",Forlì-Cesena,NULL,79739,Italy,+39 769 85850055,NULL
+GUGLI,"Guglielmi, Cuomo e Moccia s.r.l.",Enrico Turchi ,Mr/Ms,"Contrada Mancini 92 Piano 7
+Quarto Bernardo lido, 79739 Perugia (FE)",Perugia,NULL,64228,Italy,+39 189 6879953,NULL
+SALVE,"Salvemini, Dallapé e Capone s.r.l.",Dott. Luciana Franscini ,Mr/Ms,"Canale Moresi 96 Piano 4
+Stefani laziale, 64228 Bologna (VE)",Bologna,NULL,51100,Italy,+39 821 3472336,NULL
+FAGOT,Fagotto-Pizziol s.r.l.,Baldassare Scandone,Mr/Ms,"Piazza Cremonesi 99 Appartamento 36
+Ritacca ligure, 51100 Ravenna (BA)",Ravenna,NULL,68652,Italy,+39 12 7215727,NULL
+ZAGUR,"Zaguri, Antonucci e Grimani SPA",Monica Gabrieli ,Mr/Ms,"Incrocio Luigina 879
+Settimo Vito veneto, 68652 Forlì-Cesena (MB)",Forlì-Cesena,NULL,17724,Italy,+39 0257 8331667,NULL
+INNOC,"Innocenti, Pisano e Metella SPA",Milo Zanzi,Mr/Ms,"Viale Caruso 59
+Udinesi umbro, 17724 Rieti (SV)",Rieti,NULL,39587,Italy,+39 3784 5431616,NULL
+LOPRE,Lopresti e figli,Tatiana Tron,Mr/Ms,"Strada Sordi 7 Piano 7
+Sesto Graziella nell'emilia, 39587 Padova (GO)",Padova,NULL,58595,Italy,+39 960 2982681,NULL
+CORBO,"Corbo, Zampa e Spadafora SPA",Lina Esposito ,Mr/Ms,"Viale Uberto 1
+Tomasini terme, 58595 Enna (SS)",Enna,NULL,37340,Italy,+39 5360 46112360,NULL
+MONIC,"Monicelli, Basso e Guinizzelli s.r.l.",Torquato Agazzi-Ortese,Mr/Ms,"Via Mastandrea 172
+Quarto Ansaldo, 37340 Ancona (SA)",Ancona,NULL,39822,Italy,+39 58 93551006,NULL
+FINZI,"Finzi, Iacovelli e Semitecolo e figli",Adelasia Leopardi,Mr/Ms,"Via Amleto 423 Appartamento 59
+Settimo Carolina nell'emilia, 39822 Ravenna (RA)",Ravenna,NULL,4192,Italy,+39 7182 26988080,NULL
+ANGUI,Anguillara SPA,Romina Rusticucci,Mr/Ms,"Borgo Carlo 872 Appartamento 56
+Borgo Antonello a mare, 04192 Pisa (RG)",Pisa,NULL,13906,Italy,+39 73 7376103,NULL
+MONDA,Mondadori-Sommaruga Group,Sig. Giacobbe Ginese ,Mr/Ms,"Vicolo Gianmarco 999 Piano 1
+Borgo Ermanno nell'emilia, 13906 Matera (TS)",Matera,NULL,33547,Italy,+39 421 81296520,NULL
+"TOSI,","Tosi, Duodo e Renier Group",Amanda Callegari,Mr/Ms,"Incrocio Annunziata 675 Appartamento 74
+Sesto Aria, 33547 Viterbo (SP)",Viterbo,NULL,22854,Italy,+39 22 69211617,NULL
+FILIP,"Filippelli, Santi e Vidoni e figli",Sig.ra Gelsomina Ricciardi,Mr/Ms,"Incrocio Caruso 843
+Sesto Arsenio nell'emilia, 22854 Palermo (LE)",Palermo,NULL,74807,Italy,+39 15 25440152,NULL
+ANTON,Antonetti e figli,Beatrice Storladi,Mr/Ms,"Contrada Ligorio 055
+San Margherita veneto, 74807 Lucca (SI)",Lucca,NULL,91124,Italy,+39 275 4131898,NULL
+BONAN,Bonanno Group,Giorgia Puccini,Mr/Ms,"Incrocio Paride 474
+Ceravolo a mare, 91124 L'Aquila (VE)",L'Aquila,NULL,50318,Italy,+39 4681 66600735,NULL
+IANNE,"Iannelli, Castiglione e Liverotti Group",Amleto Marcacci,Mr/Ms,"Incrocio Tina 248
+Adele del friuli, 50318 Pistoia (BI)",Pistoia,NULL,91955,Italy,+39 9223 4804013,NULL
+FISCH,Fischetti SPA,Sig. Beppe Nugnes ,Mr/Ms,"Strada Sandro 19 Appartamento 92
+Modigliani sardo, 91955 Asti (GR)",Asti,NULL,20494,Italy,+39 5008 48376465,NULL
+FALLA,"Fallaci, Lucchesi e Calarco s.r.l.",Toni Bellò,Mr/Ms,"Via Olga 067
+Settimo Atenulf umbro, 20494 Firenze (MO)",Firenze,NULL,85185,Italy,+39 332 2467254,NULL
+GIANN,Giannuzzi e figli,Giuliano Petrucelli,Mr/Ms,"Borgo Gian 7 Piano 5
+Sesto Adele, 85185 Padova (GR)",Padova,NULL,24937,Italy,+39 503 74 68 8443,NULL
+PRIUL,Priuli-Abbagnale SPA,Federigo Luciani-Gibilisco,Mr/Ms,"Incrocio Corradi 59
+Borgo Lodovico, 24937 Genova (MT)",Genova,NULL,91285,Italy,+39 53 00837651,NULL
+ZAGUR,Zaguri SPA,Dott. Goffredo Lupo ,Mr/Ms,"Contrada Riccati 230 Piano 6
+Soderini terme, 91285 Firenze (RI)",Firenze,NULL,90538,Italy,+39 462 44 23 8606,NULL
+PACE ,Pace s.r.l.,Rosario Maffei,Mr/Ms,"Via Tartini 83
+Gionata ligure, 90538 Viterbo (TS)",Viterbo,NULL,13257,Italy,+39 3863 7605393,NULL
+GIANI,Gianinazzi-Rizzo SPA,Sig.ra Ninetta Caracciolo,Mr/Ms,"Strada Pertini 5 Appartamento 62
+Luciana ligure, 13257 Bari (SO)",Bari,NULL,92947,Italy,+39 34 18381546,NULL
+CARFA,"Carfagna, Federico e Gatto e figli",Elisa Cutrufo,Mr/Ms,"Contrada Trotta 5
+Paulina calabro, 92947 Rimini (OT)",Rimini,NULL,36145,Italy,+39 9442 7724451,NULL
+PETRA,Petrassi Group,Dott. Elvira Armellini,Mr/Ms,"Contrada Ansaldo 20
+Zeffirelli salentino, 36145 Siracusa (PA)",Siracusa,NULL,85747,Italy,+39 326 8898211,NULL
+SCHIA,Schiaparelli-Germano SPA,Cesare Gotti,Mr/Ms,"Canale Morgagni 1
+Letizia salentino, 85747 Bari (FE)",Bari,NULL,36403,Italy,+39 557 7242138,NULL
+MOLES,"Molesini, Bonino e Luciani Group",Bianca Mercantini,Mr/Ms,"Viale Tonia 502 Appartamento 33
+Innocenti salentino, 36403 Belluno (TS)",Belluno,NULL,49205,Italy,+39 843 14251072,NULL
+PUGLI,Pugliese-Ceci s.r.l.,Angelina Trevisan ,Mr/Ms,"Incrocio Lodovico 82
+Solari del friuli, 49205 Foggia (TO)",Foggia,NULL,85190,Italy,+39 1626 2507255,NULL
+DOVAR,Dovara-Castellitto s.r.l.,Vincentio Ferrucci,Mr/Ms,"Vicolo Gianluigi 06
+Amedeo nell'emilia, 85190 Trieste (PR)",Trieste,NULL,13604,Italy,+39 377 47 32 0909,NULL
+CAGNI,Cagnin-Forza Group,Ottavio Flaiano-Bellucci,Mr/Ms,"Via Eva 0
+Mariano veneto, 13604 Salerno (CH)",Salerno,NULL,2978,Italy,+39 88 1462888,NULL
+TRAPA,Trapani-Perozzo s.r.l.,Nino Mercantini,Mr/Ms,"Contrada Sonnino 736 Piano 6
+Quarto Elmo, 02978 Terni (PZ)",Terni,NULL,54703,Italy,+39 378 39 22 8260,NULL
+PACIL,"Pacillo, Antonacci e Innocenti s.r.l.",Pier Camicione,Mr/Ms,"Strada Accardo 43 Piano 1
+Bova lido, 54703 Belluno (PR)",Belluno,NULL,77280,Italy,+39 69 1867799,NULL
+FANTO,Fantoni-Gianvecchio e figli,Dott. Giulio Fracci,Mr/Ms,"Viale Enrico 5 Appartamento 88
+Bataglia a mare, 77280 Torino (CT)",Torino,NULL,59032,Italy,+39 7790 7227788,NULL
+PEZZA,"Pezzali, Oliboni e Bembo s.r.l.",Vincenza Crespi,Mr/Ms,"Stretto Civaschi 409 Piano 6
+Quarto Benito, 59032 Agrigento (CI)",Agrigento,NULL,18184,Italy,+39 82 3165082,NULL
+ROCCA,Rocca Group,Virginia Soprano,Mr/Ms,"Contrada Agostino 55 Appartamento 54
+Ronaldo lido, 18184 Modena (LO)",Modena,NULL,96787,Italy,+39 37 8587858,NULL
+COMOL,"Comolli, Tommaseo e Zabarella SPA",Umberto Iannelli,Mr/Ms,"Rotonda Gloria 586
+Barracco umbro, 96787 Varese (KR)",Varese,NULL,43194,Italy,+39 131 8992655,NULL
+SAURO,Sauro Group,Girolamo Paolini,Mr/Ms,"Contrada Costanzo 268 Appartamento 01
+Settimo Ugolino ligure, 43194 L'Aquila (VA)",L'Aquila,NULL,39243,Italy,+39 219 60458560,NULL
+BRESC,Bresciani-Tomasini Group,Ottone Donà,Mr/Ms,"Via Lombardi 26
+Quarto Calogero del friuli, 39243 Modena (KR)",Modena,NULL,51381,Italy,+39 030 74 27 2464,NULL
+ALDOB,Aldobrandi-Onisto s.r.l.,Eugenia Deledda-Burcardo,Mr/Ms,"Stretto Adelasia 8
+Sesto Alphons, 51381 Messina (VE)",Messina,NULL,21743,Italy,+39 7075 4638760,NULL
+MILAN,Milanesi-Falloppio e figli,Dott. Fabrizio Vanvitelli ,Mr/Ms,"Piazza Antonia 6 Piano 0
+Nicola calabro, 21743 Lodi (RG)",Lodi,NULL,78789,Italy,+39 8298 7733818,NULL
+ZAMEN,"Zamengo, Malpighi e Littizzetto s.r.l.",Dott. Chiara Orsini ,Mr/Ms,"Strada Tiziana 76
+Mogherini del friuli, 78789 Benevento (OG)",Benevento,NULL,91661,Italy,+39 2213 29026829,NULL
+COMBI,Combi SPA,Calcedonio Tacchini,Mr/Ms,"Stretto Ludovica 227 Piano 7
+Sesto Serafina calabro, 91661 Benevento (TS)",Benevento,NULL,66885,Italy,+39 332 15 17 0937,NULL
+PRATE,Pratesi-Basso s.r.l.,Giorgia Luria-Rossellini,Mr/Ms,"Canale Zichichi 10 Piano 5
+Settimo Pietro veneto, 66885 Novara (SA)",Novara,NULL,49205,Italy,+39 15 1909336,NULL
+CIAMP,Ciampi-Pederiva SPA,Matilda Vismara-Pistoletto,Mr/Ms,"Contrada Milo 1 Piano 8
+Borgo Riccardo, 82104 Ascoli Piceno (CA)",Piceno,NULL,37104,Italy,+39 38 40915991,NULL
+METEL,"Metella, Guariento e Brichese s.r.l.",Dott. Erika Ferrante ,Mr/Ms,"Stretto Pedroni 795
+Battelli nell'emilia, 37104 Livorno (MS)",Livorno,NULL,94250,Italy,+39 10 11018465,NULL
+SORDI,"Sordi, Stradivari e Serao s.r.l.",Ettore Sgalambro-Rubbia,Mr/Ms,"Vicolo Pierluigi 0
+Marcantonio calabro, 94250 Arezzo (VA)",Arezzo,NULL,10274,Italy,+39 032 05 88 0628,NULL
+TARCH,Tarchetti-Iacovelli e figli,Napoleone Tarantini,Mr/Ms,"Rotonda Trapani 91
+Emilio ligure, 10274 Macerata (AQ)",Macerata,NULL,83010,Italy,+39 7497 0761921,NULL
+GIUST,Giusti-Storladi SPA,Augusto Balbo,Mr/Ms,"Rotonda Graziano 66
+Paride laziale, 83010 Massa-Carrara (RI)",Massa-Carrara,NULL,75130,Italy,+39 14 0624771,NULL
+COMOL,Comolli-Semitecolo SPA,Griselda Bova,Mr/Ms,"Canale Ermenegildo 612
+Sesto Giorgia, 75130 Chieti (CR)",Chieti,NULL,54700,Italy,+39 943 3828565,NULL
+CRISP,Crispi e figli,Gianfranco Mazzeo,Mr/Ms,"Canale Anastasi 515
+Gatto umbro, 54700 Imperia (MC)",Imperia,NULL,62984,Italy,+39 281 3047222,NULL
+MURAT,"Muratori, Campano e Majewski Group",Sig.ra Diana Sanudo ,Mr/Ms,"Viale Toni 3 Appartamento 90
+Borgo Franco umbro, 62984 Viterbo (VC)",Viterbo,NULL,35142,Italy,+39 854 0897605,NULL
+BEFFA,Beffa-Cassarà SPA,Milo Milanesi,Mr/Ms,"Vicolo Dario 32
+Lucia del friuli, 35142 Salerno (VE)",Salerno,NULL,27308,Italy,+39 3705 6182395,NULL
+TRESO,Tresoldi-Ferrante s.r.l.,Tonino Baroffio ,Mr/Ms,"Contrada Ivan 0 Appartamento 25
+Sesto Lidia del friuli, 27308 Enna (EN)",Enna,NULL,75130,Italy,+39 50 79515905,NULL
+GADDA,Gadda-Saragat s.r.l.,Erika Farnese-Proietti,Mr/Ms,"Strada Verdone 939
+Settimo Sante, 04497 Rieti (PD)",Rieti,NULL,77965,Italy,+39 3199 0738761,NULL
+MILAN,"Milanesi, Martinelli e Emanuelli SPA",Cecilia Tozzo,Mr/Ms,"Rotonda Lombardo 5 Piano 9
+Aurora laziale, 77965 L'Aquila (AT)",L'Aquila,NULL,32156,Italy,+39 532 4049016,NULL
+TARAN,Tarantini e figli,Patrizia Bonatti,Mr/Ms,"Strada Viridiana 92
+Borgo Marta ligure, 32156 Olbia-Tempio (PN)",Olbia-Tempio,NULL,96787,Italy,+39 7704 3148448,NULL

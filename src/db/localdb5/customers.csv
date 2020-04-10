@@ -1,0 +1,541 @@
+customerID,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,fax
+Mentz,Mentzel GmbH,Stephen Vollbrecht,Mr/Ms,"Ruppersbergerstr. 8/5
+60931 Säckingen",Säckingen,NULL,60931,Germany,08838 25330,NULL
+Trub ,Trub GmbH & Co. OHG,Lieschen Kreusel,Mr/Ms,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",Fürstenfeldbruck,NULL,59730,Germany,83558395,NULL
+Stump,Stumpf Weller GmbH,Leopold Eberhardt-Naser,Mr/Ms,"Jessica-Geisel-Ring 2
+51517 Sankt Goarshausen",Sankt,NULL,51517,Germany,+49 (0) 4891 183350,NULL
+Seife,Seifert Beyer AG,Nurettin Binner,Mr/Ms,"Leonie-Klemt-Gasse 1
+13420 Rottweil",Rottweil,NULL,13420,Germany,+49(0)0729 482378,NULL
+Ullma,Ullmann e.G.,Karl-Heinrich Schleich-auch Schlauchin,Mr/Ms,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf",Mallersdorf,NULL,14188,Germany,+49(0)5584 74808,NULL
+Heinr,Heinrich KG,Heinz-Willi Stoll,Mr/Ms,"Zobelstraße 578
+16565 Säckingen",Säckingen,NULL,16565,Germany,+49 (0) 1257 236521,NULL
+Ladec,Ladeck,Edmund Hornich B.A.,Mr/Ms,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen",Bad,NULL,1718,Germany,+49(0)3725 834930,NULL
+Wesac,Wesack e.V.,Ing. Alex Kuhl,Mr/Ms,"Silvana-Wagenknecht-Straße 2
+92679 Stade",Stade,NULL,92679,Germany,+49(0)8808 967878,NULL
+Zorba,Zorbach Tschentscher GmbH,Frau Natalie Hethur,Mr/Ms,"Boucseinring 423
+31178 Kulmbach",Kulmbach,NULL,31178,Germany,+49(0)0232875436,NULL
+Krebs,Krebs AG,Leonard Butte,Mr/Ms,"Andreas-Nette-Platz 935
+73001 Eilenburg",Eilenburg,NULL,73001,Germany,4161748604,NULL
+Hartm,Hartmann,Julian Weitzel B.Sc.,Mr/Ms,"Drewesgasse 71
+11958 Neuss",Neuss,NULL,11958,Germany,+49 (0) 2864 003509,NULL
+Ladec,Ladeck Köster KG,Mohamed Steckel,Mr/Ms,"Heinstraße 2/0
+46941 Worbis",Worbis,NULL,46941,Germany,09533 68022,NULL
+Röhr,Röhrdanz Stiftung & Co. KG,Ing. Pietro Vogt,Mr/Ms,"Freia-Geisler-Weg 7
+90569 Vechta",Vechta,NULL,90569,Germany,03087 69199,NULL
+Birnb,Birnbaum Roskoth AG,Meryem Hartung,Mr/Ms,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen",Gunzenhausen,NULL,5313,Germany,+49(0)3408 340569,NULL
+Täsc,Täsche,Dr. Agnieszka Eigenwillig,Mr/Ms,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde",Luckenwalde,NULL,62020,Germany,(08436) 20668,NULL
+Gude ,Gude KG,Frau Irina Gerlach,Mr/Ms,"Drubinstraße 2/2
+46795 Chemnitz",Chemnitz,NULL,46795,Germany,+49(0)4930 446399,NULL
+Schmi,Schmidt,Prof. Sabine Tintzmann B.A.,Mr/Ms,"Salzplatz 507
+30349 Fürstenfeldbruck",Fürstenfeldbruck,NULL,30349,Germany,04696 41225,NULL
+Köst,Köster OHG mbH,Horst-Dieter Caspar,Mr/Ms,"Jacobstr. 0/9
+33064 Monschau",Monschau,NULL,33064,Germany,605527703,NULL
+Schle,Schleich,Marjan Butte,Mr/Ms,"Schwitalring 880
+19940 Zossen",Zossen,NULL,19940,Germany,+49(0)6676 20137,NULL
+Schol,Scholtz GbR,Waldtraut Jähn,Mr/Ms,"Edelgard-Mangold-Weg 3
+82317 Forchheim",Forchheim,NULL,82317,Germany,504732176,NULL
+Mälz,Mälzer,Dr. Adina Niemeier,Mr/Ms,"Gierschnerallee 9/7
+45448 Pegnitz",Pegnitz,NULL,45448,Germany,(02393) 677311,NULL
+Höfi,Höfig Wähner KG,Raisa Trüb,Mr/Ms,"Dietzstraße 24
+40598 Herzberg",Herzberg,NULL,40598,Germany,03136 80107,NULL
+Möch,Möchlichen AG & Co. KG,Elzbieta Gerlach,Mr/Ms,"Misicherstraße 3
+87450 Malchin",Malchin,NULL,87450,Germany,+49(0)0609 944445,NULL
+Ritte,Ritter Döhn GmbH,Evi Heuser,Mr/Ms,"Josephine-Jäntsch-Platz 6/9
+53167 Erkelenz",Erkelenz,NULL,53167,Germany,+49 (0) 3592 378764,NULL
+Lorch,Lorch GmbH & Co. KG,Gordana Kobelt-Margraf,Mr/Ms,"Drubstr. 07
+48645 Bitterfeld",Bitterfeld,NULL,48645,Germany,215363845,NULL
+Losek,Losekann GmbH & Co. OHG,Elias Ditschlerin-Bauer,Mr/Ms,"Jacobplatz 572
+50043 Havelberg",Havelberg,NULL,50043,Germany,+49(0) 334132266,NULL
+Schol,Scholz Bolander e.G.,Alfredo Fiebig-Weimer,Mr/Ms,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,NULL,6805,Germany,+49(0)7631 286898,NULL
+Rosko,Roskoth,Karl Heinz Schmidtke MBA.,Mr/Ms,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",Eisenhüttenstadt,NULL,94712,Germany,+49(0)1155 98974,NULL
+Piepe,Pieper Hiller GmbH,Dr. Zeljko Kensy,Mr/Ms,"Olena-Schäfer-Weg 7/6
+10323 Werdau",Werdau,NULL,10323,Germany,+49(0)9614 27364,NULL
+Werne,Wernecke OHG mbH,Frau Birgitt Jäntsch,Mr/Ms,"Mühleweg 7
+98012 Saarlouis",Saarlouis,NULL,98012,Germany,164466844,NULL
+Karz ,Karz GmbH,Hermine Baum,Mr/Ms,"Lindnergasse 182
+44826 Deggendorf",Deggendorf,NULL,44826,Germany,+49(0)4255 874736,NULL
+Gumpr,Gumprich GmbH & Co. KG,Fabian Hermann,Mr/Ms,"Janus-Paffrath-Weg 731
+80849 Fallingbostel",Fallingbostel,NULL,80849,Germany,+49(0)8234559495,NULL
+Hensc,Henschel Schönland GmbH & Co. KGaA,Christl Wirth-Schaaf,Mr/Ms,"Pavel-Weinhold-Allee 11
+70395 Pritzwalk",Pritzwalk,NULL,70395,Germany,(02064) 546113,NULL
+Weime,Weimer Mohaupt GmbH & Co. OHG,Frau Anne-Kathrin Cichorius,Mr/Ms,"Patberggasse 3
+50164 Gelnhausen",Gelnhausen,NULL,50164,Germany,(05527) 842967,NULL
+Stolz,Stolze,Udo Jähn,Mr/Ms,"Constanze-Grein Groth-Weg 04
+46469 Quedlinburg",Quedlinburg,NULL,46469,Germany,03913 20061,NULL
+Gorli,Gorlitz GmbH,Peggy Gunpf,Mr/Ms,"Loosgasse 785
+13281 Strausberg",Strausberg,NULL,13281,Germany,+49 (0) 0197 405492,NULL
+Oderw,Oderwald,Ing. Marina Pieper,Mr/Ms,"Sandor-Eberth-Allee 87
+33410 Freising",Freising,NULL,33410,Germany,+49(0)6293504076,NULL
+Liebe,Liebelt GmbH,Frau Josephine Döring,Mr/Ms,"Slobodan-Mühle-Allee 613
+69369 Cloppenburg",Cloppenburg,NULL,69369,Germany,812797179,NULL
+Stoll,Stoll GmbH & Co. KG,Jochen Zahn,Mr/Ms,"Katja-Tlustek-Allee 828
+14312 Neustadtner Waldnaab",Neustadtner,NULL,14312,Germany,04962 181889,NULL
+Marti,Martin,Sami Peukert,Mr/Ms,"Bruderplatz 118
+88604 Jessen",Jessen,NULL,88604,Germany,05712 702719,NULL
+Dörr,Dörr KG,Prof. Mareike Stoll B.Sc.,Mr/Ms,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,NULL,13526,Germany,(03576) 68775,NULL
+Sauer,Sauer AG,Ignatz Kroker,Mr/Ms,"Wiltrud-Kobelt-Platz 8/8
+65103 Norden",Norden,NULL,65103,Germany,+49 (0) 1587 728786,NULL
+Jopic,Jopich,Christopher Linke B.Eng.,Mr/Ms,"Gotthardallee 5/5
+45130 Hohenmölsen",Hohenmölsen,NULL,45130,Germany,(00873) 30999,NULL
+Hauff,Hauffer Stiftung & Co. KGaA,Miguel Schlosser,Mr/Ms,"Zänkergasse 66
+74736 Sebnitz",Sebnitz,NULL,74736,Germany,1675816144,NULL
+Bolnb,Bolnbach GmbH,Dipl.-Ing. Kenan Pruschke MBA.,Mr/Ms,"Loosring 448
+24596 Prenzlau",Prenzlau,NULL,24596,Germany,+49 (0) 8630 346913,NULL
+Ditsc,Ditschlerin Bloch KG,Pedro Ditschlerin,Mr/Ms,"Loosring 448
+27008 Garmisch-Partenkirchen",Garmisch-Partenkirchen,NULL,27008,Germany,+49(0)8045 78774,NULL
+Zahn ,Zahn Hamann GmbH & Co. KG,Patric Winkler,Mr/Ms,"Winklerplatz 3/9
+51866 Aschaffenburg",Aschaffenburg,NULL,51866,Germany,+49(0) 765455854,NULL
+Wohlg,Wohlgemut Jacob GmbH & Co. KGaA,Xaver Hornich,Mr/Ms,"Kitzmannring 17
+90326 Dieburg",Dieburg,NULL,90326,Germany,+49(0)4265222135,NULL
+Freud,Freudenberger Gunpf GmbH & Co. OHG,Anna-Luise Loos,Mr/Ms,"Müllerstraße 2/0
+59379 Genthin",Genthin,NULL,59379,Germany,650891259,NULL
+Fisch,Fischer Reising GmbH,Valerie Jäkel,Mr/Ms,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,NULL,89721,Germany,04649 365312,NULL
+Wesac,Wesack e.V.,Dennis Schleich,Mr/Ms,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad,NULL,45998,Germany,450008208,NULL
+Förs,Förster Müller GmbH & Co. KG,Frau Inka Löwer,Mr/Ms,"Langering 9/1
+59895 Eisenach",Eisenach,NULL,59895,Germany,+49 (0) 9156 476053,NULL
+Schü,Schüler KG,Dietlind Spieß,Mr/Ms,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen",Wolfratshausen,NULL,11295,Germany,+49(0)1274 790101,NULL
+Gude,Gude,Victor Heidrich,Mr/Ms,"Gehringergasse 5
+50608 Diepholz",Diepholz,NULL,50608,Germany,+49 (0) 0886 151101,NULL
+Röhr,Röhricht GmbH & Co. OHG,Ing. Hubertine Hartmann,Mr/Ms,"Butteweg 6
+48836 Bad Brückenau",Bad,NULL,48836,Germany,+49 (0) 1521 175856,NULL
+Hertr,Hertrampf Schomber GmbH,Herr Harro Heß,Mr/Ms,"Hoffmannstraße 67
+65972 Säckingen",Säckingen,NULL,65972,Germany,767502260,NULL
+Hofma,Hofmann,Eleonore Siering MBA.,Mr/Ms,"Krauseallee 5
+92745 Nürtingen",Nürtingen,NULL,92745,Germany,+49(0)4934 57785,NULL
+Kensy,Kensy,Heinz Jungfer,Mr/Ms,"Klaus-Michael-Adler-Ring 164
+96704 Jülich",Jülich,NULL,96704,Germany,+49 (0) 4016 757855,NULL
+Buchh,Buchholz,Christiane Nerger MBA.,Mr/Ms,"Herrmannstr. 02
+29655 Wanzleben",Wanzleben,NULL,29655,Germany,(07585) 26295,NULL
+Butte,Butte GmbH,Tamara Karge,Mr/Ms,"Birger-Schönland-Ring 5/8
+69219 Senftenberg",Senftenberg,NULL,69219,Germany,9676581315,NULL
+Häri,Häring OHG mbH,Mirja Köhler B.Sc.,Mr/Ms,"Lieselotte-Junitz-Weg 04
+58381 Augsburg",Augsburg,NULL,58381,Germany,547993764,NULL
+Butte,Butte Scheibe GmbH,Ortwin Hörle,Mr/Ms,"Knappeallee 185
+94612 Waldmünchen",Waldmünchen,NULL,94612,Germany,06794 07342,NULL
+Wirth,Wirth,Folker Käster B.Eng.,Mr/Ms,"Kochplatz 4/4
+43815 Uelzen",Uelzen,NULL,43815,Germany,6056651250,NULL
+Hille,Hiller,Dr. Reinhart Kobelt B.A.,Mr/Ms,"Strohweg 672
+03176 Torgau",Torgau,NULL,3176,Germany,07632 316307,NULL
+Baum,Baum,Univ.Prof. Lisbeth Winkler B.Sc.,Mr/Ms,"Weißstr. 24
+13500 Uelzen",Uelzen,NULL,13500,Germany,03876 06971,NULL
+Carst,Carsten Nette AG & Co. OHG,Alicja Rörricht-Köhler,Mr/Ms,"Abram-Carsten-Ring 900
+14101 Wiedenbrück",Wiedenbrück,NULL,14101,Germany,(01374) 007966,NULL
+Süß,Süßebier GmbH & Co. OHG,Prof. Gundolf Junitz,Mr/Ms,"Guntram-Staude-Gasse 410
+27971 Hildesheim",Hildesheim,NULL,27971,Germany,200468532,NULL
+Stein,Steinberg GmbH & Co. KGaA,Denise Kroker,Mr/Ms,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt",Mellrichstadt,NULL,17347,Germany,(08281) 34411,NULL
+Heß ,Heß Mende GmbH,Sinaida Junken,Mr/Ms,"Traudl-Drub-Gasse 7
+03935 Bergzabern",Bergzabern,NULL,3935,Germany,01318 503367,NULL
+Stoll,Stoll,Birger Ebert,Mr/Ms,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen",Schwabmünchen,NULL,91273,Germany,+49(0) 041348038,NULL
+Weiß,Weiß,Dipl.-Ing. Hans Hecker B.Sc.,Mr/Ms,"Knappestraße 344
+14542 Lörrach",Lörrach,NULL,14542,Germany,(02663) 103098,NULL
+Klapp,Klapp Hande GbR,Rena Heintze,Mr/Ms,"Möchlichenplatz 9/0
+60458 Jüterbog",Jüterbog,NULL,60458,Germany,(07151) 310115,NULL
+Liebe,Liebelt,Oscar Dörr,Mr/Ms,"Geißlerallee 729
+77104 Finsterwalde",Finsterwalde,NULL,77104,Germany,+49(0)4374011866,NULL
+Roht,Roht,Hans-Herbert Hermann,Mr/Ms,"Jürgen-Staude-Allee 1
+85413 Cottbus",Cottbus,NULL,85413,Germany,+49 (0) 8684 466663,NULL
+Butte,Butte,Jennifer Förster-Hering,Mr/Ms,"Gertrude-Kramer-Weg 9/8
+25685 Mallersdorf",Mallersdorf,NULL,25685,Germany,119817084,NULL
+Schle,Schleich AG,Francis Keudel-Lange,Mr/Ms,"Martina-Hamann-Straße 667
+17837 Freudenstadt",Freudenstadt,NULL,17837,Germany,(06798) 87436,NULL
+Bähr,Bähr GmbH & Co. KGaA,Minna Klapp-Lübs,Mr/Ms,"Denise-Buchholz-Allee 289
+00011 Sternberg",Sternberg,NULL,11,Germany,+49 (0) 0468 029689,NULL
+Klemt,Klemt Cichorius AG,Rochus Weiß,Mr/Ms,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,NULL,6736,Germany,+49(0)6581 00357,NULL
+Mans ,Mans Wirth GbR,Mary Trupp,Mr/Ms,"Gönül-Vollbrecht-Allee 60
+48581 Gießen",Gießen,NULL,48581,Germany,+49(0)3747406199,NULL
+Wielo,Wieloch,Ewa Weinhold,Mr/Ms,"Marika-Gierschner-Allee 5/5
+46821 Ebern",Ebern,NULL,46821,Germany,+49 (0) 7156 273300,NULL
+Speer,Speer Wesack KG,Liesel Sontag,Mr/Ms,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,NULL,92216,Germany,+49(0)0145 169161,NULL
+Zorba,Zorbach KG,Univ.Prof. Ferdinand Kranz,Mr/Ms,"Holstenweg 374
+13267 Aschaffenburg",Aschaffenburg,NULL,13267,Germany,+49(0)7366875681,NULL
+Kuhl ,Kuhl Bolzmann GmbH,Stanislaw Budig,Mr/Ms,"Römerring 252
+95191 Griesbach Rottal",Griesbach,NULL,95191,Germany,(05021) 21039,NULL
+Jänt,Jäntsch Tröst KG,Barbara Putz-Schacht,Mr/Ms,"Reza-Neureuther-Straße 224
+41022 Göttingen",Göttingen,NULL,41022,Germany,(08618) 844044,NULL
+Sorga,Sorgatz Müller GmbH & Co. KG,Lars Beer B.Sc.,Mr/Ms,"Ilona-Walter-Straße 592
+83192 Cuxhaven",Cuxhaven,NULL,83192,Germany,+49(0)4021 24313,NULL
+Henck,Henck,Telse Rogner,Mr/Ms,"Esther-Döring-Platz 538
+94965 Magdeburg",Magdeburg,NULL,94965,Germany,(08942) 52524,NULL
+Eigen,Eigenwillig,Isolde Schmidt,Mr/Ms,"Dorothee-Gotthard-Weg 4/2
+31149 Schwandorf",Schwandorf,NULL,31149,Germany,+49(0)0663 13931,NULL
+Gotth,Gotthard GbR,Paul Möchlichen-Speer,Mr/Ms,"Holtallee 58
+01930 Hainichen",Hainichen,NULL,1930,Germany,765993543,NULL
+Weinh,Weinhold,Herr Stanislaus Hethur B.Eng.,Mr/Ms,"Blümelgasse 9
+50750 Roth",Roth,NULL,50750,Germany,09032 877968,NULL
+Frank,Franke Birnbaum GmbH & Co. OHG,Ing. Hans-Günther Rosemann B.Eng.,Mr/Ms,"Barthweg 5
+57957 Bersenbrück",Bersenbrück,NULL,57957,Germany,8966256202,NULL
+Hein,Hein,Dusan Patberg,Mr/Ms,"Hölzenbecherring 4
+11530 Dinslaken",Dinslaken,NULL,11530,Germany,+49(0) 805551198,NULL
+Otto ,Otto AG & Co. KGaA,Karl-Peter Putz,Mr/Ms,"Junckstr. 4
+67570 Nürtingen",Nürtingen,NULL,67570,Germany,04049 155757,NULL
+Speer,Speer Harloff AG,Frieder Heydrich,Mr/Ms,"Karen-Kreusel-Gasse 011
+96562 Viersen",Viersen,NULL,96562,Germany,+49(0)1889799384,NULL
+Löwe,Löwer GmbH & Co. KG,Lisbeth Beyer-Thies,Mr/Ms,"Naserplatz 8
+87454 Freudenstadt",Freudenstadt,NULL,87454,Germany,+49(0)8739 755438,NULL
+Stump,Stumpf,Attila Bruder B.A.,Mr/Ms,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen",Wurzen,NULL,63062,Germany,606796702,NULL
+Schwe,Schweitzer Niemeier AG,Prof. Waltrud Ditschlerin B.A.,Mr/Ms,"Udo-Eckbauer-Platz 885
+14501 Fulda",Fulda,NULL,14501,Germany,+49(0) 600332568,NULL
+Reich,Reichmann e.V.,Hansjörg Budig,Mr/Ms,"Klaus-Günter-Mülichen-Platz 673
+66149 Borna",Borna,NULL,66149,Germany,+49(0)5156 66700,NULL
+Heinr,Heinrich Ullrich AG,Enno Albers B.Eng.,Mr/Ms,"Jacobi Jäckelweg 78
+83078 Freising",Freising,NULL,83078,Germany,+49(0)7287 347693,NULL
+Herin,Hering,Heinz Dieter Lübs,Mr/Ms,"Arndt-Karge-Platz 90
+16776 Hannover",Hannover,NULL,16776,Germany,5119632383,NULL
+Mude ,Mude AG & Co. KG,Sina Scholtz,Mr/Ms,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim",Uffenheim,NULL,456,Germany,+49(0)1724 835070,NULL
+Hörl,Hörle Stiftung & Co. KG,Eggert Drewes,Mr/Ms,"Goran-Faust-Straße 5/2
+91453 Kemnath",Kemnath,NULL,91453,Germany,+49(0) 640309430,NULL
+Löwe,Löwer,Kazim Wulf,Mr/Ms,"Wagnerstr. 0/7
+96937 Altentreptow",Altentreptow,NULL,96937,Germany,09150 34610,NULL
+Heuse,Heuser Scholtz OHG mbH,Prof. Sylwia Neureuther,Mr/Ms,"Nada-Kraushaar-Gasse 1/1
+57576 Greifswald",Greifswald,NULL,57576,Germany,01253 05980,NULL
+Jacob,Jacob Döhn GmbH & Co. OHG,Dipl.-Ing. Elias Dowerg,Mr/Ms,"Rolf-Rosemann-Platz 8/7
+48762 Parchim",Parchim,NULL,48762,Germany,09200 74053,NULL
+Eberh,Eberhardt GmbH & Co. OHG,Dan Rosemann-Mangold,Mr/Ms,"Rohtring 2
+30760 Vohenstrauß",Vohenstrauß,NULL,30760,Germany,+49(0)6032796808,NULL
+Fechn,Fechner,Prof. Norma Rohleder,Mr/Ms,"Knappeweg 9/8
+99974 Lippstadt",Lippstadt,NULL,99974,Germany,(07410) 58222,NULL
+Beyer,Beyer e.V.,Adam Bender,Mr/Ms,"Rosemannstr. 304
+11229 Coburg",Coburg,NULL,11229,Germany,525775797,NULL
+Heinr,Heinrich,Dipl.-Ing. Solveig Pechel,Mr/Ms,"Rittergasse 62
+66128 Burgdorf",Burgdorf,NULL,66128,Germany,(05175) 661972,NULL
+Kalle,Kallert Meyer e.V.,Rose-Marie Wende B.A.,Mr/Ms,"Mary-Kreusel-Straße 1/6
+18028 Altötting",Altötting,NULL,18028,Germany,02633 705900,NULL
+Kitzm,Kitzmann GmbH,Ing. Ruben Karge,Mr/Ms,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,NULL,69119,Germany,(00498) 709376,NULL
+Rosem,Rosemann Junck KG,Univ.Prof. Gerfried Mies,Mr/Ms,"Vogtring 7
+37523 Rockenhausen",Rockenhausen,NULL,37523,Germany,07857 79585,NULL
+Schom,Schomber,Ing. Ahmed Jüttner B.A.,Mr/Ms,"Kühnertring 8
+13040 Büsingenm Hochrhein",Büsingenm,NULL,13040,Germany,+49 (0) 0080 349786,NULL
+Ernst,Ernst,Ing. Nils Kreusel,Mr/Ms,"Dogan-Köhler-Allee 546
+59494 Gelnhausen",Gelnhausen,NULL,59494,Germany,(03512) 02805,NULL
+Strie,Striebitz,Ehrenfried Stey,Mr/Ms,"Salzstraße 9
+87357 Wurzen",Wurzen,NULL,87357,Germany,+49(0)9825 280070,NULL
+Henck,Henck,Ann Hauffer-Killer,Mr/Ms,"Haeringring 877
+50050 Artern",Artern,NULL,50050,Germany,02845 314639,NULL
+Meist,Meister KG,Sandor Tintzmann,Mr/Ms,"Sergej-Binner-Ring 81
+61826 Gütersloh",Gütersloh,NULL,61826,Germany,(01838) 738751,NULL
+Zirme,Zirme,Petros Scheibe,Mr/Ms,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg",Quedlinburg,NULL,72386,Germany,04326 77754,NULL
+Klapp,Klapp,Prof. Hans-Eberhard Hörle MBA.,Mr/Ms,"Meisterstr. 109
+60837 Melle",Melle,NULL,60837,Germany,+49 (0) 8295 825903,NULL
+Fechn,Fechner,Mercedes Tlustek MBA.,Mr/Ms,"Sylke-Siering-Gasse 4
+75121 Berlin",Berlin,NULL,75121,Germany,2535551736,NULL
+Ritte,Ritter e.V.,Hülya Römer,Mr/Ms,"Zirmeplatz 3/7
+37704 Bützow",Bützow,NULL,37704,Germany,+49 (0) 1924 675006,NULL
+Schom,Schomber GmbH,André Stumpf,Mr/Ms,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich",Grevenbroich,NULL,50385,Germany,(07949) 08511,NULL
+Ehler,Ehlert Kobelt GmbH & Co. KG,Ing. Gerlinde Kallert B.A.,Mr/Ms,"Wilmsring 8
+99863 Flöha",Flöha,NULL,99863,Germany,(00972) 23162,NULL
+Fisch,Fischer GmbH & Co. KGaA,Elfriede Roht,Mr/Ms,"Nelly-Warmer-Gasse 507
+03770 Wesel",Wesel,NULL,3770,Germany,+49(0)0447349348,NULL
+Kambs,Kambs,Herr Anthony Bien,Mr/Ms,"Ignatz-Bolnbach-Gasse 8/4
+58425 Ravensburg",Ravensburg,NULL,58425,Germany,01887 81656,NULL
+Werne,Werner,Ing. Lothar Carsten,Mr/Ms,"Jesselweg 2/2
+45906 Olpe",Olpe,NULL,45906,Germany,467485717,NULL
+Nieme,Niemeier Schleich KG,Ulrike Täsche B.Eng.,Mr/Ms,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,NULL,69440,Germany,+49(0)7667711148,NULL
+Schol,Scholtz,Sigmar Kroker,Mr/Ms,"Barkholzallee 609
+96700 Neustadtner Waldnaab",Neustadtner,NULL,96700,Germany,+49 (0) 3398 706626,NULL
+Gehri,Gehringer KG,Ing. Karl-Werner Jessel B.Eng.,Mr/Ms,"Kochstraße 0
+97773 Neunburg vorm Wald",Neunburg,NULL,97773,Germany,01610 465547,NULL
+Bende,Bender Eimer GbR,Univ.Prof. Annelise Jopich,Mr/Ms,"Ramazan-Schuster-Platz 2
+82214 Celle",Celle,NULL,82214,Germany,(06024) 278898,NULL
+Johan,Johann KG,Annett Becker-Fechner,Mr/Ms,"Gabriele-Rudolph-Platz 1/5
+50734 Artern",Artern,NULL,50734,Germany,+49(0)9886 264049,NULL
+Fröh,Fröhlich GmbH,Silke Flantz-Anders,Mr/Ms,"Reisingallee 62
+78550 Calau",Calau,NULL,78550,Germany,441352622,NULL
+Hensc,Henschel Gorlitz GmbH & Co. KG,Dr. Felicia Geisel B.Sc.,Mr/Ms,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,NULL,75990,Germany,+49 (0) 3863 273188,NULL
+Naser,Naser GbR,Jose Holzapfel,Mr/Ms,"Bachmannring 8
+98747 Flöha",Flöha,NULL,98747,Germany,01361 57009,NULL
+Roht,Roht,Zenon Hiller B.Sc.,Mr/Ms,"Hörlestraße 34
+51159 Soltau",Soltau,NULL,51159,Germany,7957335188,NULL
+Koch ,Koch Langern GbR,Paolo Fritsch MBA.,Mr/Ms,"Giuseppe-Scheuermann-Platz 960
+40190 Stadtsteinach",Stadtsteinach,NULL,40190,Germany,+49(0) 860542984,NULL
+Mude ,Mude Atzler AG,Angelika Huhn-Kallert,Mr/Ms,"Aziz-Werner-Straße 717
+55386 Tecklenburg",Tecklenburg,NULL,55386,Germany,09110 914403,NULL
+Texto,Textor Boucsein e.V.,Milka Thies,Mr/Ms,"Hendriksgasse 2/6
+67266 Niesky",Niesky,NULL,67266,Germany,561658459,NULL
+Schin,Schinke,Marit Jacobi Jäckel,Mr/Ms,"Birnbaumplatz 1/9
+56858 Schwabmünchen",Schwabmünchen,NULL,56858,Germany,536128375,NULL
+Ruppe,Ruppersberger Rogner GmbH,Margarita Bolzmann,Mr/Ms,"Nikolas-Hövel-Platz 0/1
+00234 Fallingbostel",Fallingbostel,NULL,234,Germany,+49 (0) 4445 225118,NULL
+Schmi,Schmidt Radisch OHG mbH,Dorota Ruppersberger-Franke,Mr/Ms,"Eberhardtweg 255
+04038 Reutlingen",Reutlingen,NULL,4038,Germany,+49(0)5806 92905,NULL
+Weime,Weimer,Willfried Roskoth,Mr/Ms,"Rouven-Hornig-Straße 92
+83711 Gelnhausen",Gelnhausen,NULL,83711,Germany,(09358) 93907,NULL
+Wagen,Wagenknecht KG,Ing. Hüseyin Ullmann,Mr/Ms,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz",Kyritz,NULL,44255,Germany,+49 (0) 6541 097066,NULL
+Otto,Otto,Ljiljana Mitschke,Mr/Ms,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen",Mühlhausen,NULL,89147,Germany,(08300) 05401,NULL
+Jacob,Jacobi Jäckel GmbH & Co. KG,Kazim Kostolzin-Gertz,Mr/Ms,"Fechnergasse 291
+96968 Gerolzhofen",Gerolzhofen,NULL,96968,Germany,+49(0)3867967980,NULL
+Alber,Albers,Dipl.-Ing. Roberto Kensy B.Eng.,Mr/Ms,"Dippelring 770
+70198 Hohenstein-Ernstthal",Hohenstein-Ernstthal,NULL,70198,Germany,+49(0)4998 67753,NULL
+Södi,Söding AG,Aurelia Kruschwitz-Stey,Mr/Ms,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab",Neustadtner,NULL,36390,Germany,08942 848471,NULL
+Heser,Heser Stiftung & Co. KG,Heiner Ackermann,Mr/Ms,"Sonja-Koch-Allee 68
+92392 Hohenstein-Ernstthal",Hohenstein-Ernstthal,NULL,92392,Germany,8531765774,NULL
+Hensc,Henschel KG,Magdalene Wulff B.A.,Mr/Ms,"Krokerplatz 545
+83219 Schongau",Schongau,NULL,83219,Germany,04487 309091,NULL
+Nerge,Nerger Freudenberger KG,Barbara Reising,Mr/Ms,"Hörlegasse 1
+37491 Oberviechtach",Oberviechtach,NULL,37491,Germany,+49(0)9579 683303,NULL
+Thane,Thanel,Sabrina Fliegner-Grein Groth,Mr/Ms,"Bohlanderallee 2/9
+85077 Gunzenhausen",Gunzenhausen,NULL,85077,Germany,5360879298,NULL
+Gorli,Gorlitz e.V.,Gisa Gute B.Eng.,Mr/Ms,"Oestrovskyring 33
+12688 Luckau",Luckau,NULL,12688,Germany,(05189) 66567,NULL
+Kraus,Krause,Toralf Trub,Mr/Ms,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,NULL,61813,Germany,+49(0)8766 666058,NULL
+Roht,Roht,Irmela Pärtzelt,Mr/Ms,"Ernstplatz 453
+17042 Erkelenz",Erkelenz,NULL,17042,Germany,(04891) 28663,NULL
+Höve,Hövel Kensy GmbH,Carmela Bolnbach MBA.,Mr/Ms,"Birnbaumallee 99
+75377 Uelzen",Uelzen,NULL,75377,Germany,+49(0)0211 17713,NULL
+Henck,Henck Weimer KG,Gerda Fritsch,Mr/Ms,"Katrin-Siering-Straße 2
+80358 Eutin",Eutin,NULL,80358,Germany,+49(0)4270 715730,NULL
+Bauer,Bauer,Christoph Bender B.Eng.,Mr/Ms,"Wolf-Rüdiger-Rogge-Platz 409
+40213 Perleberg",Perleberg,NULL,40213,Germany,05024 95741,NULL
+Wesac,Wesack,Gernot Dippel B.Eng.,Mr/Ms,"Schombergasse 6/0
+60594 Kelheim",Kelheim,NULL,60594,Germany,449305648,NULL
+Lange,Langern Stiftung & Co. KG,Prof. Amalie Budig,Mr/Ms,"Junkring 07
+55687 Arnstadt",Arnstadt,NULL,55687,Germany,(01479) 368314,NULL
+Lange,Lange Süßebier Stiftung & Co. KGaA,Dipl.-Ing. Giuseppina Weinhold,Mr/Ms,"Schäfergasse 5/1
+84401 Teterow",Teterow,NULL,84401,Germany,+49(0) 814573511,NULL
+Hoffm,Hoffmann AG,Konstanze Röhricht,Mr/Ms,"Sylwia-Margraf-Straße 1/3
+87860 Holzminden",Holzminden,NULL,87860,Germany,+49(0)0958760495,NULL
+Möch,Möchlichen Koch KGaA,Meta Niemeier B.Eng.,Mr/Ms,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,NULL,51097,Germany,193276474,NULL
+Cicho,Cichorius Ziegert AG,Dr. Aldo Linke,Mr/Ms,"Gottlieb-Gierschner-Straße 937
+53773 Querfurt",Querfurt,NULL,53773,Germany,(00697) 52399,NULL
+Käst,Käster KG,Sibel Fischer,Mr/Ms,"Felicitas-Kruschwitz-Allee 81
+26215 Sigmaringen",Sigmaringen,NULL,26215,Germany,(07623) 24522,NULL
+Ehler,Ehlert GmbH,Frau Meike Ziegert B.Sc.,Mr/Ms,"Heuserallee 8
+48412 Main-Höchst)",Main-Höchst),NULL,48412,Germany,(02173) 65295,NULL
+Ortma,Ortmann GmbH & Co. KGaA,Tilman Peukert,Mr/Ms,"Heinz-Gerd-Sölzer-Gasse 23
+45361 Witzenhausen",Witzenhausen,NULL,45361,Germany,+49(0)0561 921547,NULL
+Schac,Schacht Weinhold e.G.,Pamela Dussen van-Rosemann,Mr/Ms,"Ingetraut-Bien-Ring 03
+07828 Paderborn",Paderborn,NULL,7828,Germany,04909 57100,NULL
+Ander,Anders AG,Zoltan Jähn,Mr/Ms,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim",Parchim,NULL,46697,Germany,4573219030,NULL
+Heß ,Heß Margraf AG,Dr. Volker Dussen van MBA.,Mr/Ms,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",Altentreptow,NULL,50116,Germany,04505 126740,NULL
+Holza,Holzapfel Killer OHG mbH,Hannelore Jäntsch,Mr/Ms,"Jonathan-Girschner-Allee 5/5
+86440 Schwandorf",Schwandorf,NULL,86440,Germany,(00663) 42773,NULL
+Vogt ,Vogt Heinrich AG & Co. KG,Arnold Pergande,Mr/Ms,"Kreuselgasse 9
+68897 Merseburg",Merseburg,NULL,68897,Germany,+49(0)9731 699015,NULL
+Bähr,Bähr Mitschke GbR,Dietlinde Paffrath B.Eng.,Mr/Ms,"Jan-Peter-Dietz-Allee 36
+65835 Sömmerda",Sömmerda,NULL,65835,Germany,2207280895,NULL
+Flieg,Fliegner AG,Brunhild Bähr,Mr/Ms,"Enrico-Drewes-Allee 864
+55722 Suhl",Suhl,NULL,55722,Germany,+49(0)4295286887,NULL
+Herin,Hering Warmer e.G.,Carin Junitz,Mr/Ms,"Svenja-Ernst-Platz 684
+42681 Ingolstadt",Ingolstadt,NULL,42681,Germany,(08246) 70344,NULL
+Pärt,Pärtzelt,Silvia Drubin-Jungfer,Mr/Ms,"Spießallee 07
+63135 Lemgo",Lemgo,NULL,63135,Germany,+49(0)4203 25847,NULL
+Mango,Mangold Warmer GmbH & Co. KG,Prof. Roswita Gierschner,Mr/Ms,"Helga-Höfig-Allee 1/7
+83296 Ansbach",Ansbach,NULL,83296,Germany,228233398,NULL
+Lorch,Lorch Winkler GbR,Gotthard Junk,Mr/Ms,"Bohlanderstr. 8
+62701 Backnang",Backnang,NULL,62701,Germany,(07448) 665333,NULL
+Gorli,Gorlitz,Francesca Wilmsen,Mr/Ms,"Hamannweg 0
+48059 Sonneberg",Sonneberg,NULL,48059,Germany,+49(0) 593975195,NULL
+Auman,Aumann Wernecke GmbH & Co. OHG,Frieda Stadelmann B.Eng.,Mr/Ms,"Irmingard-Bien-Allee 12
+08012 Stade",Stade,NULL,8012,Germany,382716064,NULL
+Tromm,Trommler AG & Co. KG,Sebastian Juncken,Mr/Ms,"Valerij-Heinrich-Platz 1
+32225 Melsungen",Melsungen,NULL,32225,Germany,(02437) 777654,NULL
+Barth,Barth KG,Dipl.-Ing. Alexandros Mies MBA.,Mr/Ms,"Simon-Rädel-Allee 389
+42769 Vechta",Vechta,NULL,42769,Germany,(08466) 03102,NULL
+Gertz,Gertz Schottin AG,Univ.Prof. Katarzyna Thies B.Eng.,Mr/Ms,"Beckmannstr. 0/0
+13322 Neustrelitz",Neustrelitz,NULL,13322,Germany,+49(0) 000253284,NULL
+Jütt,Jüttner,Herrmann Klingelhöfer,Mr/Ms,"Almuth-Scholtz-Gasse 2/5
+53967 Schweinfurt",Schweinfurt,NULL,53967,Germany,+49(0) 126239108,NULL
+Wähn,Wähner,Hanns Kühnert,Mr/Ms,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",Deggendorf,NULL,4206,Germany,291591794,NULL
+Bohnb,Bohnbach,Gülay Fritsch,Mr/Ms,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,NULL,89867,Germany,+49(0)6212 95570,NULL
+Mielc,Mielcarek Zahn AG,Rosita Schottin,Mr/Ms,"Zobelgasse 1/4
+10867 Regensburg",Regensburg,NULL,10867,Germany,9279352379,NULL
+Salz ,Salz KG,Clara Gude,Mr/Ms,"Hörlestraße 83
+94753 Bersenbrück",Bersenbrück,NULL,94753,Germany,(08449) 56325,NULL
+Lorch,Lorch Geisel e.G.,Monica Aumann-Buchholz,Mr/Ms,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal",Stendal,NULL,34869,Germany,642355512,NULL
+Börn,Börner e.V.,Dagobert Christoph,Mr/Ms,"Günter-Werner-Gasse 4/3
+65722 Ebersberg",Ebersberg,NULL,65722,Germany,+49(0)0734 573229,NULL
+Hörl,Hörle Löffler Stiftung & Co. KG,Ing. Ulf Herrmann MBA.,Mr/Ms,"Adrian-Hiller-Straße 4/0
+25180 Kehl",Kehl,NULL,25180,Germany,+49 (0) 5210 072224,NULL
+Räde,Rädel AG,Frau Nicole Köster,Mr/Ms,"Zenta-Loos-Straße 23
+28758 Reutlingen",Reutlingen,NULL,28758,Germany,+49 (0) 7336 300829,NULL
+Käst,Käster,Prof. Alan Heydrich MBA.,Mr/Ms,"Schuchhardtgasse 677
+21925 Mellrichstadt",Mellrichstadt,NULL,21925,Germany,+49(0)6982 531089,NULL
+Knapp,Knappe Heß AG & Co. KGaA,Hans-Jürgen Hornich,Mr/Ms,"Anneke-Roskoth-Platz 146
+12653 Donaueschingen",Donaueschingen,NULL,12653,Germany,09429 55256,NULL
+Fröh,Fröhlich,Alice Weitzel,Mr/Ms,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau",Groß-Gerau,NULL,58548,Germany,2564075931,NULL
+Weitz,Weitzel AG,Prof. Dimitrios Rohleder B.A.,Mr/Ms,"Milena-Nohlmans-Allee 06
+20613 Bernburg",Bernburg,NULL,20613,Germany,(01228) 716251,NULL
+Renne,Renner AG & Co. KG,Dipl.-Ing. Tania Thanel B.A.,Mr/Ms,"Schuchhardtweg 466
+50840 Hünfeld",Hünfeld,NULL,50840,Germany,+49(0) 116400847,NULL
+Faust,Faust,Amelie Gude B.Sc.,Mr/Ms,"Domenico-Junk-Allee 534
+56453 Werdau",Werdau,NULL,56453,Germany,+49(0)8203 152371,NULL
+Horni,Hornig,Gerti Schmidtke,Mr/Ms,"Gorlitzplatz 8
+85319 Tecklenburg",Tecklenburg,NULL,85319,Germany,841344854,NULL
+Gumpr,Gumprich Trapp Stiftung & Co. KGaA,Zeynep van der Dussen,Mr/Ms,"Conradiring 5
+63971 Schrobenhausen",Schrobenhausen,NULL,63971,Germany,+49(0)0076 60045,NULL
+Schaa,Schaaf GbR,Ing. Nermin Haase,Mr/Ms,"Mülichenstraße 995
+87953 Wolfenbüttel",Wolfenbüttel,NULL,87953,Germany,+49(0)1126 26501,NULL
+Jänt,Jäntsch,Dipl.-Ing. Thorsten Jacob,Mr/Ms,"Süleyman-Köster-Weg 7
+64507 Wolfenbüttel",Wolfenbüttel,NULL,64507,Germany,(06988) 29558,NULL
+Rosen,Rosenow Metz GmbH,Elise Bien,Mr/Ms,"Milos-Linke-Platz 2/4
+92841 Riesa",Riesa,NULL,92841,Germany,+49 (0) 6116 054801,NULL
+Hübe,Hübel,Vanessa Schmidt,Mr/Ms,"Winklerring 4/5
+87966 Artern",Artern,NULL,87966,Germany,+49(0)7871 05970,NULL
+Schö,Schönland Bohnbach Stiftung & Co. KG,Francis Beer,Mr/Ms,"Nadeshda-Sager-Ring 2/3
+34478 Beilngries",Beilngries,NULL,34478,Germany,+49(0) 070833485,NULL
+Freud,Freudenberger,Egon Vollbrecht,Mr/Ms,"Gertraude-Jockel-Platz 5/0
+90995 Lübz",Lübz,NULL,90995,Germany,+49(0)5283 493717,NULL
+Drewe,Drewes KG,Eckhardt Krein,Mr/Ms,"Zeljko-auch Schlauchin-Weg 6/1
+60051 Neuruppin",Neuruppin,NULL,60051,Germany,+49 (0) 3205 704732,NULL
+Dörs,Dörschner GmbH,Tina Jacobi Jäckel-Junitz,Mr/Ms,"Paffrathallee 554
+65535 Neustrelitz",Neustrelitz,NULL,65535,Germany,+49(0)4071 04058,NULL
+Freud,Freudenberger,Augusta Langern-Klingelhöfer,Mr/Ms,"Antonia-Döring-Gasse 7
+64973 Monschau",Monschau,NULL,64973,Germany,(02127) 355183,NULL
+Metz,Metz,Lutz Gierschner,Mr/Ms,"Rosemannstr. 714
+13031 Euskirchen",Euskirchen,NULL,13031,Germany,06759 29724,NULL
+Jänt,Jäntsch Karz AG & Co. OHG,Dr. Wieland Adolph MBA.,Mr/Ms,"Necati-Christoph-Gasse 826
+34790 Seelow",Seelow,NULL,34790,Germany,+49(0) 599787079,NULL
+Baum,Baum,Cemal Bolnbach-Stey,Mr/Ms,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,NULL,96301,Germany,+49(0)6839585788,NULL
+Schul,Schulz KG,Cosima Beer,Mr/Ms,"Gretl-Pieper-Platz 726
+07541 Fallingbostel",Fallingbostel,NULL,7541,Germany,+49(0)8261 218821,NULL
+Carst,Carsten,Amir Thies,Mr/Ms,"Schulzstr. 348
+59184 Schmölln",Schmölln,NULL,59184,Germany,+49(0)0502 399847,NULL
+Schwi,Schwital,Frau Rosa Mende,Mr/Ms,"Corinne-Lachmann-Ring 341
+45096 Fallingbostel",Fallingbostel,NULL,45096,Germany,(02478) 14664,NULL
+Junck,Juncken e.G.,Stefan Grein Groth,Mr/Ms,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock",Wittstock,NULL,66340,Germany,06794 824946,NULL
+Krein,Krein,Maxim Dippel B.A.,Mr/Ms,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,NULL,66088,Germany,02116 915306,NULL
+Mies ,Mies Gertz Stiftung & Co. KGaA,Andy Pergande,Mr/Ms,"Jiri-Becker-Ring 43
+31344 Bad Kreuznach",Bad,NULL,31344,Germany,+49(0)2283 33290,NULL
+Liebe,Liebelt,Gerti Heuser,Mr/Ms,"Ibrahim-Bolzmann-Allee 4
+71254 Strasburg",Strasburg,NULL,71254,Germany,+49(0)6473 17746,NULL
+Junk,Junk,Frau Janet Jäntsch MBA.,Mr/Ms,"Briemerstr. 701
+09141 Fallingbostel",Fallingbostel,NULL,9141,Germany,+49(0) 801082987,NULL
+Atzle,Atzler AG,Herr Albrecht Löchel MBA.,Mr/Ms,"Heinz-Werner-Mans-Gasse 477
+55511 Sondershausen",Sondershausen,NULL,55511,Germany,06683 15505,NULL
+Acker,Ackermann GbR,Drago Cichorius,Mr/Ms,"August-Schönland-Gasse 0
+07712 Eggenfelden",Eggenfelden,NULL,7712,Germany,(05287) 308857,NULL
+Kitzm,Kitzmann Pieper AG,Pius Tlustek B.Eng.,Mr/Ms,"Rosenowallee 546
+26613 Brand",Brand,NULL,26613,Germany,09610 41017,NULL
+Hille,Hiller,Thilo Ullmann,Mr/Ms,"Miguel-Siering-Straße 564
+86195 Bitterfeld",Bitterfeld,NULL,86195,Germany,08247 97904,NULL
+Zimme,Zimmer Stiftung & Co. KG,Leif Klingelhöfer B.A.,Mr/Ms,"Artur-Riehl-Weg 5/6
+94069 Ribnitz-Damgarten",Ribnitz-Damgarten,NULL,94069,Germany,+49(0) 861199394,NULL
+Keude,Keudel van der Dussen KGaA,Metin Gerlach,Mr/Ms,"Schinkegasse 10
+01722 Göppingen",Göppingen,NULL,1722,Germany,429783033,NULL
+Caspa,Caspar AG,Ing. Mirko Reuter B.Eng.,Mr/Ms,"Roswita-Wernecke-Weg 85
+16452 Torgau",Torgau,NULL,16452,Germany,09488 679465,NULL
+Becke,Becker,Univ.Prof. Heinz-Willi Flantz,Mr/Ms,"Sinaida-Hübel-Straße 5/5
+93350 Delitzsch",Delitzsch,NULL,93350,Germany,+49 (0) 9363 766905,NULL
+Weihm,Weihmann Zorbach GmbH & Co. KG,Prof. Caterina Täsche B.A.,Mr/Ms,"Albersstraße 0
+53902 Tirschenreuth",Tirschenreuth,NULL,53902,Germany,03123 198605,NULL
+Hensc,Henschel,Bärbel Stoll,Mr/Ms,"Bolnbachstraße 465
+77777 Ilmenau",Ilmenau,NULL,77777,Germany,06100 06426,NULL
+Schmi,Schmidt,Dr. Wiltrud Beer,Mr/Ms,"Junitzgasse 220
+84359 Freudenstadt",Freudenstadt,NULL,84359,Germany,+49 (0) 0940 405719,NULL
+Schwi,Schwital,Sandor Pieper,Mr/Ms,"Mirella-Ring-Platz 78
+51455 Greifswald",Greifswald,NULL,51455,Germany,(05831) 23781,NULL
+Cicho,Cichorius,Adelbert Lehmann,Mr/Ms,"Haufferring 20
+08497 Freising",Freising,NULL,8497,Germany,+49(0)7191 28785,NULL
+Thies,Thies Seifert GmbH,Donald Preiß,Mr/Ms,"Sabine-Thies-Weg 2/9
+11589 Bamberg",Bamberg,NULL,11589,Germany,+49(0)2435 24074,NULL
+Bauer,Bauer AG,Jeanette Jacobi Jäckel,Mr/Ms,"Cemal-Scheuermann-Weg 5
+66982 Dessau",Dessau,NULL,66982,Germany,04217 914935,NULL
+Spie�,Spieß KG,Martine Geisel B.A.,Mr/Ms,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw",Calw,NULL,45614,Germany,565845769,NULL
+Ebert,Eberth AG & Co. OHG,Prof. Josip Kostolzin,Mr/Ms,"Karl-Georg-Käster-Straße 861
+71480 Bersenbrück",Bersenbrück,NULL,71480,Germany,01712 15703,NULL
+Junck,Junck Koch II KGaA,Helge Klotz-Trupp,Mr/Ms,"Nadja-Schinke-Straße 315
+58331 Heiligenstadt",Heiligenstadt,NULL,58331,Germany,08646 02363,NULL
+Rogge,Rogge KG,Elli Klingelhöfer,Mr/Ms,"Nohlmansweg 1/1
+99224 Heinsberg",Heinsberg,NULL,99224,Germany,+49(0)3165 92229,NULL
+Pohl ,Pohl OHG mbH,Michael Bloch-Vogt,Mr/Ms,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt",Helmstedt,NULL,5687,Germany,02555 082325,NULL
+Kusch,Kusch Hofmann AG,Conrad Heser MBA.,Mr/Ms,"Arnfried-Stoll-Straße 3/9
+91162 Coburg",Coburg,NULL,91162,Germany,+49 (0) 3555 693081,NULL
+Putz ,Putz GmbH & Co. KGaA,Hedwig Geisel,Mr/Ms,"Aleksandar-Löffler-Weg 9/5
+98587 Pegnitz",Pegnitz,NULL,98587,Germany,(01270) 869789,NULL
+Trös,Tröst,Albertine Fechner,Mr/Ms,"Eimergasse 3
+97795 Stuttgart",Stuttgart,NULL,97795,Germany,43831979,NULL
+Gieß,Gieß KG,Patrik Schottin,Mr/Ms,"Blochallee 3/4
+79432 Stuttgart",Stuttgart,NULL,79432,Germany,4702004382,NULL
+Gude ,Gude Neureuther AG,Aysel Ebert B.A.,Mr/Ms,"Gunhild-Budig-Weg 5
+78211 Reutlingen",Reutlingen,NULL,78211,Germany,253353596,NULL
+Mitsc,Mitschke Rosenow KG,Margaretha Etzold,Mr/Ms,"Herrmann-Sontag-Platz 8
+06608 Apolda",Apolda,NULL,6608,Germany,(00825) 76865,NULL
+Texto,Textor,Bernd Bonbach,Mr/Ms,"Leonore-Zorbach-Allee 782
+20026 Hamburg",Hamburg,NULL,20026,Germany,03544 59260,NULL
+Krusc,Kruschwitz,Friedrich Bähr,Mr/Ms,"Fischerstr. 8/5
+88848 Werdau",Werdau,NULL,88848,Germany,+49(0)4354 29327,NULL
+Warme,Warmer,Prof. Alwine Schomber B.Eng.,Mr/Ms,"Kobeltweg 78
+17987 Plauen",Plauen,NULL,17987,Germany,+49(0)5859 928196,NULL
+Wulf ,Wulf Stiftung & Co. KG,Christopher Meyer,Mr/Ms,"Marisa-Reichmann-Weg 99
+21626 Senftenberg",Senftenberg,NULL,21626,Germany,+49 (0) 6443 193961,NULL
+Hents,Hentschel,Bartholomäus Etzler,Mr/Ms,"Nikolaj-Klapp-Allee 3
+62320 Sigmaringen",Sigmaringen,NULL,62320,Germany,09198 05720,NULL
+Harlo,Harloff AG,Klaudia Schomber,Mr/Ms,"Schachtstraße 9
+03341 Strasburg",Strasburg,NULL,3341,Germany,+49(0)4552 958208,NULL
+Hartu,Hartung OHG mbH,Mirjana Reising,Mr/Ms,"Horniggasse 7/5
+99665 Fürstenwalde",Fürstenwalde,NULL,99665,Germany,+49(0) 319843827,NULL
+Drubi,Drubin Jähn AG & Co. KGaA,Joachim Reising,Mr/Ms,"Gertzstr. 43
+11032 Wesel",Wesel,NULL,11032,Germany,02358 290182,NULL
+Reinh,Reinhardt GmbH,Sahin Mülichen B.Sc.,Mr/Ms,"Christophallee 1/7
+56027 Cloppenburg",Cloppenburg,NULL,56027,Germany,202604783,NULL
+Heidr,Heidrich Graf AG,Prof. Yasmin Bachmann,Mr/Ms,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,NULL,43327,Germany,(02910) 941859,NULL
+Stiff,Stiffel Kruschwitz GmbH & Co. OHG,Sabina Reuter,Mr/Ms,"Vollbrechtplatz 8
+13764 Schwerin",Schwerin,NULL,13764,Germany,(06033) 923025,NULL
+Kitzm,Kitzmann,Fredi Bolzmann B.A.,Mr/Ms,"Naserweg 7
+94226 Lobenstein",Lobenstein,NULL,94226,Germany,+49(0)6024 253039,NULL
+Naser,Naser Gehringer AG & Co. OHG,Serge Albers,Mr/Ms,"Adlergasse 24
+93839 Viersen",Viersen,NULL,93839,Germany,(02403) 138424,NULL
+Dietz,Dietz GmbH,Klaus-Dieter Seidel,Mr/Ms,"Klemtring 93
+11440 Ribnitz-Damgarten",Ribnitz-Damgarten,NULL,11440,Germany,+49(0)3671 02684,NULL
+Räde,Rädel Ziegert Stiftung & Co. KGaA,Dipl.-Ing. Klaus-Michael Lehmann B.A.,Mr/Ms,"Hövelstraße 1
+66200 Ludwigsburg",Ludwigsburg,NULL,66200,Germany,+49 (0) 1080 487077,NULL
+Lübs,Lübs AG & Co. OHG,Ramazan Riehl-Stiffel,Mr/Ms,"Maik-Schottin-Gasse 3
+05898 Kyritz",Kyritz,NULL,5898,Germany,06626 149894,NULL
+Gröt,Gröttner Christoph KGaA,Anny Röhricht B.Sc.,Mr/Ms,"Birgit-Zahn-Allee 76
+97887 Burg",Burg,NULL,97887,Germany,(01502) 71083,NULL
+Jänt,Jäntsch,Magret Davids,Mr/Ms,"Yvette-Beier-Ring 9
+37070 Halberstadt",Halberstadt,NULL,37070,Germany,00721 096990,NULL
+Auste,Austermühle KG,Dipl.-Ing. Ursula Ziegert B.A.,Mr/Ms,"Gloria-Rudolph-Weg 4
+45515 Illertissen",Illertissen,NULL,45515,Germany,+49(0)4801648830,NULL
+Hein ,Hein Reinhardt GbR,Laszlo Thanel-Krein,Mr/Ms,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",Badalzungen,NULL,20847,Germany,(01027) 859812,NULL
+Junck,Junck,Prof. Gloria Girschner,Mr/Ms,"Röhrdanzstraße 5
+55309 Pasewalk",Pasewalk,NULL,55309,Germany,02949 87376,NULL
+Gerla,Gerlach,Songül Höfig,Mr/Ms,"Justina-Dussen van-Weg 5
+63701 Stendal",Stendal,NULL,63701,Germany,4770112821,NULL
+Beer,Beer,Johannes Ziegert,Mr/Ms,"Meik-Grein Groth-Ring 2/0
+59593 Kronach",Kronach,NULL,59593,Germany,9039595843,NULL
+Winkl,Winkler Schomber GmbH & Co. KGaA,Ing. Inken Eimer,Mr/Ms,"Wesackring 612
+85272 Zerbst",Zerbst,NULL,85272,Germany,+49(0) 631841650,NULL
+Prusc,Pruschke Rosemann GbR,Pamela Nerger B.Sc.,Mr/Ms,"Wesackstr. 92
+78547 Perleberg",Perleberg,NULL,78547,Germany,371859242,NULL
+Holst,Holsten GmbH & Co. KG,Ing. Gabriel Bolzmann,Mr/Ms,"Schmidtweg 2
+46261 Freital",Freital,NULL,46261,Germany,139636596,NULL

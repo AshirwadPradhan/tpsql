@@ -1,0 +1,3549 @@
+orderID,customerID,employeeID,orderDate,requiredDate,shippedDate,shipVia,freight,shipName,shipAddress,shipCity,shipRegion,shipPostalCode,shipCountry
+1,BEER,9,4/1/1996,6/12/1996,4/20/1996,3,48.1,NULL,"Felicitas-Kruschwitz-Allee 81
+26215 Sigmaringen",Sigmaringen,3,"81
+26215 ",Germany
+2,HEIN,3,4/1/1996,4/18/1996,4/1/1996,1,31.9,NULL,"Oestrovskyring 33
+12688 Luckau",Luckau,2,"33
+12688 ",Germany
+3,HENCK,6,4/1/1996,6/5/1996,5/14/1996,2,49.4,NULL,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf", Mallersdorf,4,"9/7
+14188",Germany
+4,MöCH,6,4/1/1996,6/17/1996,5/23/1996,3,12.2,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,1,"507
+30349",Germany
+5,JOPIC,8,4/1/1996,7/5/1996,4/8/1996,1,17.1,NULL,"Barkholzallee 609
+96700 Neustadtner Waldnaab", Neustadtner Waldnaab,2,"609
+96700",Germany
+6,ROSEM,4,4/2/1996,5/5/1996,4/8/1996,2,64.1,NULL,"Oestrovskyring 33
+12688 Luckau",Luckau,4,"33
+12688 ",Germany
+7,ZAHN ,3,4/3/1996,4/18/1996,4/6/1996,2,43.6,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",2,"van-Weg 5",Germany
+8,HüBE,8,4/3/1996,6/4/1996,4/3/1996,3,39.1,NULL,"Schmidtweg 2
+46261 Freital",reital,2,"2
+46261 F",Germany
+9,WOHLG,2,4/4/1996,6/5/1996,5/25/1996,2,91.4,NULL,"Bohlanderallee 2/9
+85077 Gunzenhausen", Gunzenhausen,2,"2/9
+85077",Germany
+10,SCHMI,3,4/5/1996,4/23/1996,4/6/1996,3,24.1,NULL,"Silvana-Wagenknecht-Straße 2
+92679 Stade",tade,2,"2
+92679 S",Germany
+11,HILLE,3,4/6/1996,4/21/1996,4/7/1996,1,28.4,NULL,"Weißstr. 24
+13500 Uelzen",Uelzen,2,"24
+13500 ",Germany
+12,SCHWI,9,4/6/1996,4/21/1996,4/6/1996,2,99.1,NULL,"Gotthardallee 5/5
+45130 Hohenmölsen", Hohenmölsen,4,"5/5
+45130",Germany
+13,SCHö,9,4/6/1996,6/25/1996,5/27/1996,1,14.8,NULL,"Patberggasse 3
+50164 Gelnhausen",elnhausen,2,"3
+50164 G",Germany
+14,HENCK,2,4/6/1996,6/2/1996,4/30/1996,3,27.2,NULL,"Schwitalring 880
+19940 Zossen", Zossen,4,"880
+19940",Germany
+15,KARZ ,9,4/9/1996,5/10/1996,4/9/1996,2,91.9,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,2,"4/9
+01718",Germany
+16,TRöS,1,4/10/1996,5/14/1996,4/19/1996,2,28.5,NULL,"Guntram-Staude-Gasse 410
+27971 Hildesheim", Hildesheim,1,"410
+27971",Germany
+17,WIELO,7,4/10/1996,6/24/1996,4/16/1996,3,26.7,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,4,"07
+63135 ",Germany
+18,HENCK,4,4/10/1996,7/3/1996,4/13/1996,3,80.4,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,3,"864
+55722",Germany
+19,DREWE,8,4/10/1996,5/27/1996,4/19/1996,3,66.7,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,4,"1/5
+50734",Germany
+20,LöWE,3,4/11/1996,6/16/1996,6/6/1996,1,43.7,NULL,"Rosemannstr. 304
+11229 Coburg", Coburg,1,"304
+11229",Germany
+21,KLEMT,6,4/11/1996,5/8/1996,4/25/1996,1,11.1,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,1,"71
+11958 ",Germany
+22,KRAUS,9,4/12/1996,5/23/1996,5/2/1996,1,27.2,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,3,"2
+82214 C",Germany
+23,HEIN,1,4/12/1996,7/14/1996,6/14/1996,3,20,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,1,"182
+44826",Germany
+24,ZIRME,4,4/13/1996,6/19/1996,4/14/1996,3,51.5,NULL,"Hörlestraße 34
+51159 Soltau",Soltau,3,"34
+51159 ",Germany
+25,TRUB ,7,4/13/1996,6/11/1996,5/31/1996,2,54.4,NULL,"Herrmannstr. 02
+29655 Wanzleben",Wanzleben,4,"02
+29655 ",Germany
+26,FREUD,6,4/13/1996,4/25/1996,4/13/1996,3,16.7,NULL,"Wesackring 612
+85272 Zerbst", Zerbst,1,"612
+85272",Germany
+27,BAUM,5,4/14/1996,7/13/1996,6/9/1996,1,93,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,4,"2
+04206 D",Germany
+28,KUSCH,3,4/14/1996,6/23/1996,5/12/1996,2,44.4,NULL,"Dietzstraße 24
+40598 Herzberg",Herzberg,2,"24
+40598 ",Germany
+29,ERNST,3,4/14/1996,5/2/1996,4/21/1996,1,20,NULL,"Kühnertring 8
+13040 Büsingenm Hochrhein",üsingenm Hochrhein,3,"8
+13040 B",Germany
+30,HEUSE,1,4/14/1996,4/30/1996,4/17/1996,1,98.4,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,2,"43
+96301 ",Germany
+31,PIEPE,8,4/15/1996,7/1/1996,5/18/1996,1,44.8,NULL,"Langering 9/1
+59895 Eisenach", Eisenach,3,"9/1
+59895",Germany
+32,VOGT ,5,4/15/1996,6/5/1996,5/18/1996,3,22.4,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,3,"57
+66088 ",Germany
+33,REICH,5,4/16/1996,5/4/1996,4/16/1996,1,76.1,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,1,"885
+14501",Germany
+34,SCHOL,2,4/16/1996,6/17/1996,6/7/1996,3,38.3,NULL,"Jiri-Becker-Ring 43
+31344 Bad Kreuznach",Bad Kreuznach,3,"43
+31344 ",Germany
+35,ANDER,2,4/17/1996,6/14/1996,5/13/1996,1,40.4,NULL,"Beckmannstr. 0/0
+13322 Neustrelitz", Neustrelitz,3,"0/0
+13322",Germany
+36,DRUBI,2,4/20/1996,7/5/1996,5/26/1996,1,65.5,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,2,"011
+96562",Germany
+37,TEXTO,7,4/20/1996,5/10/1996,4/22/1996,1,43.6,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,1,"7/5
+99665",Germany
+38,WARME,1,4/21/1996,7/26/1996,5/9/1996,1,41.9,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,2,"2
+04206 D",Germany
+39,SCHMI,4,4/23/1996,7/19/1996,6/1/1996,2,2,NULL,"Blümelgasse 9
+50750 Roth",oth,3,"9
+50750 R",Germany
+40,BOLNB,7,4/23/1996,5/12/1996,4/28/1996,1,11.1,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,3,"6
+48836 B",Germany
+41,SCHWI,5,4/24/1996,5/5/1996,4/25/1996,3,90.8,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,2,"15
+75990 ",Germany
+42,LöWE,1,4/25/1996,8/1/1996,6/21/1996,2,25.6,NULL,"Arnfried-Stoll-Straße 3/9
+91162 Coburg", Coburg,4,"3/9
+91162",Germany
+43,MITSC,1,4/26/1996,6/23/1996,5/23/1996,3,42.6,NULL,"Kochstraße 0
+97773 Neunburg vorm Wald",eunburg vorm Wald,1,"0
+97773 N",Germany
+44,MäLZ,8,4/26/1996,8/3/1996,7/14/1996,2,6.3,NULL,"Strohweg 672
+03176 Torgau", Torgau,3,"672
+03176",Germany
+45,TRUB ,8,4/30/1996,5/10/1996,4/30/1996,2,84.7,NULL,"Knappeweg 9/8
+99974 Lippstadt", Lippstadt,1,"9/8
+99974",Germany
+46,HOLST,5,4/30/1996,6/6/1996,5/3/1996,2,3.6,NULL,"Schuchhardtgasse 677
+21925 Mellrichstadt", Mellrichstadt,3,"677
+21925",Germany
+47,GIEß,9,4/30/1996,6/17/1996,6/6/1996,1,31.9,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,3,"578
+16565",Germany
+48,STOLL,5,5/1/1996,7/21/1996,6/24/1996,1,15.2,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,4,"5/1
+84401",Germany
+49,BEER,1,5/2/1996,6/13/1996,5/17/1996,1,10.3,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,2,"448
+24596",Germany
+50,BIRNB,3,5/3/1996,5/24/1996,5/10/1996,2,23.1,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,3,"782
+20026",Germany
+51,HöRL,3,5/3/1996,7/12/1996,7/1/1996,1,15.7,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,3,"9
+50116 A",Germany
+52,MITSC,5,5/3/1996,7/6/1996,5/8/1996,3,73.4,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,1,"57
+66088 ",Germany
+53,GIEß,9,5/4/1996,7/29/1996,6/30/1996,1,92.7,NULL,"Bruderplatz 118
+88604 Jessen", Jessen,3,"118
+88604",Germany
+54,KARZ ,5,5/5/1996,8/10/1996,6/27/1996,1,78.5,NULL,"Nadeshda-Sager-Ring 2/3
+34478 Beilngries", Beilngries,2,"2/3
+34478",Germany
+55,WEIß,1,5/7/1996,8/10/1996,6/27/1996,1,26.4,NULL,"Briemerstr. 701
+09141 Fallingbostel", Fallingbostel,4,"701
+09141",Germany
+56,LIEBE,3,5/9/1996,6/11/1996,5/29/1996,3,81.5,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,4,"7
+98012 S",Germany
+57,BOLNB,3,5/12/1996,6/5/1996,5/25/1996,1,15.7,NULL,"Slobodan-Mühle-Allee 613
+69369 Cloppenburg", Cloppenburg,1,"613
+69369",Germany
+58,RöHR,2,5/13/1996,7/14/1996,6/21/1996,2,31.7,NULL,"Dietzstraße 24
+40598 Herzberg",Herzberg,4,"24
+40598 ",Germany
+59,FISCH,8,5/13/1996,8/10/1996,6/12/1996,3,8.7,NULL,"Boucseinring 423
+31178 Kulmbach", Kulmbach,4,"423
+31178",Germany
+60,BöRN,6,5/13/1996,5/28/1996,5/13/1996,2,31.2,NULL,"Rittergasse 62
+66128 Burgdorf",Burgdorf,2,"62
+66128 ",Germany
+61,JäNT,2,5/14/1996,6/12/1996,5/22/1996,1,17.5,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,3,"2/0
+46941",Germany
+62,SAUER,6,5/16/1996,8/14/1996,6/30/1996,1,95.3,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,3,"7
+37523 R",Germany
+63,EIGEN,6,5/17/1996,7/10/1996,5/18/1996,3,38.4,NULL,"Bolnbachstraße 465
+77777 Ilmenau", Ilmenau,4,"465
+77777",Germany
+64,LADEC,5,5/17/1996,6/12/1996,5/21/1996,2,19.6,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,3,"43
+96301 ",Germany
+65,BäHR,3,5/19/1996,6/25/1996,5/28/1996,3,42.3,NULL,"Rittergasse 62
+66128 Burgdorf",Burgdorf,2,"62
+66128 ",Germany
+66,HöFI,3,5/20/1996,8/17/1996,6/10/1996,1,98.2,NULL,"Birnbaumallee 99
+75377 Uelzen",Uelzen,3,"99
+75377 ",Germany
+67,ROHT,2,5/21/1996,8/7/1996,7/3/1996,2,62.7,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+68,FISCH,2,5/21/1996,7/26/1996,6/23/1996,1,33.4,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,1,"74
+69440 ",Germany
+69,HEUSE,4,5/22/1996,8/20/1996,6/13/1996,3,94.9,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,3,"864
+55722",Germany
+70,JUNCK,9,5/22/1996,6/10/1996,5/25/1996,1,47.6,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,1,"24
+45998 ",Germany
+71,LüBS,2,5/25/1996,8/12/1996,5/28/1996,3,16.6,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",4,Jäckelweg,Germany
+72,HENTS,7,5/25/1996,7/23/1996,7/12/1996,2,48.8,NULL,"Reza-Neureuther-Straße 224
+41022 Göttingen", Göttingen,2,"224
+41022",Germany
+73,FREUD,6,5/25/1996,8/31/1996,7/18/1996,2,25,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,4,"887
+17347",Germany
+74,ROSKO,4,5/27/1996,8/9/1996,6/25/1996,3,26.5,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,2,"2
+04206 D",Germany
+75,GOTTH,3,5/27/1996,8/8/1996,7/3/1996,3,24.7,NULL,"Zenta-Loos-Straße 23
+28758 Reutlingen",Reutlingen,3,"23
+28758 ",Germany
+76,HENCK,5,5/29/1996,6/18/1996,5/30/1996,2,81.1,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,4,"1
+85413 C",Germany
+77,HARLO,1,5/29/1996,8/5/1996,6/17/1996,2,32.2,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,1,"1
+66200 L",Germany
+78,ALBER,6,5/30/1996,9/6/1996,7/27/1996,2,46,NULL,"Jessica-Geisel-Ring 2
+51517 Sankt Goarshausen",ankt Goarshausen,3,"2
+51517 S",Germany
+79,HEINR,3,5/31/1996,8/29/1996,5/31/1996,2,13.9,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,3,"6
+48836 B",Germany
+80,SCHMI,9,5/31/1996,7/6/1996,6/7/1996,3,96,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,4,"4/4
+43815",Germany
+81,ZAHN ,4,6/1/1996,8/24/1996,7/23/1996,3,50.1,NULL,"Esther-Döring-Platz 538
+94965 Magdeburg", Magdeburg,3,"538
+94965",Germany
+82,LIEBE,7,6/1/1996,7/15/1996,6/30/1996,3,66.8,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,2,"2/0
+46941",Germany
+83,HERIN,3,6/3/1996,9/5/1996,6/12/1996,3,77.4,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,2,"3/6
+00456",Germany
+84,KALLE,6,6/3/1996,7/29/1996,6/22/1996,3,31,NULL,"Heuserallee 8
+48412 Main-Höchst)",ain-Höchst),3,"8
+48412 M",Germany
+85,BUTTE,1,6/3/1996,7/11/1996,6/3/1996,1,100,NULL,"Eimergasse 3
+97795 Stuttgart",tuttgart,2,"3
+97795 S",Germany
+86,GERTZ,1,6/5/1996,9/4/1996,7/27/1996,3,32.1,NULL,"Miguel-Siering-Straße 564
+86195 Bitterfeld", Bitterfeld,3,"564
+86195",Germany
+87,WEIME,6,6/5/1996,7/10/1996,6/26/1996,3,57.3,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,4,"348
+59184",Germany
+88,BOLNB,8,6/6/1996,9/12/1996,6/10/1996,1,86.8,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,2,"57
+66088 ",Germany
+89,HEINR,6,6/7/1996,7/13/1996,6/17/1996,3,68.2,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,4,"2/2
+46795",Germany
+90,EBERH,1,6/8/1996,7/4/1996,6/22/1996,3,88.2,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,2,"6
+20847 B",Germany
+91,SALZ ,5,6/8/1996,8/2/1996,7/10/1996,1,95.4,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,4,"348
+59184",Germany
+92,DRUBI,4,6/8/1996,6/25/1996,6/9/1996,1,5.5,NULL,"Knappestraße 344
+14542 Lörrach", Lörrach,2,"344
+14542",Germany
+93,MUDE ,6,6/8/1996,7/18/1996,6/24/1996,2,30.4,NULL,"Misicherstraße 3
+87450 Malchin",alchin,4,"3
+87450 M",Germany
+94,GERLA,4,6/8/1996,9/14/1996,8/28/1996,1,88.7,NULL,"Zänkergasse 66
+74736 Sebnitz",Sebnitz,4,"66
+74736 ",Germany
+95,ZAHN ,3,6/8/1996,7/10/1996,6/21/1996,2,17.9,NULL,"Reisingallee 62
+78550 Calau",Calau,3,"62
+78550 ",Germany
+96,SCHLE,8,6/9/1996,8/18/1996,6/16/1996,2,38.9,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,1,"6
+20847 B",Germany
+97,JäNT,7,6/10/1996,6/24/1996,6/11/1996,1,57.5,NULL,"Wagnerstr. 0/7
+96937 Altentreptow", Altentreptow,4,"0/7
+96937",Germany
+98,FREUD,7,6/11/1996,6/30/1996,6/12/1996,1,37,NULL,"Meisterstr. 109
+60837 Melle", Melle,1,"109
+60837",Germany
+99,JäNT,7,6/11/1996,7/21/1996,6/14/1996,1,39.9,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,3,"864
+55722",Germany
+100,WEITZ,7,6/12/1996,7/31/1996,7/4/1996,3,49.7,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,4,"57
+66088 ",Germany
+101,HENSC,1,6/13/1996,9/6/1996,7/9/1996,1,85.9,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,2,"2
+04206 D",Germany
+102,ROSEM,1,6/13/1996,8/25/1996,7/18/1996,2,84.1,NULL,"Felicitas-Kruschwitz-Allee 81
+26215 Sigmaringen",Sigmaringen,4,"81
+26215 ",Germany
+103,KLAPP,4,6/13/1996,8/18/1996,7/22/1996,2,91.5,NULL,"Junkring 07
+55687 Arnstadt",Arnstadt,4,"07
+55687 ",Germany
+104,SCHü,7,6/13/1996,7/17/1996,6/20/1996,3,88.7,NULL,"Junkring 07
+55687 Arnstadt",Arnstadt,1,"07
+55687 ",Germany
+105,KITZM,3,6/14/1996,9/4/1996,6/15/1996,2,93.2,NULL,"Sabine-Thies-Weg 2/9
+11589 Bamberg", Bamberg,2,"2/9
+11589",Germany
+106,LORCH,2,6/15/1996,7/4/1996,6/17/1996,2,24.5,NULL,"Artur-Riehl-Weg 5/6
+94069 Ribnitz-Damgarten", Ribnitz-Damgarten,4,"5/6
+94069",Germany
+107,HAUFF,6,6/15/1996,9/5/1996,6/22/1996,1,95,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,1,"2/4
+92841",Germany
+108,WEIHM,2,6/16/1996,6/29/1996,6/17/1996,1,71.8,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,1,"864
+55722",Germany
+109,GORLI,1,6/17/1996,7/4/1996,6/18/1996,1,85.3,NULL,"Hendriksgasse 2/6
+67266 Niesky", Niesky,2,"2/6
+67266",Germany
+110,EHLER,6,6/19/1996,9/26/1996,9/10/1996,1,41.2,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,3,"1/7
+72386",Germany
+111,JäNT,7,6/20/1996,9/24/1996,6/24/1996,3,68.3,NULL,"Sylwia-Margraf-Straße 1/3
+87860 Holzminden", Holzminden,3,"1/3
+87860",Germany
+112,SCHö,7,6/20/1996,8/7/1996,7/8/1996,1,97.3,NULL,"Heuserallee 8
+48412 Main-Höchst)",ain-Höchst),2,"8
+48412 M",Germany
+113,BOLNB,8,6/21/1996,9/23/1996,8/15/1996,2,42.9,NULL,"Winklerring 4/5
+87966 Artern", Artern,3,"4/5
+87966",Germany
+114,STRIE,6,6/22/1996,9/25/1996,8/28/1996,3,37.1,NULL,"Oestrovskyring 33
+12688 Luckau",Luckau,2,"33
+12688 ",Germany
+115,FRANK,7,6/22/1996,7/7/1996,6/27/1996,2,34.9,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,2,"71
+11958 ",Germany
+116,KENSY,1,6/24/1996,8/14/1996,6/24/1996,1,16.1,NULL,"Schombergasse 6/0
+60594 Kelheim", Kelheim,3,"6/0
+60594",Germany
+117,PäRT,1,6/25/1996,7/9/1996,6/27/1996,2,81.3,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,3,"7/2
+58548",Germany
+118,HEINR,7,6/26/1996,9/19/1996,9/1/1996,1,1.3,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,3,"9
+50116 A",Germany
+119,RöHR,7,6/26/1996,8/26/1996,7/26/1996,2,41.5,NULL,"Miguel-Siering-Straße 564
+86195 Bitterfeld", Bitterfeld,4,"564
+86195",Germany
+120,GORLI,8,6/26/1996,7/26/1996,7/7/1996,1,40.1,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,2,"7/5
+99665",Germany
+121,WARME,5,6/27/1996,7/9/1996,6/27/1996,2,91.4,NULL,"Hamannweg 0
+48059 Sonneberg",onneberg,1,"0
+48059 S",Germany
+122,KöST,3,6/28/1996,8/22/1996,7/16/1996,2,66.6,NULL,"Corinne-Lachmann-Ring 341
+45096 Fallingbostel", Fallingbostel,2,"341
+45096",Germany
+123,GERLA,1,6/28/1996,9/3/1996,8/22/1996,3,4.1,NULL,"Zobelgasse 1/4
+10867 Regensburg", Regensburg,4,"1/4
+10867",Germany
+124,GORLI,9,6/28/1996,8/27/1996,7/5/1996,2,17.6,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,1,"2/0
+46941",Germany
+125,ULLMA,1,6/30/1996,8/27/1996,7/1/1996,1,19.2,NULL,"Denise-Buchholz-Allee 289
+00011 Sternberg", Sternberg,2,"289
+00011",Germany
+126,VOGT ,5,7/1/1996,9/3/1996,7/21/1996,2,83.4,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,3,"1
+85413 C",Germany
+127,SPEER,4,7/1/1996,8/9/1996,7/22/1996,1,28.5,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,2,"545
+83219",Germany
+128,CASPA,4,7/1/1996,10/4/1996,7/20/1996,1,29.7,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,2,"83
+89721 ",Germany
+129,ROHT,9,7/2/1996,8/17/1996,7/5/1996,3,91.2,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,2,"0
+59730 F",Germany
+130,HEINR,6,7/3/1996,10/3/1996,9/10/1996,3,55.4,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,2,"864
+55722",Germany
+131,HERTR,1,7/3/1996,8/13/1996,7/11/1996,1,95.2,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,2,"885
+14501",Germany
+132,BAUER,1,7/3/1996,8/29/1996,8/7/1996,2,73.4,NULL,"Marika-Gierschner-Allee 5/5
+46821 Ebern", Ebern,1,"5/5
+46821",Germany
+133,SCHLE,9,7/5/1996,9/3/1996,8/14/1996,1,80,NULL,"Aziz-Werner-Straße 717
+55386 Tecklenburg", Tecklenburg,3,"717
+55386",Germany
+134,THANE,8,7/5/1996,8/11/1996,7/31/1996,3,58.7,NULL,"Sabine-Thies-Weg 2/9
+11589 Bamberg", Bamberg,4,"2/9
+11589",Germany
+135,SCHOM,6,7/6/1996,7/28/1996,7/17/1996,1,10.2,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,4,"71
+11958 ",Germany
+136,DITSC,2,7/7/1996,8/31/1996,8/17/1996,3,78,NULL,"Barthweg 5
+57957 Bersenbrück",ersenbrück,4,"5
+57957 B",Germany
+137,LANGE,5,7/7/1996,10/6/1996,7/31/1996,1,3.3,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,4,"4/9
+01718",Germany
+138,HöFI,2,7/8/1996,9/29/1996,9/4/1996,1,46.9,NULL,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw", Calw,1,"9/3
+45614",Germany
+139,DIETZ,3,7/9/1996,10/9/1996,8/23/1996,2,7.1,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,2,"1
+85413 C",Germany
+140,WULF ,5,7/10/1996,7/21/1996,7/10/1996,2,14.2,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,2,"43
+96301 ",Germany
+141,SCHWI,4,7/11/1996,8/21/1996,7/11/1996,2,14.9,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,3,"0/8
+66340",Germany
+142,LOSEK,5,7/11/1996,8/22/1996,7/13/1996,2,9,NULL,"Hörlegasse 1
+37491 Oberviechtach",berviechtach,2,"1
+37491 O",Germany
+143,ROGGE,1,7/12/1996,8/23/1996,7/31/1996,3,4.9,NULL,"Valerij-Heinrich-Platz 1
+32225 Melsungen",elsungen,3,"1
+32225 M",Germany
+144,JäNT,7,7/14/1996,10/9/1996,9/18/1996,3,50.3,NULL,"Blümelgasse 9
+50750 Roth",oth,3,"9
+50750 R",Germany
+145,HENSC,4,7/14/1996,8/3/1996,7/21/1996,2,7.7,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,2,"45
+89867 ",Germany
+146,WEIME,4,7/14/1996,8/5/1996,7/22/1996,3,88.1,NULL,"Lieselotte-Junitz-Weg 04
+58381 Augsburg",Augsburg,2,"04
+58381 ",Germany
+147,SEIFE,3,7/15/1996,10/4/1996,8/7/1996,3,99.7,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,3,"4/0
+25180",Germany
+148,STRIE,1,7/15/1996,9/6/1996,8/18/1996,2,95.4,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,2,"7
+37523 R",Germany
+149,MEIST,9,7/15/1996,10/10/1996,8/28/1996,1,54.4,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",2,"van-Weg 5",Germany
+150,NERGE,4,7/16/1996,10/22/1996,8/4/1996,2,3.7,NULL,"Junkring 07
+55687 Arnstadt",Arnstadt,2,"07
+55687 ",Germany
+151,HEIN ,6,7/16/1996,8/6/1996,7/19/1996,2,41.8,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,4,"6
+20847 B",Germany
+152,KITZM,9,7/17/1996,8/20/1996,7/21/1996,1,82.1,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,1,"5
+66982 D",Germany
+153,HENCK,8,7/17/1996,9/6/1996,8/20/1996,3,32.7,NULL,"Bohlanderallee 2/9
+85077 Gunzenhausen", Gunzenhausen,2,"2/9
+85077",Germany
+154,BENDE,1,7/17/1996,7/30/1996,7/19/1996,1,80,NULL,"Mirella-Ring-Platz 78
+51455 Greifswald",Greifswald,4,"78
+51455 ",Germany
+155,BAUER,7,7/18/1996,9/3/1996,7/26/1996,3,90.7,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,4,"782
+20026",Germany
+156,GERLA,3,7/19/1996,9/21/1996,8/14/1996,1,99.5,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,4,"45
+89867 ",Germany
+157,JOPIC,1,7/19/1996,9/13/1996,7/28/1996,2,30.7,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,2,"45
+89867 ",Germany
+158,HOLST,8,7/20/1996,8/28/1996,8/11/1996,1,6.8,NULL,"Salzstraße 9
+87357 Wurzen",urzen,2,"9
+87357 W",Germany
+159,SCHMI,3,7/21/1996,7/31/1996,7/21/1996,1,14.2,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,1,"885
+14501",Germany
+160,ALBER,1,7/21/1996,9/20/1996,8/23/1996,1,83.8,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,4,"6
+48836 B",Germany
+161,NIEME,1,7/22/1996,9/12/1996,8/17/1996,2,58.4,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,1,"545
+83219",Germany
+162,KöST,8,7/22/1996,9/26/1996,8/9/1996,3,36.4,NULL,"Müllerstraße 2/0
+59379 Genthin", Genthin,3,"2/0
+59379",Germany
+163,KRAUS,6,7/22/1996,10/11/1996,8/31/1996,3,56,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,3,"726
+07541",Germany
+164,MANGO,2,7/23/1996,8/7/1996,7/24/1996,1,19.3,NULL,"Conradiring 5
+63971 Schrobenhausen",chrobenhausen,4,"5
+63971 S",Germany
+165,JOHAN,7,7/24/1996,8/14/1996,8/1/1996,2,30.5,NULL,"Sonja-Koch-Allee 68
+92392 Hohenstein-Ernstthal",Hohenstein-Ernstthal,2,"68
+92392 ",Germany
+166,MöCH,9,7/24/1996,10/21/1996,10/11/1996,3,17.6,NULL,"Hölzenbecherring 4
+11530 Dinslaken",inslaken,4,"4
+11530 D",Germany
+167,SCHOL,5,7/25/1996,9/27/1996,8/10/1996,2,77.5,NULL,"Eberhardtweg 255
+04038 Reutlingen", Reutlingen,3,"255
+04038",Germany
+168,LORCH,4,7/26/1996,9/10/1996,8/23/1996,1,66.7,NULL,"Sergej-Binner-Ring 81
+61826 Gütersloh",Gütersloh,2,"81
+61826 ",Germany
+169,STIFF,4,7/26/1996,8/8/1996,7/26/1996,1,42.4,NULL,"Gehringergasse 5
+50608 Diepholz",iepholz,4,"5
+50608 D",Germany
+170,HENCK,6,7/26/1996,9/2/1996,7/27/1996,1,81.6,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,4,"43
+96301 ",Germany
+171,FREUD,3,7/28/1996,9/12/1996,7/28/1996,2,1.4,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,3,"5/7
+36390",Germany
+172,BAUM,3,7/28/1996,9/14/1996,8/23/1996,1,99.3,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,4,"7/2
+58548",Germany
+173,LöWE,7,7/29/1996,8/12/1996,8/2/1996,3,76.8,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,2,"1/5
+50734",Germany
+174,GUMPR,8,7/29/1996,9/23/1996,9/11/1996,1,99.9,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,1,"71
+11958 ",Germany
+175,NERGE,8,7/29/1996,10/25/1996,9/24/1996,2,74.7,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,4,"2/4
+92841",Germany
+176,CARST,8,7/30/1996,9/7/1996,8/9/1996,2,1.1,NULL,"Zeljko-auch Schlauchin-Weg 6/1
+60051 Neuruppin","-Weg 6/1
+60051 Neuruppin",4,Schlauchin,Germany
+177,SEIFE,2,7/31/1996,9/29/1996,8/22/1996,3,16.2,NULL,"Corinne-Lachmann-Ring 341
+45096 Fallingbostel", Fallingbostel,3,"341
+45096",Germany
+178,BUTTE,1,7/31/1996,8/30/1996,8/3/1996,1,93.7,NULL,"Guntram-Staude-Gasse 410
+27971 Hildesheim", Hildesheim,4,"410
+27971",Germany
+179,LüBS,2,7/31/1996,10/28/1996,8/29/1996,3,39.8,NULL,"Wesackstr. 92
+78547 Perleberg",Perleberg,1,"92
+78547 ",Germany
+180,BAUER,4,7/31/1996,10/22/1996,8/11/1996,2,15.5,NULL,"Bachmannring 8
+98747 Flöha",löha,1,"8
+98747 F",Germany
+181,BECKE,9,7/31/1996,9/8/1996,8/22/1996,2,26.7,NULL,"Esther-Döring-Platz 538
+94965 Magdeburg", Magdeburg,3,"538
+94965",Germany
+182,BUCHH,8,8/1/1996,9/17/1996,8/24/1996,3,39.6,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+183,JACOB,7,8/2/1996,10/26/1996,8/25/1996,1,92.6,NULL,"Conradiring 5
+63971 Schrobenhausen",chrobenhausen,2,"5
+63971 S",Germany
+184,KäST,3,8/2/1996,11/7/1996,9/17/1996,3,20,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,2,"9
+50116 A",Germany
+185,ZIMME,4,8/3/1996,9/5/1996,8/9/1996,1,56.1,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,3,"7
+64973 M",Germany
+186,SCHOL,3,8/4/1996,8/24/1996,8/6/1996,1,16.5,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,4,"448
+24596",Germany
+187,HERIN,8,8/4/1996,10/31/1996,10/8/1996,2,76,NULL,"Bohlanderallee 2/9
+85077 Gunzenhausen", Gunzenhausen,1,"2/9
+85077",Germany
+188,KAMBS,2,8/4/1996,9/13/1996,8/25/1996,3,52.7,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,4,"2/0
+46941",Germany
+189,DIETZ,7,8/5/1996,8/29/1996,8/5/1996,3,92.8,NULL,"Schuchhardtgasse 677
+21925 Mellrichstadt", Mellrichstadt,1,"677
+21925",Germany
+190,KRUSC,4,8/5/1996,9/23/1996,8/24/1996,3,98.2,NULL,"Naserweg 7
+94226 Lobenstein",obenstein,2,"7
+94226 L",Germany
+191,GERTZ,7,8/5/1996,10/6/1996,9/11/1996,2,44.3,NULL,"Herrmann-Sontag-Platz 8
+06608 Apolda",polda,2,"8
+06608 A",Germany
+192,SCHAA,2,8/6/1996,8/20/1996,8/9/1996,1,96,NULL,"Zirmeplatz 3/7
+37704 Bützow", Bützow,2,"3/7
+37704",Germany
+193,HäRI,7,8/6/1996,9/9/1996,8/28/1996,2,59.1,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,1,"27
+43327 ",Germany
+194,HEIN,3,8/6/1996,8/25/1996,8/13/1996,2,45.7,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,1,"0
+59730 F",Germany
+195,ZAHN ,1,8/6/1996,10/21/1996,8/16/1996,3,53.8,NULL,"Esther-Döring-Platz 538
+94965 Magdeburg", Magdeburg,2,"538
+94965",Germany
+196,JOHAN,1,8/8/1996,9/15/1996,8/31/1996,2,4.9,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,1,"5/8
+69219",Germany
+197,SCHü,7,8/8/1996,9/30/1996,8/16/1996,3,10.7,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,2,"58
+01930 ",Germany
+198,TäSC,2,8/8/1996,9/21/1996,9/4/1996,3,97.7,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,4,"9
+50116 A",Germany
+199,BIRNB,7,8/9/1996,9/10/1996,8/26/1996,2,92.9,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,4,"95
+61813 ",Germany
+200,HENSC,4,8/9/1996,9/29/1996,8/13/1996,2,95.7,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,3,"4/0
+25180",Germany
+201,HEIDR,6,8/10/1996,9/8/1996,8/13/1996,1,21.3,NULL,"Bruderplatz 118
+88604 Jessen", Jessen,4,"118
+88604",Germany
+202,FRANK,5,8/11/1996,9/10/1996,8/23/1996,3,86.5,NULL,"Schachtstraße 9
+03341 Strasburg",trasburg,1,"9
+03341 S",Germany
+203,MUDE ,7,8/12/1996,10/23/1996,8/17/1996,1,14.6,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,4,"43
+96301 ",Germany
+204,LADEC,5,8/12/1996,10/14/1996,9/3/1996,2,58.4,NULL,"Irmingard-Bien-Allee 12
+08012 Stade",Stade,4,"12
+08012 ",Germany
+205,FECHN,3,8/12/1996,11/4/1996,10/11/1996,2,40.8,NULL,"Schinkegasse 10
+01722 Göppingen",Göppingen,4,"10
+01722 ",Germany
+206,JUNCK,4,8/12/1996,9/13/1996,8/19/1996,2,4.5,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,3,"5/1
+84401",Germany
+207,OTTO ,3,8/13/1996,9/28/1996,8/19/1996,1,8,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,4,"782
+20026",Germany
+208,AUMAN,4,8/14/1996,10/17/1996,10/4/1996,2,71.5,NULL,"Birnbaumallee 99
+75377 Uelzen",Uelzen,2,"99
+75377 ",Germany
+209,GEHRI,7,8/14/1996,11/4/1996,8/14/1996,3,36.8,NULL,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim", Parchim,1,"0/7
+46697",Germany
+210,WAGEN,7,8/14/1996,9/11/1996,8/25/1996,3,68.1,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,4,"2/2
+46795",Germany
+211,SCHAC,7,8/14/1996,11/11/1996,10/4/1996,2,76.2,NULL,"Hoffmannstraße 67
+65972 Säckingen",Säckingen,1,"67
+65972 ",Germany
+212,PRUSC,6,8/14/1996,8/28/1996,8/18/1996,2,64.3,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,4,"667
+17837",Germany
+213,MöCH,6,8/15/1996,10/25/1996,9/7/1996,1,59,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,3,"2/5
+05313",Germany
+214,THIES,6,8/17/1996,9/20/1996,9/6/1996,3,32.2,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,1,"0
+07712 E",Germany
+215,ROSKO,4,8/17/1996,9/1/1996,8/19/1996,2,89.5,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,1,"95
+61813 ",Germany
+216,SORGA,4,8/17/1996,10/2/1996,8/19/1996,2,72,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,2,"0
+07712 E",Germany
+217,SALZ ,3,8/19/1996,10/21/1996,9/24/1996,3,73.5,NULL,"Valerij-Heinrich-Platz 1
+32225 Melsungen",elsungen,2,"1
+32225 M",Germany
+218,LIEBE,8,8/21/1996,9/25/1996,8/25/1996,3,73.5,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,1,"3/9
+51866",Germany
+219,HARTM,5,8/21/1996,10/23/1996,10/12/1996,1,57.9,NULL,"Drubstr. 07
+48645 Bitterfeld",Bitterfeld,1,"07
+48645 ",Germany
+220,SAUER,7,8/21/1996,10/11/1996,8/23/1996,1,87.2,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,1,"9
+68897 M",Germany
+221,LADEC,3,8/23/1996,10/3/1996,8/30/1996,3,71.2,NULL,"Junckstr. 4
+67570 Nürtingen",ürtingen,3,"4
+67570 N",Germany
+222,SCHMI,5,8/23/1996,9/3/1996,8/24/1996,3,44,NULL,"Constanze-Grein Groth-Weg 04
+46469 Quedlinburg","04
+46469 Quedlinburg",4,Groth-Weg ,Germany
+223,LADEC,1,8/23/1996,10/24/1996,9/22/1996,1,82.9,NULL,"Nadeshda-Sager-Ring 2/3
+34478 Beilngries", Beilngries,3,"2/3
+34478",Germany
+224,EIGEN,6,8/24/1996,11/1/1996,9/3/1996,2,69.8,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,4,"95
+61813 ",Germany
+225,BAUM,3,8/25/1996,10/12/1996,9/14/1996,1,51.2,NULL,"Gehringergasse 5
+50608 Diepholz",iepholz,3,"5
+50608 D",Germany
+226,NERGE,7,8/25/1996,11/30/1996,11/6/1996,1,56.6,NULL,"Ibrahim-Bolzmann-Allee 4
+71254 Strasburg",trasburg,3,"4
+71254 S",Germany
+227,ATZLE,2,8/25/1996,10/25/1996,8/25/1996,1,55.2,NULL,"Rohtring 2
+30760 Vohenstrauß",ohenstrauß,1,"2
+30760 V",Germany
+228,MEIST,7,8/26/1996,9/26/1996,9/11/1996,2,25.5,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,3,"8
+62701 B",Germany
+229,HöFI,2,8/26/1996,11/18/1996,9/4/1996,3,24.2,NULL,"Katrin-Siering-Straße 2
+80358 Eutin",utin,4,"2
+80358 E",Germany
+230,JäNT,1,8/27/1996,11/28/1996,11/16/1996,2,96.6,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,4,"33
+13526 ",Germany
+231,WEINH,5,8/28/1996,10/25/1996,9/27/1996,3,74.9,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,1,"1/7
+72386",Germany
+232,WIRTH,6,8/29/1996,10/5/1996,9/2/1996,2,39.7,NULL,"Heinz-Gerd-Sölzer-Gasse 23
+45361 Witzenhausen",Witzenhausen,1,"23
+45361 ",Germany
+233,KLAPP,5,8/29/1996,11/18/1996,10/14/1996,3,63.6,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,4,"0
+59730 F",Germany
+234,DIETZ,1,8/31/1996,9/30/1996,9/11/1996,3,3.1,NULL,"Jacobstr. 0/9
+33064 Monschau", Monschau,1,"0/9
+33064",Germany
+235,SöDI,5,9/1/1996,10/10/1996,9/26/1996,3,54.4,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,3,"90
+69119 ",Germany
+236,HöVE,4,9/1/1996,10/23/1996,9/10/1996,3,79.4,NULL,"Weißstr. 24
+13500 Uelzen",Uelzen,1,"24
+13500 ",Germany
+237,GORLI,8,9/2/1996,9/30/1996,9/4/1996,2,68.5,NULL,"Arndt-Karge-Platz 90
+16776 Hannover",Hannover,2,"90
+16776 ",Germany
+238,CICHO,3,9/2/1996,11/14/1996,9/9/1996,2,90.4,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,4,"58
+01930 ",Germany
+239,SCHOM,5,9/3/1996,11/5/1996,9/5/1996,2,28.9,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,3,"4/4
+43815",Germany
+240,ROSKO,3,9/3/1996,11/16/1996,9/3/1996,2,84.4,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,2,"7/6
+10323",Germany
+241,JUNCK,3,9/3/1996,11/19/1996,10/13/1996,1,57.6,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,1,"15
+75990 ",Germany
+242,KäST,1,9/4/1996,11/4/1996,9/16/1996,3,49.9,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,1,"6
+48836 B",Germany
+243,FREUD,4,9/5/1996,10/30/1996,9/17/1996,3,73.5,NULL,"Wesackstr. 92
+78547 Perleberg",Perleberg,1,"92
+78547 ",Germany
+244,DREWE,1,9/6/1996,10/8/1996,9/23/1996,3,87.4,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,1,"5/2
+62020",Germany
+245,ROHT,1,9/7/1996,12/10/1996,11/15/1996,2,45,NULL,"Schmidtweg 2
+46261 Freital",reital,1,"2
+46261 F",Germany
+246,STOLL,2,9/7/1996,12/9/1996,10/23/1996,3,99.1,NULL,"Ignatz-Bolnbach-Gasse 8/4
+58425 Ravensburg", Ravensburg,3,"8/4
+58425",Germany
+247,BöRN,8,9/8/1996,10/26/1996,9/14/1996,2,82.8,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,2,"726
+07541",Germany
+248,SCHMI,1,9/9/1996,11/10/1996,10/6/1996,1,44.2,NULL,"Necati-Christoph-Gasse 826
+34790 Seelow", Seelow,2,"826
+34790",Germany
+249,CARST,2,9/10/1996,10/29/1996,10/10/1996,3,64.2,NULL,"Andreas-Nette-Platz 935
+73001 Eilenburg", Eilenburg,3,"935
+73001",Germany
+250,HEIN ,5,9/10/1996,12/19/1996,9/27/1996,2,33.5,NULL,"Vollbrechtplatz 8
+13764 Schwerin",chwerin,2,"8
+13764 S",Germany
+251,BAUM,3,9/10/1996,10/12/1996,10/2/1996,2,81.5,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,1,"0/8
+66340",Germany
+252,CUSTOMERID,1,9/10/1996,11/1/1996,10/13/1996,1,59.1,NULL,"Hörlestraße 83
+94753 Bersenbrück",Bersenbrück,1,"83
+94753 ",Germany
+253,ZORBA,9,9/11/1996,9/24/1996,9/14/1996,3,32.2,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,2,"83
+89721 ",Germany
+254,HENSC,6,9/11/1996,9/26/1996,9/15/1996,1,2.6,NULL,"Schwitalring 880
+19940 Zossen", Zossen,2,"880
+19940",Germany
+255,BEYER,2,9/11/1996,11/3/1996,9/11/1996,1,28,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,2,"6
+94712 E",Germany
+256,ROGGE,2,9/12/1996,10/26/1996,10/7/1996,2,29.8,NULL,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich", Grevenbroich,3,"1/2
+50385",Germany
+257,NASER,4,9/12/1996,11/27/1996,10/29/1996,1,90.4,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,1,"7
+98012 S",Germany
+258,GUMPR,2,9/14/1996,11/24/1996,11/14/1996,1,86.9,NULL,"Schmidtweg 2
+46261 Freital",reital,1,"2
+46261 F",Germany
+259,MEIST,6,9/16/1996,12/19/1996,11/8/1996,2,37.6,NULL,"Geißlerallee 729
+77104 Finsterwalde", Finsterwalde,3,"729
+77104",Germany
+260,STUMP,8,9/16/1996,11/6/1996,10/22/1996,3,27.8,NULL,"Denise-Buchholz-Allee 289
+00011 Sternberg", Sternberg,4,"289
+00011",Germany
+261,LöWE,8,9/16/1996,11/16/1996,11/4/1996,2,37.5,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,3,"3/4
+79432",Germany
+262,OTTO,3,9/16/1996,12/11/1996,11/4/1996,2,11.6,NULL,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen", Wurzen,2,"6/0
+63062",Germany
+263,SCHMI,3,9/17/1996,11/4/1996,9/26/1996,1,39.1,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,4,"1
+66200 L",Germany
+264,LANGE,2,9/18/1996,12/23/1996,10/1/1996,3,46,NULL,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,1,"15
+06805 ",Germany
+265,HENSC,1,9/19/1996,10/3/1996,9/19/1996,3,10.4,NULL,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,4,"19
+51097 ",Germany
+266,WULF ,6,9/19/1996,12/22/1996,11/25/1996,1,81.4,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,3,"5
+66982 D",Germany
+267,NASER,1,9/19/1996,12/20/1996,9/27/1996,1,28.1,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,2,"9/7
+45448",Germany
+268,KöST,4,9/19/1996,10/7/1996,9/27/1996,3,58.1,NULL,"Goran-Faust-Straße 5/2
+91453 Kemnath", Kemnath,2,"5/2
+91453",Germany
+269,KALLE,9,9/21/1996,11/22/1996,10/14/1996,3,46.1,NULL,"Klaus-Michael-Adler-Ring 164
+96704 Jülich", Jülich,2,"164
+96704",Germany
+270,LORCH,4,9/22/1996,12/6/1996,9/23/1996,3,27.1,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,1,"2/2
+46795",Germany
+271,NASER,2,9/23/1996,12/12/1996,10/24/1996,3,29.4,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,3,"887
+17347",Germany
+272,SALZ ,3,9/24/1996,12/8/1996,10/26/1996,1,16.4,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,4,"71
+11958 ",Germany
+273,WESAC,7,9/24/1996,10/7/1996,9/24/1996,2,62.9,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,4,"58
+01930 ",Germany
+274,KOCH ,9,9/24/1996,12/30/1996,11/23/1996,2,64.3,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,4,"545
+83219",Germany
+275,AUMAN,1,9/25/1996,10/6/1996,9/26/1996,3,35.9,NULL,"Salzstraße 9
+87357 Wurzen",urzen,1,"9
+87357 W",Germany
+276,STEIN,3,9/26/1996,12/29/1996,12/2/1996,1,18.5,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,2,"2/2
+46795",Germany
+277,POHL ,5,9/26/1996,1/3/1997,11/2/1996,1,22.5,NULL,"Maik-Schottin-Gasse 3
+05898 Kyritz",yritz,3,"3
+05898 K",Germany
+278,FRöH,8,9/26/1996,12/27/1996,10/17/1996,1,45.5,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,4,"5/1
+84401",Germany
+279,SCHWI,7,9/27/1996,12/22/1996,10/21/1996,3,42.4,NULL,"Boucseinring 423
+31178 Kulmbach", Kulmbach,4,"423
+31178",Germany
+280,DREWE,4,9/27/1996,11/24/1996,11/9/1996,3,30.4,NULL,"Reisingallee 62
+78550 Calau",Calau,1,"62
+78550 ",Germany
+281,HENSC,9,9/28/1996,12/2/1996,11/11/1996,2,84.3,NULL,"Wilmsring 8
+99863 Flöha",löha,2,"8
+99863 F",Germany
+282,JUNCK,6,9/28/1996,12/7/1996,11/8/1996,1,8,NULL,"Briemerstr. 701
+09141 Fallingbostel", Fallingbostel,3,"701
+09141",Germany
+283,KUSCH,8,9/28/1996,10/20/1996,9/28/1996,2,98.7,NULL,"Yvette-Beier-Ring 9
+37070 Halberstadt",alberstadt,1,"9
+37070 H",Germany
+284,ZIMME,7,9/28/1996,12/18/1996,9/30/1996,1,67.8,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,3,"7/2
+58548",Germany
+285,HILLE,7,9/30/1996,12/8/1996,10/1/1996,2,11.6,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,2,"4/4
+43815",Germany
+286,METZ,1,9/30/1996,12/28/1996,10/17/1996,3,79.5,NULL,"Yvette-Beier-Ring 9
+37070 Halberstadt",alberstadt,3,"9
+37070 H",Germany
+287,TäSC,4,10/1/1996,10/15/1996,10/2/1996,3,15,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,3,"578
+16565",Germany
+288,HEIN ,6,10/2/1996,1/10/1997,12/29/1996,3,71.3,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,4,"5/1
+84401",Germany
+289,JüTT,1,10/3/1996,12/20/1996,10/8/1996,1,35.3,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,1,"5/7
+36390",Germany
+290,SCHAC,7,10/3/1996,1/2/1997,11/29/1996,2,69.3,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,3,"5/2
+62020",Germany
+291,GORLI,1,10/5/1996,12/22/1996,11/28/1996,2,36.2,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,4,"7/6
+10323",Germany
+292,WESAC,6,10/5/1996,11/24/1996,11/4/1996,2,12.5,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,3,"9/7
+45448",Germany
+293,TEXTO,1,10/5/1996,12/28/1996,10/14/1996,2,11.7,NULL,"Dogan-Köhler-Allee 546
+59494 Gelnhausen", Gelnhausen,3,"546
+59494",Germany
+294,STOLZ,8,10/5/1996,11/25/1996,11/15/1996,1,76.8,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,3,"45
+89867 ",Germany
+295,FISCH,8,10/8/1996,1/4/1997,11/26/1996,2,27.5,NULL,"Nohlmansweg 1/1
+99224 Heinsberg", Heinsberg,4,"1/1
+99224",Germany
+296,HOFFM,4,10/9/1996,11/7/1996,10/10/1996,2,38.1,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,1,"8
+62701 B",Germany
+297,BOHNB,5,10/10/1996,10/22/1996,10/11/1996,1,86.8,NULL,"Reisingallee 62
+78550 Calau",Calau,4,"62
+78550 ",Germany
+298,MUDE ,5,10/10/1996,1/12/1997,11/7/1996,3,47.9,NULL,"Nelly-Warmer-Gasse 507
+03770 Wesel", Wesel,1,"507
+03770",Germany
+299,LüBS,1,10/11/1996,10/31/1996,10/16/1996,2,5.5,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,4,"7/6
+10323",Germany
+300,KITZM,3,10/11/1996,12/24/1996,11/28/1996,2,29.6,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,1,"2/0
+46941",Germany
+301,JOPIC,3,10/12/1996,1/14/1997,1/1/1997,1,93,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,4,"6
+94712 E",Germany
+302,ROGGE,9,10/12/1996,11/30/1996,11/16/1996,2,36.3,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,1,"6
+20847 B",Germany
+303,WARME,3,10/12/1996,10/26/1996,10/13/1996,1,75.3,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,4,"5
+55309 P",Germany
+304,FISCH,1,10/13/1996,11/8/1996,10/22/1996,1,71.5,NULL,"Schwitalring 880
+19940 Zossen", Zossen,2,"880
+19940",Germany
+305,BOLNB,2,10/14/1996,1/7/1997,12/6/1996,1,95.5,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,3,"507
+30349",Germany
+306,ROSEM,3,10/15/1996,11/4/1996,10/19/1996,1,44.4,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,2,"5/8
+69219",Germany
+307,LöWE,7,10/17/1996,12/5/1996,11/10/1996,3,67.6,NULL,"Adlergasse 24
+93839 Viersen",Viersen,4,"24
+93839 ",Germany
+308,HEINR,6,10/17/1996,12/19/1996,10/19/1996,1,17.1,NULL,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim", Parchim,2,"0/7
+46697",Germany
+309,ZORBA,9,10/17/1996,12/5/1996,11/1/1996,2,2,NULL,"Bachmannring 8
+98747 Flöha",löha,2,"8
+98747 F",Germany
+310,HENSC,1,10/18/1996,11/27/1996,11/16/1996,1,98.2,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,3,"220
+84359",Germany
+311,CICHO,1,10/20/1996,12/3/1996,11/11/1996,1,57.5,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,2,"7/5
+99665",Germany
+312,TEXTO,6,10/20/1996,11/15/1996,10/29/1996,2,36.9,NULL,"Birnbaumallee 99
+75377 Uelzen",Uelzen,4,"99
+75377 ",Germany
+313,OTTO ,7,10/20/1996,1/26/1997,10/20/1996,1,90,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,1,"3/4
+79432",Germany
+314,GUDE,7,10/21/1996,12/28/1996,10/28/1996,3,41.2,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,2,"58
+01930 ",Germany
+315,MöCH,4,10/22/1996,12/7/1996,11/22/1996,1,27.1,NULL,"Bachmannring 8
+98747 Flöha",löha,3,"8
+98747 F",Germany
+316,KLAPP,1,10/23/1996,12/30/1996,11/18/1996,1,22.3,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,4,"5
+55309 P",Germany
+317,SCHü,5,10/23/1996,12/13/1996,11/18/1996,1,82.7,NULL,"Hendriksgasse 2/6
+67266 Niesky", Niesky,2,"2/6
+67266",Germany
+318,SCHOL,6,10/24/1996,1/17/1997,11/27/1996,2,36.9,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,3,"8/5
+88848",Germany
+319,OTTO,2,10/24/1996,11/14/1996,11/3/1996,1,77,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,2,"5/8
+69219",Germany
+320,HöRL,5,10/24/1996,1/13/1997,12/31/1996,1,99.9,NULL,"Helga-Höfig-Allee 1/7
+83296 Ansbach", Ansbach,2,"1/7
+83296",Germany
+321,WEIME,7,10/26/1996,1/4/1997,12/24/1996,3,70.8,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,1,"07
+63135 ",Germany
+322,LANGE,6,10/28/1996,1/23/1997,10/28/1996,2,26.5,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,2,"15
+75990 ",Germany
+323,KITZM,1,10/30/1996,1/13/1997,11/24/1996,3,29.2,NULL,"Haufferring 20
+08497 Freising",Freising,4,"20
+08497 ",Germany
+324,NASER,2,10/30/1996,1/15/1997,12/19/1996,3,90.5,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,2,"2/0
+46941",Germany
+325,KITZM,8,10/31/1996,12/24/1996,11/17/1996,2,96.1,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,3,"83
+89721 ",Germany
+326,CARST,9,10/31/1996,11/26/1996,11/11/1996,3,85.9,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,2,"7
+64973 M",Germany
+327,HARTU,5,11/1/1996,12/31/1996,12/6/1996,3,36.4,NULL,"Ignatz-Bolnbach-Gasse 8/4
+58425 Ravensburg", Ravensburg,4,"8/4
+58425",Germany
+328,MUDE ,1,11/1/1996,12/28/1996,11/4/1996,2,85.3,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,4,"1/5
+50734",Germany
+329,MUDE ,8,11/1/1996,1/8/1997,12/9/1996,2,13,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,4,"7
+37523 R",Germany
+330,GIEß,2,11/1/1996,12/2/1996,11/22/1996,1,48.2,NULL,"Gertraude-Jockel-Platz 5/0
+90995 Lübz", Lübz,1,"5/0
+90995",Germany
+331,WIELO,2,11/6/1996,12/14/1996,11/26/1996,3,16.5,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,3,"8/5
+88848",Germany
+332,WULF ,5,11/6/1996,1/20/1997,12/7/1996,2,10.4,NULL,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal", Stendal,1,"9/0
+34869",Germany
+333,HäRI,2,11/6/1996,2/6/1997,11/29/1996,1,40.9,NULL,"Yvette-Beier-Ring 9
+37070 Halberstadt",alberstadt,1,"9
+37070 H",Germany
+334,ODERW,2,11/6/1996,2/11/1997,11/13/1996,1,83,NULL,"Zenta-Loos-Straße 23
+28758 Reutlingen",Reutlingen,4,"23
+28758 ",Germany
+335,ZORBA,8,11/6/1996,12/14/1996,11/12/1996,3,78.4,NULL,"Ruppersbergerstr. 8/5
+60931 Säckingen", Säckingen,1,"8/5
+60931",Germany
+336,SCHMI,4,11/6/1996,1/21/1997,12/31/1996,3,17.5,NULL,"Gotthardallee 5/5
+45130 Hohenmölsen", Hohenmölsen,4,"5/5
+45130",Germany
+337,BECKE,6,11/6/1996,11/24/1996,11/13/1996,3,21.6,NULL,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen", Schwabmünchen,3,"083
+91273",Germany
+338,LüBS,3,11/8/1996,12/31/1996,12/10/1996,3,67.6,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,4,"2/2
+46795",Germany
+339,BUTTE,9,11/8/1996,2/1/1997,11/17/1996,3,10.5,NULL,"Artur-Riehl-Weg 5/6
+94069 Ribnitz-Damgarten", Ribnitz-Damgarten,3,"5/6
+94069",Germany
+340,LORCH,2,11/9/1996,12/28/1996,12/9/1996,3,86.4,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,1,"2
+04206 D",Germany
+341,KITZM,8,11/10/1996,12/21/1996,11/10/1996,2,15.6,NULL,"Knappeallee 185
+94612 Waldmünchen", Waldmünchen,1,"185
+94612",Germany
+342,MUDE ,1,11/11/1996,12/11/1996,11/23/1996,3,47.8,NULL,"Rosemannstr. 304
+11229 Coburg", Coburg,2,"304
+11229",Germany
+343,HARTM,4,11/14/1996,1/11/1997,12/30/1996,2,40.9,NULL,"Klemtring 93
+11440 Ribnitz-Damgarten",Ribnitz-Damgarten,1,"93
+11440 ",Germany
+344,SCHö,5,11/14/1996,1/28/1997,12/2/1996,2,88.5,NULL,"Sonja-Koch-Allee 68
+92392 Hohenstein-Ernstthal",Hohenstein-Ernstthal,1,"68
+92392 ",Germany
+345,FRANK,3,11/14/1996,2/3/1997,11/26/1996,3,2.7,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,1,"24
+45998 ",Germany
+346,MANS ,9,11/15/1996,1/6/1997,11/29/1996,2,86.2,NULL,"Meisterstr. 109
+60837 Melle", Melle,1,"109
+60837",Germany
+347,STUMP,2,11/16/1996,2/10/1997,1/15/1997,3,94.2,NULL,"Rosemannstr. 304
+11229 Coburg", Coburg,3,"304
+11229",Germany
+348,HERTR,4,11/17/1996,1/29/1997,12/24/1996,1,92.8,NULL,"Hölzenbecherring 4
+11530 Dinslaken",inslaken,4,"4
+11530 D",Germany
+349,GEHRI,1,11/17/1996,1/28/1997,1/18/1997,2,53.6,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,2,"5/2
+62020",Germany
+350,STUMP,8,11/18/1996,12/17/1996,11/19/1996,2,88.6,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,2,"389
+42769",Germany
+351,HENSC,9,11/18/1996,1/6/1997,11/28/1996,1,39,NULL,"Haeringring 877
+50050 Artern", Artern,3,"877
+50050",Germany
+352,LORCH,1,11/18/1996,12/15/1996,12/2/1996,3,48.5,NULL,"Nada-Kraushaar-Gasse 1/1
+57576 Greifswald", Greifswald,2,"1/1
+57576",Germany
+353,WERNE,1,11/18/1996,12/13/1996,12/1/1996,1,48.4,NULL,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw", Calw,1,"9/3
+45614",Germany
+354,HERIN,2,11/19/1996,1/29/1997,1/12/1997,2,4.4,NULL,"Sonja-Koch-Allee 68
+92392 Hohenstein-Ernstthal",Hohenstein-Ernstthal,3,"68
+92392 ",Germany
+355,LORCH,4,11/19/1996,1/28/1997,12/31/1996,2,6.2,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,4,"6
+20847 B",Germany
+356,JäNT,1,11/20/1996,12/1/1996,11/21/1996,1,31.2,NULL,"Salzstraße 9
+87357 Wurzen",urzen,1,"9
+87357 W",Germany
+357,LöWE,1,11/21/1996,2/8/1997,12/18/1996,3,89.7,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,3,"95
+61813 ",Germany
+358,REINH,7,11/21/1996,1/28/1997,12/23/1996,1,97.7,NULL,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen", Mühlhausen,1,"7/5
+89147",Germany
+359,BARTH,2,11/22/1996,2/2/1997,12/23/1996,3,61.3,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,3,"7
+64973 M",Germany
+360,OTTO,8,11/23/1996,1/25/1997,12/8/1996,3,26.6,NULL,"Strohweg 672
+03176 Torgau", Torgau,1,"672
+03176",Germany
+361,SCHLE,2,11/24/1996,12/22/1996,12/12/1996,3,12.1,NULL,"Geißlerallee 729
+77104 Finsterwalde", Finsterwalde,2,"729
+77104",Germany
+362,BEER,2,11/24/1996,12/22/1996,12/10/1996,3,14.5,NULL,"Misicherstraße 3
+87450 Malchin",alchin,1,"3
+87450 M",Germany
+363,GUDE ,2,11/24/1996,12/10/1996,11/27/1996,2,50.7,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,4,"98
+06736 ",Germany
+364,ROHT,8,11/26/1996,2/9/1997,12/14/1996,2,52.5,NULL,"Schwitalring 880
+19940 Zossen", Zossen,1,"880
+19940",Germany
+365,VOGT ,5,11/26/1996,12/6/1996,11/26/1996,1,8.6,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,3,"448
+24596",Germany
+366,WäHN,1,11/27/1996,1/17/1997,12/23/1996,2,42.6,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+367,Süß,7,11/28/1996,1/5/1997,11/29/1996,1,48.9,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,4,"1/7
+72386",Germany
+368,HERIN,1,11/28/1996,12/28/1996,12/13/1996,1,61.2,NULL,"Slobodan-Mühle-Allee 613
+69369 Cloppenburg", Cloppenburg,4,"613
+69369",Germany
+369,JäNT,2,11/29/1996,1/4/1997,12/9/1996,3,65.5,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,3,"6
+48836 B",Germany
+370,HOFMA,8,11/30/1996,2/8/1997,1/29/1997,1,72.4,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,1,"389
+42769",Germany
+371,BAUM,8,11/30/1996,2/7/1997,12/8/1996,3,77.4,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,4,"1/5
+50734",Germany
+372,SALZ ,8,12/1/1996,1/5/1997,12/10/1996,2,73.5,NULL,"Junckstr. 4
+67570 Nürtingen",ürtingen,2,"4
+67570 N",Germany
+373,SPIE�,2,12/1/1996,2/14/1997,1/31/1997,1,75,NULL,"Zänkergasse 66
+74736 Sebnitz",Sebnitz,3,"66
+74736 ",Germany
+374,CARST,3,12/2/1996,2/5/1997,1/3/1997,3,12.2,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,4,"24
+45998 ",Germany
+375,FLIEG,5,12/2/1996,12/15/1996,12/4/1996,2,26.6,NULL,"Giuseppe-Scheuermann-Platz 960
+40190 Stadtsteinach", Stadtsteinach,2,"960
+40190",Germany
+376,ORTMA,4,12/4/1996,3/10/1997,2/14/1997,2,50.2,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,2,"887
+17347",Germany
+377,WESAC,2,12/4/1996,3/9/1997,2/18/1997,3,80.9,NULL,"Ilona-Walter-Straße 592
+83192 Cuxhaven", Cuxhaven,4,"592
+83192",Germany
+378,ERNST,4,12/4/1996,1/24/1997,12/23/1996,1,9.8,NULL,"Jacobplatz 572
+50043 Havelberg", Havelberg,2,"572
+50043",Germany
+379,WEIME,9,12/4/1996,2/20/1997,12/4/1996,3,47.3,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,4,"782
+20026",Germany
+380,DITSC,1,12/5/1996,2/21/1997,1/27/1997,2,31.5,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,3,"545
+83219",Germany
+381,REICH,5,12/7/1996,1/22/1997,12/19/1996,2,3.8,NULL,"Kobeltweg 78
+17987 Plauen",Plauen,4,"78
+17987 ",Germany
+382,PIEPE,1,12/7/1996,1/3/1997,12/11/1996,1,43.5,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,3,"220
+84359",Germany
+383,BARTH,7,12/8/1996,3/12/1997,2/4/1997,2,64.1,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,1,"74
+69440 ",Germany
+384,JäNT,1,12/8/1996,12/23/1996,12/13/1996,1,56,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,2,"011
+96562",Germany
+385,DöRS,6,12/10/1996,1/24/1997,1/6/1997,2,55.2,NULL,"Haeringring 877
+50050 Artern", Artern,4,"877
+50050",Germany
+386,WIRTH,3,12/11/1996,2/7/1997,12/26/1996,1,46.1,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",3,Jäckelweg,Germany
+387,HEINR,6,12/11/1996,2/5/1997,1/13/1997,3,94.2,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,2,"3/6
+00456",Germany
+388,WEINH,1,12/13/1996,2/11/1997,12/13/1996,2,96.5,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,2,"578
+16565",Germany
+389,HöVE,9,12/14/1996,2/17/1997,2/2/1997,1,78.2,NULL,"Sylke-Siering-Gasse 4
+75121 Berlin",erlin,4,"4
+75121 B",Germany
+390,BUTTE,6,12/15/1996,1/5/1997,12/26/1996,3,56.1,NULL,"Langering 9/1
+59895 Eisenach", Eisenach,2,"9/1
+59895",Germany
+391,ACKER,8,12/16/1996,1/5/1997,12/17/1996,1,23.3,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,1,"9
+50116 A",Germany
+392,ZORBA,3,12/17/1996,2/10/1997,12/28/1996,2,7.5,NULL,"Nikolas-Hövel-Platz 0/1
+00234 Fallingbostel", Fallingbostel,4,"0/1
+00234",Germany
+393,EHLER,1,12/17/1996,1/28/1997,1/7/1997,3,10.4,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,2,"5/5
+11295",Germany
+394,ANDER,9,12/19/1996,1/16/1997,12/24/1996,2,20.7,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,4,"0/8
+66340",Germany
+395,HüBE,3,12/20/1996,2/10/1997,1/21/1997,3,42.4,NULL,"Eimergasse 3
+97795 Stuttgart",tuttgart,4,"3
+97795 S",Germany
+396,HäRI,1,12/21/1996,3/19/1997,1/31/1997,1,92.2,NULL,"Abram-Carsten-Ring 900
+14101 Wiedenbrück", Wiedenbrück,3,"900
+14101",Germany
+397,TEXTO,1,12/21/1996,1/18/1997,12/21/1996,2,96.6,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,1,"7
+98012 S",Germany
+398,VOGT ,6,12/22/1996,3/8/1997,1/1/1997,2,34,NULL,"Naserweg 7
+94226 Lobenstein",obenstein,1,"7
+94226 L",Germany
+399,BAUER,7,12/22/1996,2/9/1997,1/8/1997,2,60.2,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,4,"2/5
+05313",Germany
+400,SCHAA,8,12/23/1996,2/18/1997,1/7/1997,1,81.1,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,3,"8/5
+88848",Germany
+401,FECHN,7,12/23/1996,1/11/1997,12/23/1996,1,7.9,NULL,"Lieselotte-Junitz-Weg 04
+58381 Augsburg",Augsburg,4,"04
+58381 ",Germany
+402,STOLL,2,12/24/1996,2/15/1997,12/28/1996,3,72.3,NULL,"Hörlegasse 1
+37491 Oberviechtach",berviechtach,1,"1
+37491 O",Germany
+403,WESAC,3,12/24/1996,3/29/1997,3/8/1997,1,33.9,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,4,"7
+64973 M",Germany
+404,LORCH,4,12/26/1996,1/11/1997,12/29/1996,2,35.4,NULL,"Marisa-Reichmann-Weg 99
+21626 Senftenberg",Senftenberg,2,"99
+21626 ",Germany
+405,HEIN,8,12/26/1996,2/7/1997,1/14/1997,1,13.4,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,2,"726
+07541",Germany
+406,STUMP,3,12/27/1996,3/3/1997,2/7/1997,2,39.8,NULL,"Gertzstr. 43
+11032 Wesel",Wesel,3,"43
+11032 ",Germany
+407,TRöS,4,12/28/1996,3/28/1997,3/5/1997,2,2.5,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,3,"182
+44826",Germany
+408,HEIDR,8,12/29/1996,3/14/1997,2/20/1997,3,17.6,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,3,"8
+62701 B",Germany
+409,EIGEN,9,12/29/1996,1/23/1997,1/10/1997,1,10.8,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,2,"7
+98012 S",Germany
+410,HERTR,8,12/29/1996,3/22/1997,2/18/1997,3,49.3,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,2,"7
+98012 S",Germany
+411,SPEER,6,1/1/1997,2/21/1997,1/20/1997,2,66.8,NULL,"Haufferring 20
+08497 Freising",Freising,1,"20
+08497 ",Germany
+412,TEXTO,3,1/1/1997,1/27/1997,1/10/1997,1,49.2,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,3,"4/9
+01718",Germany
+413,LöWE,4,1/1/1997,4/8/1997,2/21/1997,2,44.5,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,1,"0/8
+66340",Germany
+414,FREUD,2,1/1/1997,1/17/1997,1/1/1997,1,32.7,NULL,"Klaus-Michael-Adler-Ring 164
+96704 Jülich", Jülich,4,"164
+96704",Germany
+415,DREWE,4,1/3/1997,3/10/1997,1/25/1997,1,38.7,NULL,"Mülichenstraße 995
+87953 Wolfenbüttel", Wolfenbüttel,4,"995
+87953",Germany
+416,LORCH,7,1/4/1997,3/2/1997,2/9/1997,2,89.2,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,4,"4/4
+43815",Germany
+417,SCHAA,5,1/4/1997,2/26/1997,1/8/1997,1,34.1,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,3,"4/0
+25180",Germany
+418,LOSEK,4,1/5/1997,2/19/1997,2/5/1997,2,24,NULL,"Artur-Riehl-Weg 5/6
+94069 Ribnitz-Damgarten", Ribnitz-Damgarten,1,"5/6
+94069",Germany
+419,KöST,1,1/5/1997,3/25/1997,1/7/1997,3,79.2,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,1,"448
+27008",Germany
+420,FRANK,2,1/6/1997,4/4/1997,2/2/1997,3,65.5,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,4,"182
+44826",Germany
+421,THIES,9,1/6/1997,2/20/1997,1/17/1997,2,92.8,NULL,"Karl-Georg-Käster-Straße 861
+71480 Bersenbrück", Bersenbrück,4,"861
+71480",Germany
+422,HERTR,7,1/7/1997,4/15/1997,3/20/1997,1,11.5,NULL,"Kochstraße 0
+97773 Neunburg vorm Wald",eunburg vorm Wald,4,"0
+97773 N",Germany
+423,HENSC,3,1/7/1997,2/6/1997,1/26/1997,1,62.6,NULL,"Wilmsring 8
+99863 Flöha",löha,3,"8
+99863 F",Germany
+424,SALZ ,2,1/8/1997,3/21/1997,2/18/1997,2,29.7,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,2,"98
+06736 ",Germany
+425,KUHL ,8,1/9/1997,3/8/1997,2/8/1997,2,50.1,NULL,"Knappeallee 185
+94612 Waldmünchen", Waldmünchen,2,"185
+94612",Germany
+426,LORCH,6,1/9/1997,3/22/1997,2/12/1997,2,1.1,NULL,"Nadeshda-Sager-Ring 2/3
+34478 Beilngries", Beilngries,1,"2/3
+34478",Germany
+427,WIRTH,9,1/9/1997,3/3/1997,2/21/1997,2,45.4,NULL,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal", Stendal,2,"9/0
+34869",Germany
+428,HENSC,6,1/11/1997,3/21/1997,2/10/1997,1,19.5,NULL,"Heuserallee 8
+48412 Main-Höchst)",ain-Höchst),1,"8
+48412 M",Germany
+429,BUTTE,4,1/12/1997,1/22/1997,1/12/1997,3,52.5,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,2,"5/5
+11295",Germany
+430,KEUDE,2,1/13/1997,4/3/1997,2/18/1997,2,42.7,NULL,"Barkholzallee 609
+96700 Neustadtner Waldnaab", Neustadtner Waldnaab,4,"609
+96700",Germany
+431,FISCH,2,1/13/1997,1/24/1997,1/13/1997,3,23.7,NULL,"Eimergasse 3
+97795 Stuttgart",tuttgart,1,"3
+97795 S",Germany
+432,BOHNB,9,1/14/1997,3/21/1997,3/2/1997,1,76.7,NULL,"Silvana-Wagenknecht-Straße 2
+92679 Stade",tade,4,"2
+92679 S",Germany
+433,SCHMI,3,1/15/1997,3/7/1997,2/3/1997,3,12.4,NULL,"Gertzstr. 43
+11032 Wesel",Wesel,3,"43
+11032 ",Germany
+434,CUSTOMERID,5,1/16/1997,3/1/1997,1/20/1997,2,89.9,NULL,"Birnbaumplatz 1/9
+56858 Schwabmünchen", Schwabmünchen,4,"1/9
+56858",Germany
+435,MARTI,4,1/17/1997,1/29/1997,1/19/1997,2,33,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,2,"3/9
+51866",Germany
+436,ROSKO,1,1/17/1997,2/27/1997,1/19/1997,3,86.3,NULL,"Gönül-Vollbrecht-Allee 60
+48581 Gießen",Gießen,3,"60
+48581 ",Germany
+437,EHLER,6,1/18/1997,1/31/1997,1/19/1997,1,49.4,NULL,"Boucseinring 423
+31178 Kulmbach", Kulmbach,2,"423
+31178",Germany
+438,KAMBS,6,1/21/1997,4/5/1997,2/25/1997,2,50.4,NULL,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen", Wurzen,1,"6/0
+63062",Germany
+439,MANS ,9,1/22/1997,2/4/1997,1/22/1997,2,1.2,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,2,"33
+13526 ",Germany
+440,DITSC,5,1/25/1997,3/7/1997,1/29/1997,1,15.7,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,4,"17
+90326 ",Germany
+441,BUTTE,4,1/26/1997,4/26/1997,4/4/1997,1,23.3,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,3,"667
+17837",Germany
+442,LIEBE,1,1/27/1997,2/7/1997,1/28/1997,2,14.9,NULL,"Ingetraut-Bien-Ring 03
+07828 Paderborn",Paderborn,3,"03
+07828 ",Germany
+443,DREWE,1,1/27/1997,3/18/1997,1/28/1997,3,38,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,3,"15
+75990 ",Germany
+444,KARZ ,4,1/28/1997,3/29/1997,1/31/1997,1,34.4,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,3,"7/5
+99665",Germany
+445,STRIE,1,1/28/1997,3/7/1997,2/11/1997,2,79.4,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,2,"7
+37523 R",Germany
+446,GERLA,8,1/28/1997,4/2/1997,2/14/1997,1,32.8,NULL,"Patberggasse 3
+50164 Gelnhausen",elnhausen,2,"3
+50164 G",Germany
+447,KALLE,8,1/29/1997,3/15/1997,1/31/1997,3,57.1,NULL,"Jan-Peter-Dietz-Allee 36
+65835 Sömmerda",Sömmerda,2,"36
+65835 ",Germany
+448,WESAC,1,1/30/1997,2/18/1997,2/2/1997,1,37.2,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,4,"1
+66200 L",Germany
+449,FECHN,8,1/30/1997,3/27/1997,3/2/1997,2,87.1,NULL,"Kobeltweg 78
+17987 Plauen",Plauen,2,"78
+17987 ",Germany
+450,FREUD,1,1/30/1997,3/2/1997,2/12/1997,3,25.8,NULL,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf", Mallersdorf,2,"9/7
+14188",Germany
+451,HILLE,7,2/1/1997,3/22/1997,2/21/1997,3,98.3,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,4,"57
+66088 ",Germany
+452,ROSKO,1,2/1/1997,4/7/1997,3/10/1997,3,65.9,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",3,Jäckelweg,Germany
+453,HüBE,3,2/2/1997,3/5/1997,2/12/1997,3,79.3,NULL,"Janus-Paffrath-Weg 731
+80849 Fallingbostel", Fallingbostel,3,"731
+80849",Germany
+454,METZ,3,2/2/1997,4/6/1997,3/11/1997,3,22.1,NULL,"Geißlerallee 729
+77104 Finsterwalde", Finsterwalde,4,"729
+77104",Germany
+455,TEXTO,7,2/5/1997,3/5/1997,2/17/1997,2,85.9,NULL,"Ilona-Walter-Straße 592
+83192 Cuxhaven", Cuxhaven,3,"592
+83192",Germany
+456,ZORBA,9,2/6/1997,4/11/1997,3/10/1997,3,89.5,NULL,"Aleksandar-Löffler-Weg 9/5
+98587 Pegnitz", Pegnitz,1,"9/5
+98587",Germany
+457,SCHLE,9,2/6/1997,4/17/1997,3/22/1997,2,92.7,NULL,"Nadeshda-Sager-Ring 2/3
+34478 Beilngries", Beilngries,1,"2/3
+34478",Germany
+458,GORLI,9,2/8/1997,4/4/1997,3/20/1997,1,14.3,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,3,"389
+42769",Germany
+459,MARTI,4,2/9/1997,4/14/1997,2/10/1997,1,18.3,NULL,"Freia-Geisler-Weg 7
+90569 Vechta",echta,2,"7
+90569 V",Germany
+460,KUSCH,9,2/10/1997,5/11/1997,2/13/1997,3,84.4,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,1,"545
+83219",Germany
+461,PUTZ ,5,2/11/1997,2/23/1997,2/12/1997,1,91.4,NULL,"Maik-Schottin-Gasse 3
+05898 Kyritz",yritz,4,"3
+05898 K",Germany
+462,BAUER,3,2/11/1997,5/17/1997,4/28/1997,3,2.6,NULL,"Nohlmansweg 1/1
+99224 Heinsberg", Heinsberg,3,"1/1
+99224",Germany
+463,RUPPE,9,2/12/1997,4/16/1997,3/13/1997,1,21.8,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,1,"17
+90326 ",Germany
+464,WERNE,4,2/12/1997,4/15/1997,2/26/1997,3,29.1,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",4,der Dussen,Germany
+465,KARZ ,6,2/13/1997,4/3/1997,3/19/1997,1,86,NULL,"Necati-Christoph-Gasse 826
+34790 Seelow", Seelow,3,"826
+34790",Germany
+466,KOCH ,2,2/13/1997,4/9/1997,3/9/1997,2,88.4,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",2,Jäckelweg,Germany
+467,LORCH,8,2/14/1997,3/23/1997,2/25/1997,2,1.7,NULL,"Silvana-Wagenknecht-Straße 2
+92679 Stade",tade,1,"2
+92679 S",Germany
+468,KREIN,9,2/15/1997,4/11/1997,2/20/1997,3,10.4,NULL,"Heiko-Ladeck-Weg 9
+50116 Altentreptow",ltentreptow,1,"9
+50116 A",Germany
+469,LADEC,3,2/15/1997,4/12/1997,3/31/1997,3,62.6,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,1,"887
+17347",Germany
+470,HEIN ,8,2/16/1997,4/13/1997,2/23/1997,3,19.9,NULL,"Sinaida-Hübel-Straße 5/5
+93350 Delitzsch", Delitzsch,2,"5/5
+93350",Germany
+471,HöVE,3,2/16/1997,3/17/1997,3/6/1997,1,60.4,NULL,"Ignatz-Bolnbach-Gasse 8/4
+58425 Ravensburg", Ravensburg,4,"8/4
+58425",Germany
+472,SCHWI,8,2/17/1997,3/9/1997,2/26/1997,2,87.4,NULL,"Christophallee 1/7
+56027 Cloppenburg", Cloppenburg,1,"1/7
+56027",Germany
+473,PRUSC,4,2/17/1997,5/20/1997,4/6/1997,1,40.7,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,4,"507
+30349",Germany
+474,ZORBA,9,2/17/1997,5/27/1997,3/12/1997,1,38.1,NULL,"Irmingard-Bien-Allee 12
+08012 Stade",Stade,4,"12
+08012 ",Germany
+475,EHLER,2,2/20/1997,3/10/1997,2/22/1997,1,31.2,NULL,"Mirella-Ring-Platz 78
+51455 Greifswald",Greifswald,4,"78
+51455 ",Germany
+476,HERIN,8,2/21/1997,5/21/1997,4/13/1997,2,51.6,NULL,"Rouven-Hornig-Straße 92
+83711 Gelnhausen",Gelnhausen,2,"92
+83711 ",Germany
+477,HOFFM,3,2/21/1997,3/23/1997,3/1/1997,1,6.1,NULL,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,4,"15
+06805 ",Germany
+478,SCHUL,2,2/22/1997,5/9/1997,3/9/1997,1,65.6,NULL,"Boucseinring 423
+31178 Kulmbach", Kulmbach,4,"423
+31178",Germany
+479,HESER,4,2/23/1997,4/28/1997,3/24/1997,2,5.4,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,3,"90
+69119 ",Germany
+480,GERTZ,7,2/23/1997,4/22/1997,4/1/1997,2,95.1,NULL,"Fechnergasse 291
+96968 Gerolzhofen", Gerolzhofen,4,"291
+96968",Germany
+481,FECHN,1,2/23/1997,4/8/1997,3/3/1997,1,9.5,NULL,"Almuth-Scholtz-Gasse 2/5
+53967 Schweinfurt", Schweinfurt,1,"2/5
+53967",Germany
+482,WIRTH,4,2/24/1997,4/7/1997,3/17/1997,3,27.9,NULL,"Christophallee 1/7
+56027 Cloppenburg", Cloppenburg,3,"1/7
+56027",Germany
+483,HOFMA,2,2/24/1997,4/10/1997,3/21/1997,3,67.7,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,1,"90
+69119 ",Germany
+484,LANGE,8,2/24/1997,4/25/1997,3/31/1997,2,19.5,NULL,"Schuchhardtgasse 677
+21925 Mellrichstadt", Mellrichstadt,4,"677
+21925",Germany
+485,HEIN ,4,2/25/1997,4/8/1997,3/23/1997,1,47,NULL,"Rosemannstr. 714
+13031 Euskirchen", Euskirchen,2,"714
+13031",Germany
+486,BAUER,2,2/26/1997,5/1/1997,4/16/1997,2,6.2,NULL,"Eberhardtweg 255
+04038 Reutlingen", Reutlingen,1,"255
+04038",Germany
+487,TEXTO,8,2/26/1997,5/20/1997,4/18/1997,2,26,NULL,"Heinz-Werner-Mans-Gasse 477
+55511 Sondershausen", Sondershausen,2,"477
+55511",Germany
+488,CASPA,8,2/26/1997,4/24/1997,4/8/1997,2,51.8,NULL,"Klaus-Günter-Mülichen-Platz 673
+66149 Borna", Borna,3,"673
+66149",Germany
+489,KäST,7,2/27/1997,3/31/1997,3/8/1997,2,97.2,NULL,"Strohweg 672
+03176 Torgau", Torgau,4,"672
+03176",Germany
+490,STOLZ,3,2/28/1997,5/14/1997,4/11/1997,2,97,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,4,"9
+68897 M",Germany
+491,CASPA,7,2/28/1997,4/29/1997,4/1/1997,2,83.7,NULL,"Helga-Höfig-Allee 1/7
+83296 Ansbach", Ansbach,1,"1/7
+83296",Germany
+492,AUSTE,4,2/28/1997,5/26/1997,4/29/1997,1,18.2,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,1,"011
+96562",Germany
+493,KREIN,9,3/1/1997,4/13/1997,3/12/1997,3,71.1,NULL,"Knappeallee 185
+94612 Waldmünchen", Waldmünchen,3,"185
+94612",Germany
+494,HEUSE,5,3/1/1997,5/26/1997,5/4/1997,2,23,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,4,"6
+94712 E",Germany
+495,ALBER,2,3/2/1997,5/9/1997,4/2/1997,2,39.3,NULL,"Sandor-Eberth-Allee 87
+33410 Freising",Freising,2,"87
+33410 ",Germany
+496,JOHAN,9,3/3/1997,5/9/1997,4/5/1997,3,95.3,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,4,"466
+50840",Germany
+497,KARZ ,6,3/3/1997,4/27/1997,3/23/1997,2,50.9,NULL,"Rosemannstr. 714
+13031 Euskirchen", Euskirchen,3,"714
+13031",Germany
+498,MENTZ,5,3/4/1997,5/18/1997,4/21/1997,2,32.5,NULL,"Lieselotte-Junitz-Weg 04
+58381 Augsburg",Augsburg,4,"04
+58381 ",Germany
+499,KäST,2,3/5/1997,5/9/1997,4/28/1997,3,56.4,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,4,"90
+69119 ",Germany
+500,SCHOL,3,3/5/1997,5/11/1997,4/19/1997,1,18.6,NULL,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal", Stendal,2,"9/0
+34869",Germany
+501,STUMP,4,3/5/1997,5/22/1997,3/8/1997,2,67.4,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,2,"782
+20026",Germany
+502,BAUER,9,3/6/1997,6/5/1997,3/27/1997,3,81.2,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,2,"8/5
+88848",Germany
+503,SCHIN,8,3/7/1997,4/11/1997,3/21/1997,1,58.1,NULL,"Eimergasse 3
+97795 Stuttgart",tuttgart,3,"3
+97795 S",Germany
+504,WINKL,2,3/7/1997,6/12/1997,4/13/1997,3,67.2,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,2,"2
+82214 C",Germany
+505,ROSEM,9,3/8/1997,3/22/1997,3/12/1997,3,98.2,NULL,"Leonie-Klemt-Gasse 1
+13420 Rottweil",ottweil,4,"1
+13420 R",Germany
+506,HEINR,5,3/8/1997,5/27/1997,3/28/1997,1,28.6,NULL,"Wesackstr. 92
+78547 Perleberg",Perleberg,2,"92
+78547 ",Germany
+507,BAUM,5,3/8/1997,5/5/1997,3/31/1997,2,53.5,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,3,"9/7
+45448",Germany
+508,ZIRME,7,3/9/1997,5/13/1997,4/4/1997,2,68.1,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,2,"98
+06736 ",Germany
+509,ROSEN,2,3/9/1997,4/3/1997,3/19/1997,1,24.5,NULL,"Hörlegasse 1
+37491 Oberviechtach",berviechtach,2,"1
+37491 O",Germany
+510,BECKE,9,3/11/1997,4/13/1997,3/29/1997,1,78.3,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,1,"5/8
+69219",Germany
+511,HöFI,7,3/12/1997,4/10/1997,3/24/1997,3,39.4,NULL,"Knappeweg 9/8
+99974 Lippstadt", Lippstadt,4,"9/8
+99974",Germany
+512,HARTM,2,3/12/1997,5/13/1997,4/7/1997,1,90.3,NULL,"Briemerstr. 701
+09141 Fallingbostel", Fallingbostel,2,"701
+09141",Germany
+513,SCHUL,6,3/12/1997,5/27/1997,3/12/1997,1,95.5,NULL,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt", Helmstedt,4,"985
+05687",Germany
+514,TäSC,2,3/14/1997,4/23/1997,3/26/1997,2,77.7,NULL,"Beckmannstr. 0/0
+13322 Neustrelitz", Neustrelitz,1,"0/0
+13322",Germany
+515,OTTO ,8,3/15/1997,5/25/1997,3/19/1997,3,83.9,NULL,"Drubinstraße 2/2
+46795 Chemnitz", Chemnitz,2,"2/2
+46795",Germany
+516,KITZM,7,3/18/1997,4/1/1997,3/19/1997,3,21,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,4,"8
+87454 F",Germany
+517,SPEER,5,3/19/1997,4/12/1997,3/21/1997,3,14.7,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,4,"9
+68897 M",Germany
+518,TRöS,7,3/19/1997,5/6/1997,4/17/1997,1,94.1,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,2,"1/5
+50734",Germany
+519,HEß ,2,3/20/1997,4/16/1997,3/21/1997,1,52.3,NULL,"Schombergasse 6/0
+60594 Kelheim", Kelheim,2,"6/0
+60594",Germany
+520,SCHAA,8,3/20/1997,5/23/1997,4/28/1997,2,79.2,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,1,"1
+66200 L",Germany
+521,HENSC,7,3/21/1997,4/29/1997,3/21/1997,1,49.1,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,1,"8/5
+88848",Germany
+522,HEINR,1,3/22/1997,5/10/1997,4/28/1997,1,35.7,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,3,"7
+98012 S",Germany
+523,WESAC,8,3/22/1997,5/13/1997,3/23/1997,1,70.8,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,4,"5
+66982 D",Germany
+524,JACOB,9,3/23/1997,5/13/1997,4/3/1997,3,51.7,NULL,"Hörlestraße 34
+51159 Soltau",Soltau,4,"34
+51159 ",Germany
+525,ZORBA,6,3/23/1997,5/15/1997,4/30/1997,3,26.9,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,1,"17
+90326 ",Germany
+526,FREUD,2,3/24/1997,6/4/1997,4/4/1997,1,18,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,2,"8
+62701 B",Germany
+527,GUMPR,7,3/25/1997,6/14/1997,4/15/1997,1,72.6,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,2,"507
+30349",Germany
+528,FLIEG,8,3/25/1997,4/15/1997,4/1/1997,1,82.1,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,4,"545
+83219",Germany
+529,RöHR,6,3/25/1997,6/30/1997,6/8/1997,2,19.6,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,3,"182
+44826",Germany
+530,BECKE,4,3/26/1997,5/23/1997,3/31/1997,3,44.3,NULL,"Naserweg 7
+94226 Lobenstein",obenstein,1,"7
+94226 L",Germany
+531,CICHO,7,3/26/1997,7/4/1997,5/21/1997,3,37.6,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,4,"5/5
+11295",Germany
+532,SCHWI,2,3/26/1997,6/16/1997,4/15/1997,3,12.3,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,2,"58
+01930 ",Germany
+533,FRANK,5,3/27/1997,6/23/1997,4/23/1997,3,55.2,NULL,"Wolf-Rüdiger-Rogge-Platz 409
+40213 Perleberg", Perleberg,4,"409
+40213",Germany
+534,KARZ ,9,3/27/1997,6/13/1997,5/15/1997,1,72.2,NULL,"Nadja-Schinke-Straße 315
+58331 Heiligenstadt", Heiligenstadt,3,"315
+58331",Germany
+535,GUMPR,1,3/28/1997,6/5/1997,4/2/1997,3,99.6,NULL,"Loosgasse 785
+13281 Strausberg", Strausberg,3,"785
+13281",Germany
+536,RITTE,2,3/28/1997,6/5/1997,4/8/1997,1,2.5,NULL,"Rolf-Rosemann-Platz 8/7
+48762 Parchim", Parchim,3,"8/7
+48762",Germany
+537,LüBS,3,3/29/1997,5/16/1997,5/1/1997,3,16.2,NULL,"Meik-Grein Groth-Ring 2/0
+59593 Kronach"," 2/0
+59593 Kronach",2,Groth-Ring,Germany
+538,SCHLE,7,3/29/1997,6/21/1997,4/21/1997,2,17.9,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,4,"1
+85413 C",Germany
+539,DöRR,1,3/29/1997,4/29/1997,4/1/1997,2,24,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",4,Jäckelweg,Germany
+540,WäHN,9,3/30/1997,4/22/1997,4/8/1997,2,19.3,NULL,"Drubstr. 07
+48645 Bitterfeld",Bitterfeld,3,"07
+48645 ",Germany
+541,FISCH,4,3/30/1997,6/9/1997,5/10/1997,3,66.5,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,4,"9/7
+45448",Germany
+542,BARTH,6,4/1/1997,6/15/1997,5/9/1997,1,94.5,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,2,"6
+20847 B",Germany
+543,WEIß,7,4/2/1997,6/26/1997,6/12/1997,2,22.1,NULL,"Briemerstr. 701
+09141 Fallingbostel", Fallingbostel,2,"701
+09141",Germany
+544,GIEß,2,4/2/1997,6/25/1997,4/9/1997,1,5.5,NULL,"Pavel-Weinhold-Allee 11
+70395 Pritzwalk",Pritzwalk,2,"11
+70395 ",Germany
+545,HESER,4,4/2/1997,4/18/1997,4/8/1997,3,80.4,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,4,"7/6
+10323",Germany
+546,LIEBE,2,4/7/1997,6/10/1997,4/22/1997,2,69,NULL,"Reza-Neureuther-Straße 224
+41022 Göttingen", Göttingen,3,"224
+41022",Germany
+547,SORGA,7,4/9/1997,5/24/1997,4/22/1997,2,53.5,NULL,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt", Helmstedt,2,"985
+05687",Germany
+548,HOFMA,2,4/9/1997,7/10/1997,4/30/1997,3,17.7,NULL,"Freia-Geisler-Weg 7
+90569 Vechta",echta,4,"7
+90569 V",Germany
+549,ZIMME,1,4/10/1997,5/17/1997,5/2/1997,2,54.1,NULL,"Silvana-Wagenknecht-Straße 2
+92679 Stade",tade,3,"2
+92679 S",Germany
+550,PRUSC,4,4/10/1997,6/13/1997,5/12/1997,3,46,NULL,"Nelly-Warmer-Gasse 507
+03770 Wesel", Wesel,1,"507
+03770",Germany
+551,HäRI,7,4/11/1997,6/16/1997,4/24/1997,3,33.2,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,4,"9
+68897 M",Germany
+552,CICHO,9,4/11/1997,4/29/1997,4/11/1997,3,43.9,NULL,"Jonathan-Girschner-Allee 5/5
+86440 Schwandorf", Schwandorf,3,"5/5
+86440",Germany
+553,STEIN,7,4/12/1997,6/2/1997,4/16/1997,3,92.6,NULL,"Weißstr. 24
+13500 Uelzen",Uelzen,4,"24
+13500 ",Germany
+554,HENCK,3,4/12/1997,7/13/1997,7/1/1997,3,12.5,NULL,"Pavel-Weinhold-Allee 11
+70395 Pritzwalk",Pritzwalk,4,"11
+70395 ",Germany
+555,FöRS,8,4/12/1997,6/13/1997,5/23/1997,1,15,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,2,"2
+82214 C",Germany
+556,FRöH,3,4/15/1997,7/23/1997,6/17/1997,1,23.9,NULL,"Bohlanderallee 2/9
+85077 Gunzenhausen", Gunzenhausen,1,"2/9
+85077",Germany
+557,HEUSE,2,4/16/1997,6/15/1997,4/24/1997,3,29.1,NULL,"Josephine-Jäntsch-Platz 6/9
+53167 Erkelenz", Erkelenz,3,"6/9
+53167",Germany
+558,JUNK,5,4/16/1997,6/13/1997,5/5/1997,1,99.1,NULL,"Reisingallee 62
+78550 Calau",Calau,3,"62
+78550 ",Germany
+559,LöWE,7,4/17/1997,5/6/1997,4/24/1997,3,3.2,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,2,"6
+48836 B",Germany
+560,KLAPP,1,4/17/1997,7/24/1997,4/29/1997,2,92,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",1,"van-Weg 5",Germany
+561,KENSY,6,4/18/1997,5/6/1997,4/20/1997,2,83.4,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,4,"8
+87454 F",Germany
+562,ODERW,5,4/18/1997,6/19/1997,5/6/1997,2,61.6,NULL,"Jesselweg 2/2
+45906 Olpe", Olpe,1,"2/2
+45906",Germany
+563,HERIN,2,4/20/1997,5/9/1997,4/25/1997,1,55.6,NULL,"Ilona-Walter-Straße 592
+83192 Cuxhaven", Cuxhaven,3,"592
+83192",Germany
+564,SCHUL,7,4/21/1997,7/6/1997,5/4/1997,1,88.4,NULL,"Ernstplatz 453
+17042 Erkelenz", Erkelenz,3,"453
+17042",Germany
+565,BäHR,2,4/21/1997,6/10/1997,5/10/1997,3,50.2,NULL,"Vollbrechtplatz 8
+13764 Schwerin",chwerin,3,"8
+13764 S",Germany
+566,GRöT,5,4/22/1997,5/31/1997,5/11/1997,3,84.6,NULL,"Jiri-Becker-Ring 43
+31344 Bad Kreuznach",Bad Kreuznach,3,"43
+31344 ",Germany
+567,MARTI,1,4/22/1997,6/17/1997,5/7/1997,3,88.1,NULL,"Gertrude-Kramer-Weg 9/8
+25685 Mallersdorf", Mallersdorf,3,"9/8
+25685",Germany
+568,WESAC,8,4/22/1997,6/22/1997,5/5/1997,2,4.5,NULL,"Sylwia-Margraf-Straße 1/3
+87860 Holzminden", Holzminden,4,"1/3
+87860",Germany
+569,FAUST,5,4/23/1997,7/24/1997,7/8/1997,3,55.5,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,4,"7
+37523 R",Germany
+570,FISCH,1,4/23/1997,6/18/1997,5/20/1997,1,83.4,NULL,"Jesselweg 2/2
+45906 Olpe", Olpe,2,"2/2
+45906",Germany
+571,ROHT,5,4/25/1997,6/6/1997,5/23/1997,1,22.9,NULL,"Zirmeplatz 3/7
+37704 Bützow", Bützow,4,"3/7
+37704",Germany
+572,GUDE ,5,4/25/1997,8/2/1997,6/2/1997,2,24.7,NULL,"Rosenowallee 546
+26613 Brand", Brand,1,"546
+26613",Germany
+573,JUNCK,6,4/26/1997,5/24/1997,5/7/1997,2,32.9,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,3,"3/9
+51866",Germany
+574,BAUER,1,4/26/1997,7/31/1997,6/8/1997,2,48.6,NULL,"Schmidtweg 2
+46261 Freital",reital,3,"2
+46261 F",Germany
+575,SCHIN,1,4/28/1997,6/8/1997,5/14/1997,3,46.5,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,2,"1
+85413 C",Germany
+576,HENSC,4,4/29/1997,7/27/1997,6/3/1997,3,85.6,NULL,"Süleyman-Köster-Weg 7
+64507 Wolfenbüttel",olfenbüttel,4,"7
+64507 W",Germany
+577,REICH,5,5/1/1997,8/7/1997,5/26/1997,3,12,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,1,"887
+17347",Germany
+578,GUDE ,5,5/1/1997,7/9/1997,5/1/1997,1,96.3,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,3,"885
+14501",Germany
+579,SCHOL,7,5/2/1997,7/27/1997,6/20/1997,2,32.2,NULL,"Eberhardtweg 255
+04038 Reutlingen", Reutlingen,1,"255
+04038",Germany
+580,KITZM,1,5/3/1997,6/24/1997,6/5/1997,3,53.1,NULL,"Roswita-Wernecke-Weg 85
+16452 Torgau",Torgau,3,"85
+16452 ",Germany
+581,LANGE,1,5/3/1997,6/29/1997,6/10/1997,2,22.5,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,4,"011
+96562",Germany
+582,SCHWI,2,5/3/1997,5/31/1997,5/7/1997,1,30.9,NULL,"Mülichenstraße 995
+87953 Wolfenbüttel", Wolfenbüttel,3,"995
+87953",Germany
+583,GERTZ,5,5/4/1997,5/30/1997,5/12/1997,1,54.4,NULL,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen", Wurzen,1,"6/0
+63062",Germany
+584,REINH,7,5/7/1997,6/26/1997,5/13/1997,3,50.3,NULL,"Leonie-Klemt-Gasse 1
+13420 Rottweil",ottweil,2,"1
+13420 R",Germany
+585,STRIE,3,5/8/1997,6/12/1997,5/22/1997,3,63.5,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,2,"5/2
+62020",Germany
+586,HOFMA,4,5/9/1997,8/3/1997,7/20/1997,1,93.9,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,2,"1/7
+72386",Germany
+587,HENSC,3,5/11/1997,6/2/1997,5/22/1997,3,45.5,NULL,"Barthweg 5
+57957 Bersenbrück",ersenbrück,3,"5
+57957 B",Germany
+588,GORLI,5,5/12/1997,5/30/1997,5/18/1997,2,65.3,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,1,"3/4
+79432",Germany
+589,THANE,9,5/12/1997,7/5/1997,6/17/1997,2,94.3,NULL,"Junckstr. 4
+67570 Nürtingen",ürtingen,2,"4
+67570 N",Germany
+590,OTTO,1,5/12/1997,7/9/1997,6/10/1997,2,54.7,NULL,"Svenja-Ernst-Platz 684
+42681 Ingolstadt", Ingolstadt,4,"684
+42681",Germany
+591,LORCH,2,5/12/1997,5/31/1997,5/13/1997,3,18.3,NULL,"Langering 9/1
+59895 Eisenach", Eisenach,3,"9/1
+59895",Germany
+592,HEUSE,4,5/13/1997,5/25/1997,5/15/1997,3,89.2,NULL,"Möchlichenplatz 9/0
+60458 Jüterbog", Jüterbog,4,"9/0
+60458",Germany
+593,WIELO,6,5/13/1997,7/6/1997,5/17/1997,2,35.3,NULL,"Kochstraße 0
+97773 Neunburg vorm Wald",eunburg vorm Wald,4,"0
+97773 N",Germany
+594,MENTZ,7,5/13/1997,6/10/1997,5/18/1997,3,28,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,2,"667
+17837",Germany
+595,ROSEM,8,5/14/1997,6/6/1997,5/20/1997,3,76.9,NULL,"Hamannweg 0
+48059 Sonneberg",onneberg,2,"0
+48059 S",Germany
+596,BOLNB,4,5/14/1997,6/2/1997,5/20/1997,1,99.5,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,1,"45
+89867 ",Germany
+597,CARST,5,5/15/1997,7/23/1997,7/13/1997,1,68.5,NULL,"Milena-Nohlmans-Allee 06
+20613 Bernburg",Bernburg,2,"06
+20613 ",Germany
+598,LOSEK,6,5/15/1997,8/14/1997,5/31/1997,2,45,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,2,"2/4
+92841",Germany
+599,HöVE,3,5/15/1997,6/9/1997,5/27/1997,1,81.8,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,3,"5/1
+84401",Germany
+600,SCHAC,8,5/16/1997,8/4/1997,5/16/1997,3,31.9,NULL,"Wiltrud-Kobelt-Platz 8/8
+65103 Norden", Norden,4,"8/8
+65103",Germany
+601,JOPIC,9,5/16/1997,8/12/1997,6/2/1997,3,76.8,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,4,"1
+66200 L",Germany
+602,HöFI,6,5/16/1997,8/6/1997,6/4/1997,3,2.6,NULL,"Knappeallee 185
+94612 Waldmünchen", Waldmünchen,3,"185
+94612",Germany
+603,HERIN,3,5/16/1997,6/12/1997,5/22/1997,2,54.3,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,1,"83
+89721 ",Germany
+604,WEITZ,2,5/16/1997,8/17/1997,7/10/1997,2,49.9,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,1,"4/0
+25180",Germany
+605,KNAPP,9,5/18/1997,7/4/1997,6/19/1997,1,15.7,NULL,"Roswita-Wernecke-Weg 85
+16452 Torgau",Torgau,1,"85
+16452 ",Germany
+606,BAUM,2,5/19/1997,7/18/1997,6/8/1997,2,69.3,NULL,"Knappeallee 185
+94612 Waldmünchen", Waldmünchen,2,"185
+94612",Germany
+607,HEIDR,2,5/19/1997,8/15/1997,6/7/1997,1,6.8,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,2,"4/4
+43815",Germany
+608,BUCHH,8,5/23/1997,8/13/1997,6/5/1997,1,32.1,NULL,"Butteweg 6
+48836 Bad Brückenau",ad Brückenau,1,"6
+48836 B",Germany
+609,SPEER,9,5/25/1997,8/26/1997,6/25/1997,2,73.8,NULL,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal", Stendal,3,"9/0
+34869",Germany
+610,NIEME,6,5/26/1997,7/5/1997,6/20/1997,1,67.7,NULL,"Patberggasse 3
+50164 Gelnhausen",elnhausen,1,"3
+50164 G",Germany
+611,ROHT,4,5/26/1997,7/29/1997,6/15/1997,2,42.7,NULL,"Zenta-Loos-Straße 23
+28758 Reutlingen",Reutlingen,1,"23
+28758 ",Germany
+612,STOLL,2,5/27/1997,6/20/1997,6/6/1997,1,67.7,NULL,"Mary-Kreusel-Straße 1/6
+18028 Altötting", Altötting,2,"1/6
+18028",Germany
+613,HüBE,7,5/27/1997,6/23/1997,6/4/1997,2,19,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,1,"5/5
+11295",Germany
+614,SCHAC,6,5/27/1997,6/28/1997,6/7/1997,1,63.1,NULL,"Sandor-Eberth-Allee 87
+33410 Freising",Freising,4,"87
+33410 ",Germany
+615,EHLER,2,5/29/1997,7/20/1997,6/25/1997,3,1.1,NULL,"Helga-Höfig-Allee 1/7
+83296 Ansbach", Ansbach,3,"1/7
+83296",Germany
+616,FECHN,1,5/29/1997,8/9/1997,6/8/1997,2,81.7,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,3,"6
+94712 E",Germany
+617,KEUDE,9,5/29/1997,6/18/1997,6/3/1997,1,71.5,NULL,"Valerij-Heinrich-Platz 1
+32225 Melsungen",elsungen,1,"1
+32225 M",Germany
+618,SCHLE,1,5/31/1997,8/8/1997,6/25/1997,2,28,NULL,"Krauseallee 5
+92745 Nürtingen",ürtingen,3,"5
+92745 N",Germany
+619,FREUD,1,6/1/1997,8/23/1997,7/8/1997,1,54.3,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,4,"220
+84359",Germany
+620,HENSC,1,6/2/1997,8/20/1997,7/29/1997,3,65.2,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,4,"74
+69440 ",Germany
+621,WAGEN,2,6/3/1997,8/7/1997,7/9/1997,1,36.9,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,2,"98
+06736 ",Germany
+622,NASER,7,6/3/1997,6/30/1997,6/17/1997,1,55.3,NULL,"Bachmannring 8
+98747 Flöha",löha,2,"8
+98747 F",Germany
+623,GUMPR,2,6/4/1997,6/28/1997,6/15/1997,1,30.7,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,1,"3/6
+00456",Germany
+624,WOHLG,7,6/5/1997,9/7/1997,8/17/1997,3,35.5,NULL,"Andreas-Nette-Platz 935
+73001 Eilenburg", Eilenburg,3,"935
+73001",Germany
+625,WEIME,5,6/11/1997,8/21/1997,8/7/1997,2,20.5,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,2,"389
+42769",Germany
+626,KITZM,6,6/12/1997,9/7/1997,8/12/1997,3,95.3,NULL,"Domenico-Junk-Allee 534
+56453 Werdau", Werdau,1,"534
+56453",Germany
+627,KITZM,5,6/12/1997,8/4/1997,6/20/1997,1,87.2,NULL,"Almuth-Scholtz-Gasse 2/5
+53967 Schweinfurt", Schweinfurt,2,"2/5
+53967",Germany
+628,WULF ,2,6/13/1997,9/15/1997,8/5/1997,3,42.5,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,2,"5
+55309 P",Germany
+629,LANGE,2,6/13/1997,7/5/1997,6/14/1997,2,35.3,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,1,"27
+43327 ",Germany
+630,HöRL,1,6/13/1997,8/4/1997,7/9/1997,1,74.5,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,2,"726
+07541",Germany
+631,JUNCK,1,6/13/1997,7/24/1997,7/2/1997,3,11.3,NULL,"Svenja-Ernst-Platz 684
+42681 Ingolstadt", Ingolstadt,2,"684
+42681",Germany
+632,SCHLE,1,6/14/1997,8/30/1997,8/19/1997,3,42.5,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,2,"466
+50840",Germany
+633,WEIME,4,6/15/1997,8/8/1997,7/24/1997,3,70.3,NULL,"Rosemannstr. 304
+11229 Coburg", Coburg,3,"304
+11229",Germany
+634,BUCHH,6,6/15/1997,7/15/1997,6/20/1997,2,42.1,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+635,DIETZ,9,6/15/1997,7/21/1997,6/24/1997,3,91.5,NULL,"Pavel-Weinhold-Allee 11
+70395 Pritzwalk",Pritzwalk,2,"11
+70395 ",Germany
+636,ROHT,4,6/15/1997,9/8/1997,8/11/1997,3,43.7,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,4,"1/7
+72386",Germany
+637,HENCK,3,6/15/1997,8/5/1997,7/13/1997,3,6.4,NULL,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,1,"19
+51097 ",Germany
+638,MäLZ,5,6/15/1997,7/22/1997,6/21/1997,3,30.8,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,4,"8
+62701 B",Germany
+639,Süß,3,6/15/1997,8/14/1997,7/26/1997,2,54.2,NULL,"Römerring 252
+95191 Griesbach Rottal", Griesbach Rottal,1,"252
+95191",Germany
+640,LADEC,4,6/17/1997,7/24/1997,6/17/1997,1,40.7,NULL,"Milena-Nohlmans-Allee 06
+20613 Bernburg",Bernburg,1,"06
+20613 ",Germany
+641,TEXTO,2,6/18/1997,7/7/1997,6/21/1997,2,26.7,NULL,"Dietzstraße 24
+40598 Herzberg",Herzberg,3,"24
+40598 ",Germany
+642,BäHR,4,6/19/1997,8/25/1997,7/12/1997,2,96.1,NULL,"Ilona-Walter-Straße 592
+83192 Cuxhaven", Cuxhaven,3,"592
+83192",Germany
+643,DITSC,9,6/20/1997,7/19/1997,7/1/1997,3,37.8,NULL,"Marika-Gierschner-Allee 5/5
+46821 Ebern", Ebern,3,"5/5
+46821",Germany
+644,VOGT ,5,6/20/1997,8/8/1997,6/21/1997,2,77.5,NULL,"Ingetraut-Bien-Ring 03
+07828 Paderborn",Paderborn,4,"03
+07828 ",Germany
+645,HERTR,1,6/22/1997,7/31/1997,7/8/1997,2,19.8,NULL,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,4,"15
+06805 ",Germany
+646,KUSCH,8,6/22/1997,8/13/1997,7/12/1997,2,3.2,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,2,"7/5
+99665",Germany
+647,PäRT,1,6/23/1997,8/2/1997,7/13/1997,3,28,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,1,"3/6
+00456",Germany
+648,HERIN,1,6/23/1997,7/21/1997,7/1/1997,2,38.9,NULL,"Reisingallee 62
+78550 Calau",Calau,4,"62
+78550 ",Germany
+649,KöST,6,6/25/1997,7/29/1997,7/12/1997,2,30.1,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,3,"5/7
+36390",Germany
+650,RENNE,7,6/26/1997,8/7/1997,6/29/1997,1,49.7,NULL,"Irmingard-Bien-Allee 12
+08012 Stade",Stade,2,"12
+08012 ",Germany
+651,GORLI,8,6/26/1997,8/12/1997,7/10/1997,2,27.8,NULL,"Gloria-Rudolph-Weg 4
+45515 Illertissen",llertissen,4,"4
+45515 I",Germany
+652,ROHT,8,6/26/1997,9/30/1997,7/20/1997,1,66,NULL,"Loosgasse 785
+13281 Strausberg", Strausberg,1,"785
+13281",Germany
+653,FECHN,1,6/29/1997,9/26/1997,9/7/1997,1,69.4,NULL,"Wesackstr. 92
+78547 Perleberg",Perleberg,4,"92
+78547 ",Germany
+654,STUMP,7,6/29/1997,8/28/1997,7/26/1997,2,36.8,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,4,"0
+59730 F",Germany
+655,HüBE,2,6/29/1997,7/29/1997,7/18/1997,1,30.1,NULL,"Anneke-Roskoth-Platz 146
+12653 Donaueschingen", Donaueschingen,1,"146
+12653",Germany
+656,JOPIC,4,6/29/1997,7/28/1997,7/10/1997,3,87.6,NULL,"Junkring 07
+55687 Arnstadt",Arnstadt,1,"07
+55687 ",Germany
+657,HOLST,3,6/29/1997,9/6/1997,7/8/1997,1,18.3,NULL,"Haeringring 877
+50050 Artern", Artern,4,"877
+50050",Germany
+658,CUSTOMERID,2,6/30/1997,9/19/1997,7/1/1997,2,68.6,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,1,"4/4
+43815",Germany
+659,SCHLE,1,6/30/1997,8/18/1997,7/25/1997,3,30.6,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,1,"7
+98012 S",Germany
+660,ULLMA,8,7/1/1997,7/12/1997,7/1/1997,2,79.2,NULL,"Jonathan-Girschner-Allee 5/5
+86440 Schwandorf", Schwandorf,1,"5/5
+86440",Germany
+661,MARTI,1,7/2/1997,8/31/1997,8/18/1997,3,39.8,NULL,"Anneke-Roskoth-Platz 146
+12653 Donaueschingen", Donaueschingen,1,"146
+12653",Germany
+662,TäSC,6,7/2/1997,9/26/1997,9/4/1997,3,40,NULL,"Barthweg 5
+57957 Bersenbrück",ersenbrück,3,"5
+57957 B",Germany
+663,JäNT,8,7/2/1997,8/4/1997,7/14/1997,1,25,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,2,"0
+07712 E",Germany
+664,WERNE,7,7/3/1997,7/14/1997,7/4/1997,3,66.3,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,3,"3/4
+79432",Germany
+665,EHLER,3,7/4/1997,7/19/1997,7/7/1997,2,99.6,NULL,"Heinz-Werner-Mans-Gasse 477
+55511 Sondershausen", Sondershausen,4,"477
+55511",Germany
+666,WULF ,8,7/4/1997,8/5/1997,7/24/1997,2,100,NULL,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,3,"95
+92216 ",Germany
+667,JACOB,1,7/5/1997,7/22/1997,7/9/1997,3,98.6,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",2,"van-Weg 5",Germany
+668,BARTH,1,7/6/1997,7/16/1997,7/6/1997,2,27.5,NULL,"Reisingallee 62
+78550 Calau",Calau,2,"62
+78550 ",Germany
+669,EHLER,7,7/7/1997,8/18/1997,7/9/1997,1,37.7,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,3,"8
+87454 F",Germany
+670,FREUD,2,7/8/1997,9/18/1997,7/24/1997,3,30.9,NULL,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf", Mallersdorf,2,"9/7
+14188",Germany
+671,JäNT,8,7/8/1997,7/28/1997,7/11/1997,2,77.2,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,1,"7/6
+10323",Germany
+672,SPIE�,8,7/8/1997,10/16/1997,7/18/1997,3,78.8,NULL,"Nikolas-Hövel-Platz 0/1
+00234 Fallingbostel", Fallingbostel,1,"0/1
+00234",Germany
+673,LüBS,2,7/9/1997,10/3/1997,8/5/1997,3,38.1,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,1,"24
+45998 ",Germany
+674,WERNE,3,7/9/1997,9/16/1997,8/7/1997,2,14.6,NULL,"Karl-Georg-Käster-Straße 861
+71480 Bersenbrück", Bersenbrück,2,"861
+71480",Germany
+675,RöHR,1,7/10/1997,9/27/1997,9/7/1997,2,28.4,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,3,"466
+50840",Germany
+676,JUNK,4,7/11/1997,8/4/1997,7/23/1997,1,24.1,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,1,"8
+62701 B",Germany
+677,HEIN ,3,7/12/1997,8/30/1997,8/6/1997,1,53.6,NULL,"Rolf-Rosemann-Platz 8/7
+48762 Parchim", Parchim,4,"8/7
+48762",Germany
+678,HENSC,5,7/12/1997,7/23/1997,7/12/1997,1,92.7,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,1,"7/2
+58548",Germany
+679,SCHü,2,7/12/1997,7/28/1997,7/12/1997,2,61.2,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,4,"45
+89867 ",Germany
+680,GUDE ,9,7/14/1997,10/16/1997,9/23/1997,2,50.1,NULL,"Sylke-Siering-Gasse 4
+75121 Berlin",erlin,2,"4
+75121 B",Germany
+681,ERNST,7,7/15/1997,8/21/1997,7/26/1997,3,59.4,NULL,"Gloria-Rudolph-Weg 4
+45515 Illertissen",llertissen,2,"4
+45515 I",Germany
+682,JACOB,2,7/15/1997,10/14/1997,7/21/1997,3,15.6,NULL,"Conradiring 5
+63971 Schrobenhausen",chrobenhausen,2,"5
+63971 S",Germany
+683,ROSEM,5,7/17/1997,9/19/1997,8/14/1997,1,56.9,NULL,"Salzstraße 9
+87357 Wurzen",urzen,4,"9
+87357 W",Germany
+684,GORLI,7,7/17/1997,10/10/1997,8/2/1997,3,1.2,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,4,"8
+87454 F",Germany
+685,BäHR,1,7/20/1997,8/1/1997,7/20/1997,1,72.3,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,3,"726
+07541",Germany
+686,GORLI,7,7/20/1997,10/13/1997,9/6/1997,1,58.4,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,4,"43
+96301 ",Germany
+687,HEUSE,8,7/20/1997,10/20/1997,7/28/1997,3,2.6,NULL,"Hörlestraße 34
+51159 Soltau",Soltau,2,"34
+51159 ",Germany
+688,ROHT,2,7/21/1997,10/27/1997,9/4/1997,2,35.7,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,4,"448
+27008",Germany
+689,AUMAN,6,7/21/1997,9/3/1997,7/23/1997,3,4.8,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,2,"8
+87454 F",Germany
+690,THANE,9,7/22/1997,8/20/1997,7/30/1997,3,55.2,NULL,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,1,"95
+92216 ",Germany
+691,HOLST,4,7/23/1997,10/18/1997,9/3/1997,3,47.6,NULL,"Zeljko-auch Schlauchin-Weg 6/1
+60051 Neuruppin","-Weg 6/1
+60051 Neuruppin",3,Schlauchin,Germany
+692,STIFF,1,7/24/1997,10/3/1997,7/24/1997,3,96.1,NULL,"Andreas-Nette-Platz 935
+73001 Eilenburg", Eilenburg,3,"935
+73001",Germany
+693,DREWE,7,7/24/1997,10/26/1997,8/24/1997,3,8.7,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,1,"3/6
+00456",Germany
+694,ROHT,6,7/24/1997,10/28/1997,8/4/1997,1,47.2,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,1,"17
+90326 ",Germany
+695,WIRTH,8,7/25/1997,9/21/1997,8/31/1997,1,8.2,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,2,"389
+42769",Germany
+696,KREIN,7,7/26/1997,9/20/1997,7/27/1997,1,40.9,NULL,"Schwitalring 880
+19940 Zossen", Zossen,4,"880
+19940",Germany
+697,GUDE,1,7/26/1997,9/24/1997,8/22/1997,2,43.2,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,1,"3/4
+79432",Germany
+698,MANGO,1,7/27/1997,9/17/1997,8/23/1997,3,60.9,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,3,"4/3
+65722",Germany
+699,GORLI,1,7/27/1997,9/21/1997,7/30/1997,3,73.2,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,4,"5/8
+69219",Germany
+700,HORNI,5,7/28/1997,10/24/1997,10/10/1997,1,15.4,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,2,"15
+75990 ",Germany
+701,HORNI,5,7/28/1997,10/3/1997,8/29/1997,3,92.8,NULL,"Römerring 252
+95191 Griesbach Rottal", Griesbach Rottal,1,"252
+95191",Germany
+702,JACOB,9,7/29/1997,8/11/1997,7/29/1997,2,31.5,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,1,"4/4
+43815",Germany
+703,HEUSE,9,7/31/1997,9/13/1997,8/31/1997,3,33.5,NULL,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,2,"15
+06805 ",Germany
+704,SPIE�,7,7/31/1997,9/26/1997,9/10/1997,2,15.3,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,1,"578
+16565",Germany
+705,JOPIC,3,7/31/1997,8/15/1997,8/1/1997,1,54.9,NULL,"Weißstr. 24
+13500 Uelzen",Uelzen,2,"24
+13500 ",Germany
+706,BARTH,5,7/31/1997,10/14/1997,9/23/1997,2,70.3,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,1,"220
+84359",Germany
+707,HäRI,3,7/31/1997,9/30/1997,9/13/1997,3,94.5,NULL,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt", Helmstedt,2,"985
+05687",Germany
+708,SCHMI,5,8/2/1997,10/9/1997,8/28/1997,3,32.4,NULL,"Herrmann-Sontag-Platz 8
+06608 Apolda",polda,3,"8
+06608 A",Germany
+709,LORCH,9,8/3/1997,9/21/1997,8/15/1997,2,87.1,NULL,"Geißlerallee 729
+77104 Finsterwalde", Finsterwalde,1,"729
+77104",Germany
+710,WEIME,3,8/5/1997,10/30/1997,10/8/1997,3,84.8,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,2,"8
+87454 F",Germany
+711,STUMP,4,8/5/1997,9/24/1997,8/26/1997,1,62.6,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,3,"1/7
+72386",Germany
+712,HöRL,7,8/6/1997,10/21/1997,9/6/1997,1,6.4,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,1,"1/7
+72386",Germany
+713,FECHN,6,8/6/1997,8/21/1997,8/10/1997,2,10.3,NULL,"Gloria-Rudolph-Weg 4
+45515 Illertissen",llertissen,1,"4
+45515 I",Germany
+714,HEINR,3,8/8/1997,9/7/1997,8/8/1997,3,52.4,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,1,"5/8
+69219",Germany
+715,KNAPP,4,8/10/1997,10/12/1997,9/5/1997,2,28.3,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,3,"448
+24596",Germany
+716,SORGA,3,8/12/1997,9/12/1997,8/30/1997,1,74.4,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,2,"7
+64973 M",Germany
+717,GUMPR,2,8/12/1997,8/23/1997,8/12/1997,3,13.8,NULL,"Reza-Neureuther-Straße 224
+41022 Göttingen", Göttingen,2,"224
+41022",Germany
+718,KRUSC,9,8/12/1997,11/1/1997,9/19/1997,1,7.1,NULL,"Krokerplatz 545
+83219 Schongau", Schongau,1,"545
+83219",Germany
+719,WIRTH,6,8/14/1997,9/6/1997,8/21/1997,1,48.5,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,2,"17
+90326 ",Germany
+720,HOLST,3,8/16/1997,9/14/1997,8/18/1997,2,30.2,NULL,"Sabine-Thies-Weg 2/9
+11589 Bamberg", Bamberg,1,"2/9
+11589",Germany
+721,WEIME,5,8/17/1997,11/2/1997,9/17/1997,1,86.7,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,3,"4/9
+01718",Germany
+722,ORTMA,6,8/18/1997,10/27/1997,9/15/1997,3,16.9,NULL,"Traudl-Drub-Gasse 7
+03935 Bergzabern",ergzabern,1,"7
+03935 B",Germany
+723,SCHö,3,8/18/1997,10/15/1997,8/21/1997,2,51.7,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,2,"5/2
+62020",Germany
+724,LöWE,9,8/19/1997,10/13/1997,9/7/1997,2,76.6,NULL,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen", Schwabmünchen,3,"083
+91273",Germany
+725,GUMPR,5,8/21/1997,10/6/1997,9/2/1997,2,26.4,NULL,"Birnbaumplatz 1/9
+56858 Schwabmünchen", Schwabmünchen,1,"1/9
+56858",Germany
+726,NIEME,8,8/22/1997,9/4/1997,8/23/1997,3,36.6,NULL,"Dorothee-Gotthard-Weg 4/2
+31149 Schwandorf", Schwandorf,1,"4/2
+31149",Germany
+727,JOPIC,6,8/22/1997,11/17/1997,10/9/1997,2,16.6,NULL,"Kobeltweg 78
+17987 Plauen",Plauen,2,"78
+17987 ",Germany
+728,LOSEK,9,8/22/1997,10/13/1997,9/28/1997,1,69.4,NULL,"Schinkegasse 10
+01722 Göppingen",Göppingen,1,"10
+01722 ",Germany
+729,MIES ,8,8/22/1997,11/3/1997,10/9/1997,3,40.3,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,3,"2/4
+92841",Germany
+730,HAUFF,5,8/22/1997,10/21/1997,9/28/1997,3,98.1,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,3,"71
+11958 ",Germany
+731,JäNT,4,8/23/1997,9/4/1997,8/25/1997,2,7.6,NULL,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen", Schwabmünchen,1,"083
+91273",Germany
+732,SCHMI,1,8/23/1997,11/5/1997,9/2/1997,2,91.2,NULL,"Jesselweg 2/2
+45906 Olpe", Olpe,2,"2/2
+45906",Germany
+733,SCHö,3,8/23/1997,11/1/1997,10/14/1997,2,10.3,NULL,"Müllerstraße 2/0
+59379 Genthin", Genthin,2,"2/0
+59379",Germany
+734,ROGGE,1,8/24/1997,9/13/1997,8/24/1997,2,5.8,NULL,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,1,"19
+51097 ",Germany
+735,RöHR,4,8/24/1997,10/15/1997,8/30/1997,1,20.5,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,1,"220
+84359",Germany
+736,WESAC,4,8/24/1997,10/15/1997,8/25/1997,2,15.7,NULL,"Giuseppe-Scheuermann-Platz 960
+40190 Stadtsteinach", Stadtsteinach,1,"960
+40190",Germany
+737,SCHWI,7,8/25/1997,11/9/1997,9/12/1997,1,60.6,NULL,"Paulo-Mühle-Ring 57
+66088 Burgdorf",Burgdorf,1,"57
+66088 ",Germany
+738,SCHOM,1,8/25/1997,10/17/1997,10/1/1997,3,88.7,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,4,"90
+69119 ",Germany
+739,HENTS,4,8/25/1997,9/8/1997,8/29/1997,2,93.2,NULL,"Naserweg 7
+94226 Lobenstein",obenstein,2,"7
+94226 L",Germany
+740,EBERT,4,8/25/1997,12/1/1997,9/4/1997,1,28.8,NULL,"Maik-Schottin-Gasse 3
+05898 Kyritz",yritz,3,"3
+05898 K",Germany
+741,ODERW,9,8/25/1997,11/8/1997,9/7/1997,1,54.3,NULL,"Geißlerallee 729
+77104 Finsterwalde", Finsterwalde,1,"729
+77104",Germany
+742,GUDE ,2,8/25/1997,10/11/1997,9/9/1997,1,19.5,NULL,"Zeljko-auch Schlauchin-Weg 6/1
+60051 Neuruppin","-Weg 6/1
+60051 Neuruppin",2,Schlauchin,Germany
+743,KRUSC,3,8/27/1997,9/6/1997,8/27/1997,1,39,NULL,"Bruderplatz 118
+88604 Jessen", Jessen,3,"118
+88604",Germany
+744,POHL ,7,8/28/1997,9/29/1997,8/29/1997,2,99.8,NULL,"Müllerstraße 2/0
+59379 Genthin", Genthin,3,"2/0
+59379",Germany
+745,NIEME,2,8/29/1997,10/21/1997,9/11/1997,2,94.9,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,1,"5/7
+36390",Germany
+746,GORLI,2,8/31/1997,10/15/1997,9/23/1997,3,78.2,NULL,"Gertrude-Kramer-Weg 9/8
+25685 Mallersdorf", Mallersdorf,3,"9/8
+25685",Germany
+747,HARLO,9,9/2/1997,11/1/1997,9/18/1997,3,32.7,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,2,"348
+59184",Germany
+748,KUSCH,6,9/4/1997,10/22/1997,9/21/1997,2,70.7,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",ggendorf,2,"2
+04206 De",Germany
+749,LANGE,3,9/5/1997,12/10/1997,11/1/1997,2,96.7,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,3,"348
+59184",Germany
+750,WEIß,6,9/5/1997,10/28/1997,9/6/1997,1,37.1,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,2,"5/2
+62020",Germany
+751,ULLMA,1,9/5/1997,10/3/1997,9/22/1997,2,93.9,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,3,"4/9
+01718",Germany
+752,FöRS,1,9/8/1997,11/28/1997,10/8/1997,3,92.6,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,3,"864
+55722",Germany
+753,KöST,4,9/9/1997,10/20/1997,9/24/1997,2,99.1,NULL,"Schmidtweg 2
+46261 Freital",reital,1,"2
+46261 F",Germany
+754,LIEBE,2,9/11/1997,12/16/1997,10/25/1997,2,87.9,NULL,"Jacobplatz 572
+50043 Havelberg", Havelberg,2,"572
+50043",Germany
+755,ROHT,4,9/12/1997,10/6/1997,9/25/1997,1,3.3,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,2,"7
+64973 M",Germany
+756,JUNK,2,9/13/1997,10/14/1997,9/26/1997,1,6.5,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,2,"33
+13526 ",Germany
+757,LADEC,8,9/13/1997,11/8/1997,10/23/1997,3,50.6,NULL,"Valerij-Heinrich-Platz 1
+32225 Melsungen",elsungen,3,"1
+32225 M",Germany
+758,DöRS,5,9/14/1997,11/21/1997,10/18/1997,3,97.3,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,4,"885
+14501",Germany
+759,SORGA,7,9/15/1997,11/24/1997,9/28/1997,1,29.3,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,1,"27
+43327 ",Germany
+760,MIELC,2,9/16/1997,10/3/1997,9/23/1997,3,44.7,NULL,"Langering 9/1
+59895 Eisenach", Eisenach,3,"9/1
+59895",Germany
+761,SCHMI,4,9/16/1997,12/8/1997,11/3/1997,3,41.4,NULL,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,4,"95
+92216 ",Germany
+762,SCHOL,5,9/17/1997,10/27/1997,10/14/1997,3,19.3,NULL,"Milena-Nohlmans-Allee 06
+20613 Bernburg",Bernburg,1,"06
+20613 ",Germany
+763,FECHN,8,9/18/1997,12/21/1997,11/3/1997,3,17.4,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,2,"182
+44826",Germany
+764,HOLZA,5,9/18/1997,11/26/1997,10/21/1997,3,29.9,NULL,"Salzstraße 9
+87357 Wurzen",urzen,1,"9
+87357 W",Germany
+765,PUTZ ,7,9/19/1997,10/29/1997,10/1/1997,1,34,NULL,"Möchlichenplatz 9/0
+60458 Jüterbog", Jüterbog,2,"9/0
+60458",Germany
+766,DöRS,4,9/19/1997,11/2/1997,10/15/1997,2,61.6,NULL,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich", Grevenbroich,4,"1/2
+50385",Germany
+767,FISCH,2,9/19/1997,10/5/1997,9/23/1997,1,3.4,NULL,"Gotthardallee 5/5
+45130 Hohenmölsen", Hohenmölsen,3,"5/5
+45130",Germany
+768,GUMPR,1,9/21/1997,11/10/1997,10/21/1997,1,33,NULL,"Rittergasse 62
+66128 Burgdorf",Burgdorf,4,"62
+66128 ",Germany
+769,WERNE,9,9/22/1997,12/11/1997,10/11/1997,1,44,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,2,"348
+59184",Germany
+770,SöDI,7,9/22/1997,10/11/1997,10/1/1997,3,45.3,NULL,"Marika-Gierschner-Allee 5/5
+46821 Ebern", Ebern,4,"5/5
+46821",Germany
+771,HENSC,5,9/23/1997,12/17/1997,9/26/1997,3,67.7,NULL,"Rouven-Hornig-Straße 92
+83711 Gelnhausen",Gelnhausen,2,"92
+83711 ",Germany
+772,EBERT,4,9/24/1997,11/16/1997,10/23/1997,2,89.9,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,3,"578
+16565",Germany
+773,WESAC,3,9/27/1997,11/30/1997,9/28/1997,2,26.8,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,2,"220
+84359",Germany
+774,ROHT,7,9/28/1997,10/21/1997,10/2/1997,3,88.5,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,4,"726
+07541",Germany
+775,MUDE ,3,9/29/1997,10/10/1997,9/30/1997,2,78.6,NULL,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw", Calw,4,"9/3
+45614",Germany
+776,JäNT,1,9/30/1997,10/20/1997,10/5/1997,3,6.4,NULL,"Schwitalring 880
+19940 Zossen", Zossen,3,"880
+19940",Germany
+777,KREBS,4,9/30/1997,10/13/1997,9/30/1997,2,98.3,NULL,"Junitzgasse 220
+84359 Freudenstadt", Freudenstadt,4,"220
+84359",Germany
+778,THANE,3,9/30/1997,10/20/1997,10/9/1997,1,87.3,NULL,"Römerring 252
+95191 Griesbach Rottal", Griesbach Rottal,2,"252
+95191",Germany
+779,HEINR,5,10/1/1997,12/20/1997,11/28/1997,2,50.8,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",1,der Dussen,Germany
+780,SPIE�,8,10/1/1997,11/12/1997,10/31/1997,2,91.2,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,2,"07
+63135 ",Germany
+781,WEIß,1,10/2/1997,12/30/1997,11/3/1997,1,53.8,NULL,"Hövelstraße 1
+66200 Ludwigsburg",udwigsburg,3,"1
+66200 L",Germany
+782,BäHR,6,10/4/1997,12/8/1997,10/10/1997,3,9.8,NULL,"Vollbrechtplatz 8
+13764 Schwerin",chwerin,2,"8
+13764 S",Germany
+783,HEIN ,5,10/7/1997,11/8/1997,10/16/1997,3,10.5,NULL,"Knappestraße 344
+14542 Lörrach", Lörrach,2,"344
+14542",Germany
+784,SCHAA,6,10/7/1997,12/9/1997,11/23/1997,1,59.2,NULL,"Ditmar-Fröhlich-Platz 15
+06805 Helmstedt",Helmstedt,2,"15
+06805 ",Germany
+785,FAUST,2,10/8/1997,12/1/1997,11/10/1997,2,81.6,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,1,"5
+55309 P",Germany
+786,HöRL,4,10/8/1997,11/18/1997,10/31/1997,2,61.9,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,3,"2/4
+92841",Germany
+787,KLAPP,5,10/11/1997,1/4/1998,11/30/1997,1,27.3,NULL,"Kühnertring 8
+13040 Büsingenm Hochrhein",üsingenm Hochrhein,3,"8
+13040 B",Germany
+788,KäST,9,10/11/1997,10/29/1997,10/14/1997,2,7.3,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,1,"4/3
+65722",Germany
+789,LADEC,2,10/12/1997,11/28/1997,10/21/1997,3,97.6,NULL,"Klemtring 93
+11440 Ribnitz-Damgarten",Ribnitz-Damgarten,2,"93
+11440 ",Germany
+790,SORGA,6,10/12/1997,11/12/1997,10/13/1997,2,11.7,NULL,"Caterina-Mentzel-Straße 2
+04206 Deggendorf",eggendorf,3,"2
+04206 D",Germany
+791,TäSC,7,10/13/1997,12/16/1997,12/6/1997,2,54.1,NULL,"Hörlestraße 34
+51159 Soltau",Soltau,4,"34
+51159 ",Germany
+792,HOLST,1,10/13/1997,11/25/1997,10/20/1997,1,34.1,NULL,"Strohweg 672
+03176 Torgau", Torgau,4,"672
+03176",Germany
+793,EBERT,6,10/14/1997,12/7/1997,11/4/1997,3,19.3,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,4,"348
+59184",Germany
+794,LORCH,6,10/15/1997,12/6/1997,11/16/1997,2,92.2,NULL,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf", Mallersdorf,3,"9/7
+14188",Germany
+795,NERGE,6,10/15/1997,1/21/1998,11/18/1997,2,69.1,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,2,"448
+24596",Germany
+796,GRöT,4,10/17/1997,10/30/1997,10/19/1997,2,68.2,NULL,"Leonore-Zorbach-Allee 782
+20026 Hamburg", Hamburg,3,"782
+20026",Germany
+797,HEß ,7,10/17/1997,1/10/1998,12/10/1997,3,47.4,NULL,"Horniggasse 7/5
+99665 Fürstenwalde", Fürstenwalde,3,"7/5
+99665",Germany
+798,MIES ,7,10/18/1997,12/17/1997,11/13/1997,2,54,NULL,"Schmidtweg 2
+46261 Freital",reital,3,"2
+46261 F",Germany
+799,WARME,8,10/19/1997,1/10/1998,12/14/1997,3,72.8,NULL,"Blümelgasse 9
+50750 Roth",oth,4,"9
+50750 R",Germany
+800,HEINR,3,10/19/1997,1/2/1998,12/20/1997,2,27.5,NULL,"Mary-Kreusel-Straße 1/6
+18028 Altötting", Altötting,4,"1/6
+18028",Germany
+801,FISCH,4,10/20/1997,1/1/1998,12/18/1997,1,81.1,NULL,"Klaus-Michael-Adler-Ring 164
+96704 Jülich", Jülich,2,"164
+96704",Germany
+802,ZIRME,9,10/22/1997,11/19/1997,11/1/1997,3,78.6,NULL,"Krauseallee 5
+92745 Nürtingen",ürtingen,1,"5
+92745 N",Germany
+803,GUDE ,9,10/22/1997,12/16/1997,11/27/1997,3,69.3,NULL,"Birnbaumplatz 1/9
+56858 Schwabmünchen", Schwabmünchen,2,"1/9
+56858",Germany
+804,HEINR,4,10/23/1997,11/15/1997,11/3/1997,3,58.5,NULL,"Hörlegasse 1
+37491 Oberviechtach",berviechtach,3,"1
+37491 O",Germany
+805,HENCK,7,10/23/1997,11/7/1997,10/25/1997,1,99.7,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,3,"2
+82214 C",Germany
+806,BUTTE,2,10/23/1997,1/25/1998,11/25/1997,2,25.3,NULL,"Goran-Faust-Straße 5/2
+91453 Kemnath", Kemnath,3,"5/2
+91453",Germany
+807,HüBE,2,10/24/1997,11/24/1997,11/3/1997,2,31.6,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,1,"2/5
+05313",Germany
+808,HEIN ,9,10/25/1997,12/18/1997,11/5/1997,3,82.8,NULL,"Sylwia-Margraf-Straße 1/3
+87860 Holzminden", Holzminden,2,"1/3
+87860",Germany
+809,WERNE,7,10/26/1997,12/20/1997,12/8/1997,2,91.5,NULL,"Fechnergasse 291
+96968 Gerolzhofen", Gerolzhofen,3,"291
+96968",Germany
+810,SCHLE,1,10/26/1997,12/8/1997,11/6/1997,1,52.6,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,4,"0/8
+66340",Germany
+811,AUSTE,9,10/26/1997,1/24/1998,12/29/1997,3,40.5,NULL,"Edelgard-Mangold-Weg 3
+82317 Forchheim",orchheim,3,"3
+82317 F",Germany
+812,HEINR,3,10/26/1997,1/10/1998,11/3/1997,1,85.4,NULL,"Fischerstr. 8/5
+88848 Werdau", Werdau,4,"8/5
+88848",Germany
+813,BUCHH,5,10/28/1997,1/1/1998,11/8/1997,2,32,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,3,"667
+17837",Germany
+814,Süß,7,10/29/1997,12/2/1997,11/9/1997,2,98,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,1,"389
+42769",Germany
+815,ZORBA,2,10/29/1997,12/26/1997,12/8/1997,2,41,NULL,"Kühnertring 8
+13040 Büsingenm Hochrhein",üsingenm Hochrhein,1,"8
+13040 B",Germany
+816,RöHR,5,10/29/1997,1/26/1998,11/5/1997,3,94.5,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",1,der Dussen,Germany
+817,VOGT ,9,10/29/1997,12/3/1997,11/7/1997,3,53.3,NULL,"Meisterstr. 109
+60837 Melle", Melle,1,"109
+60837",Germany
+818,LANGE,2,10/31/1997,12/22/1997,11/5/1997,3,32.6,NULL,"Rouven-Hornig-Straße 92
+83711 Gelnhausen",Gelnhausen,3,"92
+83711 ",Germany
+819,WEIME,7,10/31/1997,11/29/1997,11/10/1997,2,27.7,NULL,"Conradiring 5
+63971 Schrobenhausen",chrobenhausen,2,"5
+63971 S",Germany
+820,LIEBE,1,11/1/1997,11/23/1997,11/5/1997,1,74,NULL,"Edelgard-Mangold-Weg 3
+82317 Forchheim",orchheim,1,"3
+82317 F",Germany
+821,RäDE,3,11/1/1997,12/28/1997,12/9/1997,3,36.5,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,2,"448
+27008",Germany
+822,KUSCH,6,11/1/1997,1/8/1998,11/7/1997,3,75.1,NULL,"Abram-Carsten-Ring 900
+14101 Wiedenbrück", Wiedenbrück,1,"900
+14101",Germany
+823,DITSC,6,11/2/1997,12/12/1997,11/8/1997,1,80.8,NULL,"Rosemannstr. 714
+13031 Euskirchen", Euskirchen,3,"714
+13031",Germany
+824,WEIME,5,11/3/1997,1/3/1998,11/30/1997,2,87,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,4,"83
+89721 ",Germany
+825,GORLI,1,11/3/1997,12/1/1997,11/15/1997,1,92.7,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,1,"3/9
+51866",Germany
+826,SCHWI,7,11/3/1997,1/31/1998,11/3/1997,3,20.9,NULL,"Klaus-Michael-Adler-Ring 164
+96704 Jülich", Jülich,4,"164
+96704",Germany
+827,CUSTOMERID,7,11/3/1997,12/26/1997,11/30/1997,2,29.1,NULL,"Gertzstr. 43
+11032 Wesel",Wesel,1,"43
+11032 ",Germany
+828,HILLE,7,11/3/1997,11/22/1997,11/4/1997,1,61.2,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,4,"448
+24596",Germany
+829,SORGA,6,11/4/1997,12/28/1997,11/25/1997,2,26.9,NULL,"Wesackstr. 92
+78547 Perleberg",Perleberg,1,"92
+78547 ",Germany
+830,ALBER,1,11/4/1997,1/12/1998,11/17/1997,2,72.1,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,1,"0
+07712 E",Germany
+831,TRöS,3,11/4/1997,1/9/1998,12/14/1997,1,75,NULL,"Helga-Höfig-Allee 1/7
+83296 Ansbach", Ansbach,2,"1/7
+83296",Germany
+832,ZORBA,2,11/4/1997,1/18/1998,12/10/1997,2,80.3,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,4,"2/5
+05313",Germany
+833,KNAPP,3,11/5/1997,2/11/1998,1/25/1998,3,63.2,NULL,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim", Parchim,1,"0/7
+46697",Germany
+834,WEIME,4,11/5/1997,11/17/1997,11/6/1997,2,78.8,NULL,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen", Mühlhausen,1,"7/5
+89147",Germany
+835,CUSTOMERID,4,11/5/1997,12/16/1997,11/16/1997,3,63.8,NULL,"Rittergasse 62
+66128 Burgdorf",Burgdorf,3,"62
+66128 ",Germany
+836,MUDE ,2,11/5/1997,12/11/1997,11/15/1997,1,50.7,NULL,"Beckmannstr. 0/0
+13322 Neustrelitz", Neustrelitz,4,"0/0
+13322",Germany
+837,LIEBE,2,11/6/1997,12/18/1997,11/29/1997,2,34.2,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,2,"33
+13526 ",Germany
+838,HORNI,6,11/8/1997,1/16/1998,12/8/1997,1,28.3,NULL,"Anneke-Roskoth-Platz 146
+12653 Donaueschingen", Donaueschingen,4,"146
+12653",Germany
+839,WEIME,6,11/9/1997,1/8/1998,11/22/1997,3,73.3,NULL,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt", Helmstedt,3,"985
+05687",Germany
+840,THANE,1,11/9/1997,2/4/1998,1/4/1998,3,49.2,NULL,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim", Parchim,4,"0/7
+46697",Germany
+841,EHLER,6,11/10/1997,12/9/1997,11/25/1997,2,25.8,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,2,"389
+42769",Germany
+842,EHLER,8,11/10/1997,12/18/1997,11/14/1997,2,40.3,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,2,"07
+63135 ",Germany
+843,DRUBI,1,11/10/1997,12/22/1997,12/2/1997,3,32.4,NULL,"Schäfergasse 5/1
+84401 Teterow", Teterow,2,"5/1
+84401",Germany
+844,SCHIN,5,11/11/1997,2/1/1998,12/14/1997,3,44.9,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,2,"7/2
+58548",Germany
+845,SPEER,3,11/12/1997,2/14/1998,1/3/1998,2,50.4,NULL,"Heinz-Werner-Mans-Gasse 477
+55511 Sondershausen", Sondershausen,4,"477
+55511",Germany
+846,BOHNB,8,11/12/1997,12/4/1997,11/16/1997,3,8.4,NULL,"Beckmannstr. 0/0
+13322 Neustrelitz", Neustrelitz,1,"0/0
+13322",Germany
+847,RäDE,3,11/13/1997,12/14/1997,11/14/1997,2,75.4,NULL,"Sergej-Binner-Ring 81
+61826 Gütersloh",Gütersloh,4,"81
+61826 ",Germany
+848,FREUD,7,11/13/1997,12/29/1997,11/15/1997,2,46.9,NULL,"Mirella-Ring-Platz 78
+51455 Greifswald",Greifswald,2,"78
+51455 ",Germany
+849,GUMPR,8,11/13/1997,11/23/1997,11/13/1997,2,31.4,NULL,"Paffrathallee 554
+65535 Neustrelitz", Neustrelitz,3,"554
+65535",Germany
+850,KARZ ,1,11/14/1997,2/15/1998,12/6/1997,3,80.6,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,3,"3/6
+00456",Germany
+851,GUDE,2,11/15/1997,2/9/1998,12/17/1997,3,53.9,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,1,"448
+24596",Germany
+852,LANGE,2,11/15/1997,12/4/1997,11/15/1997,3,88.4,NULL,"Aleksandar-Löffler-Weg 9/5
+98587 Pegnitz", Pegnitz,2,"9/5
+98587",Germany
+853,MUDE ,2,11/16/1997,1/31/1998,12/30/1997,3,32.4,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",2,Jäckelweg,Germany
+854,HENTS,6,11/17/1997,1/26/1998,12/15/1997,2,17.6,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,4,"4/0
+25180",Germany
+855,JUNCK,1,11/17/1997,2/23/1998,1/26/1998,1,7.7,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,3,"90
+69119 ",Germany
+856,MöCH,1,11/19/1997,2/3/1998,11/21/1997,2,26.5,NULL,"Albersstraße 0
+53902 Tirschenreuth",irschenreuth,4,"0
+53902 T",Germany
+857,ULLMA,2,11/20/1997,1/3/1998,12/8/1997,3,7.4,NULL,"Milos-Linke-Platz 2/4
+92841 Riesa", Riesa,4,"2/4
+92841",Germany
+858,SCHAA,6,11/20/1997,12/25/1997,12/4/1997,2,62.9,NULL,"Fechnergasse 291
+96968 Gerolzhofen", Gerolzhofen,2,"291
+96968",Germany
+859,BAUER,9,11/21/1997,2/6/1998,1/10/1998,2,48,NULL,"Katja-Tlustek-Allee 828
+14312 Neustadtner Waldnaab", Neustadtner Waldnaab,3,"828
+14312",Germany
+860,BUCHH,9,11/21/1997,2/25/1998,1/9/1998,3,8,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,2,"2/5
+05313",Germany
+861,MUDE ,8,11/22/1997,2/5/1998,12/18/1997,3,6.9,NULL,"Gabriele-Rudolph-Platz 1/5
+50734 Artern", Artern,4,"1/5
+50734",Germany
+862,SCHWI,4,11/22/1997,1/11/1998,12/15/1997,3,32.5,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,1,"887
+17347",Germany
+863,FRANK,2,11/22/1997,12/10/1997,11/22/1997,3,76.8,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,2,"95
+61813 ",Germany
+864,RöHR,8,11/24/1997,2/17/1998,12/24/1997,3,30.7,NULL,"Almuth-Scholtz-Gasse 2/5
+53967 Schweinfurt", Schweinfurt,1,"2/5
+53967",Germany
+865,MARTI,6,11/24/1997,1/16/1998,12/23/1997,3,28,NULL,"Pavel-Weinhold-Allee 11
+70395 Pritzwalk",Pritzwalk,3,"11
+70395 ",Germany
+866,HüBE,9,11/24/1997,2/23/1998,2/11/1998,3,18.6,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,4,"507
+30349",Germany
+867,SCHMI,5,11/26/1997,12/7/1997,11/26/1997,3,15.3,NULL,"Svenja-Ernst-Platz 684
+42681 Ingolstadt", Ingolstadt,4,"684
+42681",Germany
+868,JOPIC,1,11/27/1997,2/11/1998,1/5/1998,3,18.6,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,1,"466
+50840",Germany
+869,SCHLE,7,11/27/1997,1/29/1998,1/5/1998,2,43.8,NULL,"Winklerring 4/5
+87966 Artern", Artern,2,"4/5
+87966",Germany
+870,GORLI,6,11/28/1997,12/25/1997,12/4/1997,1,21.5,NULL,"Ruppersbergerstr. 8/5
+60931 Säckingen", Säckingen,3,"8/5
+60931",Germany
+871,TEXTO,6,11/29/1997,2/28/1998,1/8/1998,3,50.4,NULL,"Goran-Faust-Straße 5/2
+91453 Kemnath", Kemnath,4,"5/2
+91453",Germany
+872,ALBER,1,11/30/1997,3/3/1998,12/22/1997,1,46.4,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,3,"1/7
+72386",Germany
+873,HEINR,2,11/30/1997,3/3/1998,2/10/1998,1,73.5,NULL,"Marika-Gierschner-Allee 5/5
+46821 Ebern", Ebern,1,"5/5
+46821",Germany
+874,WEITZ,8,12/2/1997,3/7/1998,1/2/1998,2,42.7,NULL,"Christian-Ditschlerin-Platz 9/0
+34869 Stendal", Stendal,2,"9/0
+34869",Germany
+875,DRUBI,4,12/2/1997,3/4/1998,1/5/1998,2,57.2,NULL,"Naserweg 7
+94226 Lobenstein",obenstein,3,"7
+94226 L",Germany
+876,EBERH,6,12/3/1997,3/8/1998,12/3/1997,1,68.7,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,2,"58
+01930 ",Germany
+877,HEINR,5,12/3/1997,1/14/1998,12/26/1997,1,88.9,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",4,"van-Weg 5",Germany
+878,BENDE,6,12/3/1997,3/6/1998,1/7/1998,3,45.6,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,3,"5/7
+36390",Germany
+879,JACOB,9,12/3/1997,3/8/1998,1/11/1998,2,39.5,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,2,"74
+69440 ",Germany
+880,SCHLE,1,12/4/1997,1/25/1998,1/5/1998,3,22.6,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,2,"98
+06736 ",Germany
+881,SPEER,9,12/4/1997,12/16/1997,12/6/1997,1,86.7,NULL,"Mühleweg 7
+98012 Saarlouis",aarlouis,4,"7
+98012 S",Germany
+882,CARST,6,12/5/1997,2/1/1998,12/5/1997,2,96.4,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,1,"6
+94712 E",Germany
+883,HöRL,8,12/6/1997,2/28/1998,12/9/1997,3,41.4,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,2,"448
+27008",Germany
+884,SCHWI,2,12/8/1997,1/30/1998,1/14/1998,3,9.4,NULL,"Naserplatz 8
+87454 Freudenstadt",reudenstadt,3,"8
+87454 F",Germany
+885,HEINR,4,12/9/1997,3/7/1998,1/25/1998,3,70,NULL,"Adlergasse 24
+93839 Viersen",Viersen,2,"24
+93839 ",Germany
+886,BUTTE,1,12/9/1997,3/8/1998,1/5/1998,1,89.6,NULL,"Arnfried-Stoll-Straße 3/9
+91162 Coburg", Coburg,4,"3/9
+91162",Germany
+887,KUHL ,5,12/10/1997,12/24/1997,12/10/1997,1,16.5,NULL,"Zobelgasse 1/4
+10867 Regensburg", Regensburg,2,"1/4
+10867",Germany
+888,WEIME,9,12/10/1997,1/21/1998,12/13/1997,3,69.4,NULL,"Kochstraße 0
+97773 Neunburg vorm Wald",eunburg vorm Wald,4,"0
+97773 N",Germany
+889,HILLE,1,12/11/1997,2/8/1998,12/27/1997,1,4.8,NULL,"Andreas-Nette-Platz 935
+73001 Eilenburg", Eilenburg,1,"935
+73001",Germany
+890,TRöS,1,12/11/1997,3/17/1998,1/27/1998,2,88.5,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,4,"17
+90326 ",Germany
+891,HARTM,2,12/13/1997,1/21/1998,12/17/1997,1,33.4,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,1,"27
+43327 ",Germany
+892,MANS ,1,12/14/1997,3/8/1998,1/31/1998,2,68.3,NULL,"Haufferring 20
+08497 Freising",Freising,1,"20
+08497 ",Germany
+893,HOLZA,9,12/14/1997,12/25/1997,12/14/1997,2,19.1,NULL,"Winklerring 4/5
+87966 Artern", Artern,2,"4/5
+87966",Germany
+894,TRöS,3,12/14/1997,1/21/1998,1/3/1998,2,21.6,NULL,"Gertrude-Kramer-Weg 9/8
+25685 Mallersdorf", Mallersdorf,3,"9/8
+25685",Germany
+895,HöRL,8,12/14/1997,1/4/1998,12/23/1997,1,94.6,NULL,"Kösterweg 15
+75990 Lichtenfels",Lichtenfels,4,"15
+75990 ",Germany
+896,BäHR,2,12/14/1997,1/3/1998,12/18/1997,2,96.1,NULL,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich", Grevenbroich,2,"1/2
+50385",Germany
+897,GUMPR,9,12/15/1997,2/5/1998,12/23/1997,3,91.3,NULL,"Bachmannring 8
+98747 Flöha",löha,2,"8
+98747 F",Germany
+898,SCHOM,6,12/15/1997,3/19/1998,12/27/1997,1,20.2,NULL,"Jessica-Geisel-Ring 2
+51517 Sankt Goarshausen",ankt Goarshausen,1,"2
+51517 S",Germany
+899,WESAC,7,12/16/1997,1/20/1998,12/27/1997,3,32.5,NULL,"Birnbaumallee 99
+75377 Uelzen",Uelzen,1,"99
+75377 ",Germany
+900,KARZ ,4,12/17/1997,3/22/1998,2/4/1998,3,93.1,NULL,"Holtallee 58
+01930 Hainichen",Hainichen,2,"58
+01930 ",Germany
+901,LADEC,4,12/19/1997,3/25/1998,12/22/1997,1,34.7,NULL,"Krauseallee 5
+92745 Nürtingen",ürtingen,2,"5
+92745 N",Germany
+902,MENTZ,3,12/20/1997,2/23/1998,12/23/1997,2,84.3,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,1,"864
+55722",Germany
+903,STOLL,3,12/20/1997,2/25/1998,2/11/1998,2,7.9,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,2,"5
+66982 D",Germany
+904,FREUD,3,12/21/1997,1/29/1998,1/19/1998,2,15.3,NULL,"Aziz-Werner-Straße 717
+55386 Tecklenburg", Tecklenburg,3,"717
+55386",Germany
+905,CASPA,1,12/22/1997,1/19/1998,1/1/1998,2,93,NULL,"Schachtstraße 9
+03341 Strasburg",trasburg,4,"9
+03341 S",Germany
+906,GORLI,3,12/22/1997,1/13/1998,12/22/1997,1,82.9,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,3,"9/7
+45448",Germany
+907,STOLL,1,12/24/1997,3/30/1998,1/14/1998,3,80.1,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,3,"1/7
+72386",Germany
+908,SCHOL,3,12/24/1997,1/17/1998,12/26/1997,3,57.4,NULL,"Gunhild-Budig-Weg 5
+78211 Reutlingen",eutlingen,1,"5
+78211 R",Germany
+909,LANGE,8,12/25/1997,2/25/1998,1/28/1998,3,63.1,NULL,"Klaus-Michael-Adler-Ring 164
+96704 Jülich", Jülich,2,"164
+96704",Germany
+910,KITZM,2,12/25/1997,3/12/1998,2/12/1998,2,88.8,NULL,"Irena-Ullrich-Gasse 0/8
+66340 Wittstock", Wittstock,4,"0/8
+66340",Germany
+911,HEIN,6,12/25/1997,2/3/1998,12/31/1997,1,37.5,NULL,"Francesco-Roskoth-Straße 1/7
+72386 Quedlinburg", Quedlinburg,3,"1/7
+72386",Germany
+912,OTTO,8,12/26/1997,3/22/1998,2/25/1998,2,25.2,NULL,"Kobeltweg 78
+17987 Plauen",Plauen,1,"78
+17987 ",Germany
+913,ZORBA,8,12/28/1997,2/20/1998,1/9/1998,3,11.9,NULL,"Blochallee 3/4
+79432 Stuttgart", Stuttgart,2,"3/4
+79432",Germany
+914,SCHLE,4,12/29/1997,3/30/1998,1/10/1998,1,70.9,NULL,"Nikolaj-Klapp-Allee 3
+62320 Sigmaringen",igmaringen,3,"3
+62320 S",Germany
+915,HöVE,3,12/29/1997,1/16/1998,12/30/1997,3,85.8,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,1,"45
+89867 ",Germany
+916,SCHö,6,12/29/1997,2/17/1998,1/24/1998,1,17.8,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,1,"2
+82214 C",Germany
+917,ULLMA,8,12/30/1997,1/10/1998,12/30/1997,3,58.7,NULL,"Haeringring 877
+50050 Artern", Artern,4,"877
+50050",Germany
+918,HILLE,1,12/31/1997,3/25/1998,1/26/1998,3,36.9,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,2,"5/5
+11295",Germany
+919,RUPPE,7,12/31/1997,2/14/1998,1/21/1998,3,57.2,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,2,"9/7
+45448",Germany
+920,SCHö,2,12/31/1997,2/26/1998,1/15/1998,3,74.6,NULL,"Müllerstraße 2/0
+59379 Genthin", Genthin,2,"2/0
+59379",Germany
+921,BäHR,2,12/31/1997,3/22/1998,3/5/1998,1,41.1,NULL,"Gloria-Rudolph-Weg 4
+45515 Illertissen",llertissen,1,"4
+45515 I",Germany
+922,HENSC,8,1/1/1998,3/3/1998,1/8/1998,3,80.4,NULL,"Antonia-Döring-Gasse 7
+64973 Monschau",onschau,4,"7
+64973 M",Germany
+923,HEIN ,3,1/2/1998,1/30/1998,1/15/1998,2,86.3,NULL,"Salzstraße 9
+87357 Wurzen",urzen,4,"9
+87357 W",Germany
+924,VOGT ,7,1/3/1998,2/27/1998,2/1/1998,1,46.9,NULL,"Corinne-Lachmann-Ring 341
+45096 Fallingbostel", Fallingbostel,3,"341
+45096",Germany
+925,STRIE,1,1/3/1998,2/5/1998,1/13/1998,1,97.2,NULL,"Nikolas-Hövel-Platz 0/1
+00234 Fallingbostel", Fallingbostel,3,"0/1
+00234",Germany
+926,BAUM,1,1/3/1998,2/12/1998,1/14/1998,1,33.3,NULL,"Valerij-Heinrich-Platz 1
+32225 Melsungen",elsungen,2,"1
+32225 M",Germany
+927,RENNE,4,1/4/1998,2/21/1998,1/26/1998,3,28,NULL,"Sylke-Siering-Gasse 4
+75121 Berlin",erlin,3,"4
+75121 B",Germany
+928,STUMP,9,1/5/1998,1/18/1998,1/8/1998,2,5.2,NULL,"Eberhardtweg 255
+04038 Reutlingen", Reutlingen,4,"255
+04038",Germany
+929,SCHWI,9,1/5/1998,2/2/1998,1/8/1998,2,27.3,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,3,"74
+69440 ",Germany
+930,GEHRI,9,1/7/1998,2/15/1998,1/12/1998,2,4.1,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",2,der Dussen,Germany
+931,FLIEG,6,1/8/1998,3/8/1998,2/6/1998,2,84.3,NULL,"Leonie-Klemt-Gasse 1
+13420 Rottweil",ottweil,1,"1
+13420 R",Germany
+932,DIETZ,8,1/9/1998,2/16/1998,1/24/1998,2,42.2,NULL,"Wagnerstr. 0/7
+96937 Altentreptow", Altentreptow,4,"0/7
+96937",Germany
+933,KöST,7,1/9/1998,4/4/1998,3/11/1998,1,18.4,NULL,"Corinne-Lachmann-Ring 341
+45096 Fallingbostel", Fallingbostel,1,"341
+45096",Germany
+934,JUNCK,9,1/12/1998,3/3/1998,1/28/1998,2,91.9,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,4,"0
+07712 E",Germany
+935,KARZ ,3,1/12/1998,2/11/1998,1/16/1998,2,35.6,NULL,"Nikolaj-Klapp-Allee 3
+62320 Sigmaringen",igmaringen,4,"3
+62320 S",Germany
+936,SCHAA,6,1/12/1998,3/27/1998,3/8/1998,2,96.1,NULL,"Aziz-Werner-Straße 717
+55386 Tecklenburg", Tecklenburg,2,"717
+55386",Germany
+937,SCHOM,8,1/12/1998,1/28/1998,1/16/1998,1,93.6,NULL,"Schinkegasse 10
+01722 Göppingen",Göppingen,4,"10
+01722 ",Germany
+938,ZORBA,9,1/14/1998,4/14/1998,3/21/1998,2,51.5,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,4,"885
+14501",Germany
+939,PRUSC,1,1/14/1998,3/21/1998,2/18/1998,1,24,NULL,"Zobelgasse 1/4
+10867 Regensburg", Regensburg,3,"1/4
+10867",Germany
+940,RUPPE,1,1/16/1998,2/24/1998,1/20/1998,3,64.6,NULL,"Barkholzallee 609
+96700 Neustadtner Waldnaab", Neustadtner Waldnaab,4,"609
+96700",Germany
+941,RäDE,1,1/17/1998,1/31/1998,1/18/1998,2,83.3,NULL,"Ruppersbergerstr. 8/5
+60931 Säckingen", Säckingen,3,"8/5
+60931",Germany
+942,SCHü,7,1/18/1998,3/15/1998,3/1/1998,1,62.3,NULL,"Mathilde-Junitz-Ring 5/2
+62020 Luckenwalde", Luckenwalde,4,"5/2
+62020",Germany
+943,STUMP,7,1/18/1998,3/11/1998,2/28/1998,2,64.4,NULL,"Adlergasse 24
+93839 Viersen",Viersen,2,"24
+93839 ",Germany
+944,BäHR,4,1/20/1998,4/9/1998,1/31/1998,2,70.2,NULL,"Almuth-Scholtz-Gasse 2/5
+53967 Schweinfurt", Schweinfurt,3,"2/5
+53967",Germany
+945,KOCH ,1,1/21/1998,2/3/1998,1/23/1998,3,31.8,NULL,"Wigbert-Kramer-Platz 95
+61813 Wertingen",Wertingen,2,"95
+61813 ",Germany
+946,ERNST,8,1/21/1998,3/17/1998,1/21/1998,2,70,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,1,"2/5
+05313",Germany
+947,HEß ,4,1/22/1998,4/9/1998,3/7/1998,2,97.9,NULL,"Goran-Faust-Straße 5/2
+91453 Kemnath", Kemnath,1,"5/2
+91453",Germany
+948,NIEME,1,1/22/1998,4/24/1998,2/8/1998,3,18.4,NULL,"Meisterstr. 109
+60837 Melle", Melle,4,"109
+60837",Germany
+949,HARTU,1,1/22/1998,4/2/1998,3/13/1998,1,9,NULL,"Denise-Buchholz-Allee 289
+00011 Sternberg", Sternberg,1,"289
+00011",Germany
+950,WEIß,5,1/22/1998,3/13/1998,2/27/1998,3,27.5,NULL,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen", Schwabmünchen,3,"083
+91273",Germany
+951,EBERH,5,1/23/1998,4/16/1998,3/6/1998,2,36.8,NULL,"Rittergasse 62
+66128 Burgdorf",Burgdorf,4,"62
+66128 ",Germany
+952,ZIRME,6,1/25/1998,3/15/1998,3/1/1998,1,54.1,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,4,"4/0
+25180",Germany
+953,LIEBE,5,1/26/1998,4/28/1998,3/30/1998,2,49.6,NULL,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen", Wurzen,1,"6/0
+63062",Germany
+954,HARTM,7,1/28/1998,3/8/1998,2/4/1998,3,54.5,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",1,der Dussen,Germany
+955,GORLI,7,1/30/1998,3/4/1998,2/8/1998,3,46.3,NULL,"Hölzenbecherring 4
+11530 Dinslaken",inslaken,2,"4
+11530 D",Germany
+956,MITSC,1,1/31/1998,4/29/1998,3/31/1998,1,62.8,NULL,"Anneke-Roskoth-Platz 146
+12653 Donaueschingen", Donaueschingen,3,"146
+12653",Germany
+957,TRöS,3,1/31/1998,3/19/1998,2/10/1998,3,24.9,NULL,"Janus-Paffrath-Weg 731
+80849 Fallingbostel", Fallingbostel,2,"731
+80849",Germany
+958,KENSY,2,2/1/1998,2/17/1998,2/4/1998,1,39.6,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,4,"5
+66982 D",Germany
+959,TEXTO,7,2/2/1998,2/15/1998,2/2/1998,1,18.2,NULL,"Gorlitzplatz 8
+85319 Tecklenburg",ecklenburg,2,"8
+85319 T",Germany
+960,STUMP,1,2/3/1998,3/25/1998,3/3/1998,1,95.8,NULL,"Holstenweg 374
+13267 Aschaffenburg", Aschaffenburg,3,"374
+13267",Germany
+961,WEIß,2,2/3/1998,4/15/1998,3/8/1998,2,27.5,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+962,LANGE,8,2/4/1998,4/5/1998,2/19/1998,1,62,NULL,"Gunhild-Budig-Weg 5
+78211 Reutlingen",eutlingen,3,"5
+78211 R",Germany
+963,BEYER,7,2/4/1998,4/27/1998,4/5/1998,3,44.8,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,2,"3/9
+51866",Germany
+964,ROHT,4,2/4/1998,5/8/1998,2/15/1998,2,35.3,NULL,"Carmine-Ortmann-Weg 2/5
+05313 Gunzenhausen", Gunzenhausen,3,"2/5
+05313",Germany
+965,LüBS,2,2/5/1998,2/22/1998,2/10/1998,3,47.3,NULL,"Bruderplatz 118
+88604 Jessen", Jessen,3,"118
+88604",Germany
+966,WEIHM,3,2/6/1998,4/11/1998,3/14/1998,1,78.7,NULL,"Klemtring 93
+11440 Ribnitz-Damgarten",Ribnitz-Damgarten,3,"93
+11440 ",Germany
+967,HENCK,2,2/8/1998,5/1/1998,2/17/1998,1,99.8,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,1,"24
+45998 ",Germany
+968,BECKE,4,2/8/1998,3/6/1998,2/21/1998,2,56.7,NULL,address,#VALUE!,1,#VALUE!,Germany
+969,SCHAA,4,2/8/1998,2/25/1998,2/10/1998,3,96.2,NULL,"Dippelring 770
+70198 Hohenstein-Ernstthal", Hohenstein-Ernstthal,4,"770
+70198",Germany
+970,TRUB ,6,2/10/1998,5/13/1998,3/31/1998,1,96,NULL,"Gottlieb-Gierschner-Straße 937
+53773 Querfurt", Querfurt,1,"937
+53773",Germany
+971,GORLI,7,2/11/1998,5/20/1998,5/10/1998,2,8.6,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,1,"389
+42769",Germany
+972,HENCK,7,2/12/1998,4/29/1998,3/10/1998,3,22.4,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,3,"887
+17347",Germany
+973,SCHü,3,2/13/1998,3/4/1998,2/21/1998,1,7.5,NULL,"Traudl-Drub-Gasse 7
+03935 Bergzabern",ergzabern,3,"7
+03935 B",Germany
+974,KRUSC,7,2/14/1998,3/24/1998,2/28/1998,1,84.3,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,3,"6
+94712 E",Germany
+975,KUSCH,5,2/16/1998,4/10/1998,3/18/1998,3,29.3,NULL,"Heinz-Werner-Mans-Gasse 477
+55511 Sondershausen", Sondershausen,1,"477
+55511",Germany
+976,ODERW,9,2/16/1998,4/9/1998,3/25/1998,3,18.4,NULL,"Blümelgasse 9
+50750 Roth",oth,2,"9
+50750 R",Germany
+977,HEUSE,2,2/16/1998,4/4/1998,3/17/1998,2,60,NULL,"Blümelgasse 9
+50750 Roth",oth,1,"9
+50750 R",Germany
+978,DITSC,7,2/17/1998,5/8/1998,2/18/1998,2,86.4,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,2,"5
+55309 P",Germany
+979,GRöT,7,2/17/1998,4/23/1998,3/15/1998,3,3.8,NULL,"Justina-Dussen van-Weg 5
+63701 Stendal","
+63701 Stendal",1,"van-Weg 5",Germany
+980,SCHOL,3,2/18/1998,4/11/1998,3/11/1998,1,55,NULL,"Denise-Buchholz-Allee 289
+00011 Sternberg", Sternberg,2,"289
+00011",Germany
+981,MEIST,3,2/18/1998,2/28/1998,2/18/1998,1,94.2,NULL,"Udo-Eckbauer-Platz 885
+14501 Fulda", Fulda,4,"885
+14501",Germany
+982,SCHAA,9,2/18/1998,4/10/1998,3/15/1998,2,64.8,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,3,"4/4
+43815",Germany
+983,WULF ,7,2/19/1998,5/18/1998,4/7/1998,3,24.6,NULL,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,1,"95
+92216 ",Germany
+984,STOLL,6,2/20/1998,4/15/1998,2/25/1998,1,5.9,NULL,"Günter-Werner-Gasse 4/3
+65722 Ebersberg", Ebersberg,2,"4/3
+65722",Germany
+985,GUMPR,9,2/21/1998,4/10/1998,2/28/1998,3,17.5,NULL,"Svenja-Ernst-Platz 684
+42681 Ingolstadt", Ingolstadt,2,"684
+42681",Germany
+986,JACOB,7,2/23/1998,4/18/1998,3/17/1998,2,65.2,NULL,"Römerring 252
+95191 Griesbach Rottal", Griesbach Rottal,2,"252
+95191",Germany
+987,DRUBI,5,2/23/1998,5/26/1998,4/15/1998,1,67.3,NULL,"Schinkegasse 10
+01722 Göppingen",Göppingen,4,"10
+01722 ",Germany
+988,SCHö,1,2/24/1998,4/22/1998,2/26/1998,1,8.4,NULL,"Eimergasse 3
+97795 Stuttgart",tuttgart,2,"3
+97795 S",Germany
+989,SCHWI,7,2/24/1998,5/12/1998,3/9/1998,3,24,NULL,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich", Grevenbroich,4,"1/2
+50385",Germany
+990,OTTO,9,2/24/1998,3/24/1998,3/1/1998,1,69.5,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,2,"864
+55722",Germany
+991,HüBE,9,2/25/1998,3/13/1998,2/27/1998,1,93.6,NULL,"Yvette-Beier-Ring 9
+37070 Halberstadt",alberstadt,2,"9
+37070 H",Germany
+992,REINH,2,2/25/1998,5/17/1998,3/5/1998,2,40.9,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,4,"182
+44826",Germany
+993,ALBER,4,2/25/1998,4/27/1998,3/5/1998,2,60.2,NULL,"Gorlitzplatz 8
+85319 Tecklenburg",ecklenburg,4,"8
+85319 T",Germany
+994,STOLL,2,2/25/1998,5/26/1998,4/17/1998,1,39.5,NULL,"Blümelgasse 9
+50750 Roth",oth,3,"9
+50750 R",Germany
+995,HEIN ,8,2/25/1998,5/12/1998,4/20/1998,1,14.1,NULL,"Ingetraut-Bien-Ring 03
+07828 Paderborn",Paderborn,3,"03
+07828 ",Germany
+996,RUPPE,3,2/26/1998,5/28/1998,3/16/1998,2,44.3,NULL,"Schmidtweg 2
+46261 Freital",reital,3,"2
+46261 F",Germany
+997,KAMBS,1,2/26/1998,4/17/1998,3/1/1998,3,36.3,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,4,"83
+89721 ",Germany
+998,SCHOL,8,2/27/1998,3/27/1998,3/14/1998,2,65.1,NULL,"Bolnbachstraße 465
+77777 Ilmenau", Ilmenau,3,"465
+77777",Germany
+999,HERIN,8,2/27/1998,3/22/1998,3/8/1998,1,83.7,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,1,"864
+55722",Germany
+1000,HERTR,9,2/28/1998,4/12/1998,3/9/1998,1,32.9,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,3,"98
+06736 ",Germany
+1001,SCHö,5,3/1/1998,4/9/1998,3/16/1998,2,93.2,NULL,"Sinaida-Hübel-Straße 5/5
+93350 Delitzsch", Delitzsch,1,"5/5
+93350",Germany
+1002,WESAC,9,3/1/1998,5/15/1998,4/7/1998,2,70,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,1,"726
+07541",Germany
+1003,RITTE,1,3/1/1998,5/6/1998,4/12/1998,2,57.4,NULL,"Gerhard-Hellwig-Ring 985
+05687 Helmstedt", Helmstedt,1,"985
+05687",Germany
+1004,FECHN,9,3/2/1998,4/11/1998,3/17/1998,3,48.5,NULL,"Simon-Rädel-Allee 389
+42769 Vechta", Vechta,1,"389
+42769",Germany
+1005,LANGE,4,3/2/1998,5/7/1998,3/30/1998,2,87.8,NULL,"Holstenweg 374
+13267 Aschaffenburg", Aschaffenburg,1,"374
+13267",Germany
+1006,KRAUS,2,3/4/1998,4/20/1998,3/16/1998,1,19.1,NULL,"Haeringring 877
+50050 Artern", Artern,1,"877
+50050",Germany
+1007,KUHL ,7,3/5/1998,4/27/1998,3/30/1998,2,91.7,NULL,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,1,"19
+51097 ",Germany
+1008,HEINR,6,3/5/1998,5/19/1998,5/3/1998,2,66.4,NULL,"Ignatz-Bolnbach-Gasse 8/4
+58425 Ravensburg", Ravensburg,2,"8/4
+58425",Germany
+1009,SCHWE,1,3/5/1998,5/10/1998,4/20/1998,1,49.7,NULL,"Inna-Vollbrecht-Allee 6/0
+63062 Wurzen", Wurzen,2,"6/0
+63062",Germany
+1010,METZ,8,3/5/1998,3/26/1998,3/13/1998,2,50.7,NULL,"Heinz-Gerd-Sölzer-Gasse 23
+45361 Witzenhausen",Witzenhausen,1,"23
+45361 ",Germany
+1011,JäNT,3,3/6/1998,5/10/1998,4/27/1998,1,91.1,NULL,"Klemtring 93
+11440 Ribnitz-Damgarten",Ribnitz-Damgarten,2,"93
+11440 ",Germany
+1012,JOPIC,1,3/7/1998,6/10/1998,4/3/1998,1,47.2,NULL,"Domenico-Junk-Allee 534
+56453 Werdau", Werdau,4,"534
+56453",Germany
+1013,EBERH,9,3/9/1998,3/25/1998,3/14/1998,3,76.2,NULL,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw", Calw,3,"9/3
+45614",Germany
+1014,WEIME,4,3/9/1998,3/19/1998,3/9/1998,1,13.9,NULL,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen", Mühlhausen,3,"7/5
+89147",Germany
+1015,HäRI,2,3/11/1998,6/15/1998,3/23/1998,2,93.8,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,3,"448
+27008",Germany
+1016,HARLO,2,3/11/1998,5/22/1998,4/22/1998,1,76.2,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,4,"448
+24596",Germany
+1017,BIRNB,5,3/13/1998,6/19/1998,5/8/1998,1,29.8,NULL,"Kitzmannring 17
+90326 Dieburg",Dieburg,3,"17
+90326 ",Germany
+1018,PUTZ ,8,3/14/1998,6/17/1998,4/24/1998,3,96.4,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,2,"466
+50840",Germany
+1019,HENSC,1,3/15/1998,5/28/1998,3/22/1998,2,59.2,NULL,"Nelly-Warmer-Gasse 507
+03770 Wesel", Wesel,3,"507
+03770",Germany
+1020,HEIDR,1,3/16/1998,4/3/1998,3/19/1998,2,78.9,NULL,"Jacobplatz 572
+50043 Havelberg", Havelberg,3,"572
+50043",Germany
+1021,KAMBS,6,3/16/1998,5/19/1998,4/8/1998,1,16.1,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,1,"07
+63135 ",Germany
+1022,BUTTE,5,3/18/1998,5/7/1998,4/21/1998,2,58.8,NULL,"Maria-Luise-Scheel-Allee 1/2
+50385 Grevenbroich", Grevenbroich,1,"1/2
+50385",Germany
+1023,GERTZ,4,3/19/1998,5/31/1998,5/6/1998,3,57.1,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,2,"011
+96562",Germany
+1024,RäDE,3,3/20/1998,4/13/1998,3/30/1998,2,13.2,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,3,"6
+94712 E",Germany
+1025,HEINR,4,3/21/1998,4/28/1998,3/24/1998,3,12.1,NULL,"Gierschnerallee 9/7
+45448 Pegnitz", Pegnitz,2,"9/7
+45448",Germany
+1026,GUMPR,8,3/21/1998,4/24/1998,4/14/1998,3,4.2,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,4,"0
+07712 E",Germany
+1027,FREUD,5,3/21/1998,6/27/1998,6/13/1998,2,28.1,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,2,"667
+17837",Germany
+1028,BEER,4,3/22/1998,6/1/1998,4/7/1998,2,34.7,NULL,"Andreas-Nette-Platz 935
+73001 Eilenburg", Eilenburg,3,"935
+73001",Germany
+1029,RäDE,1,3/25/1998,7/1/1998,5/16/1998,1,27.9,NULL,"Mülichenstraße 995
+87953 Wolfenbüttel", Wolfenbüttel,2,"995
+87953",Germany
+1030,MANS ,5,3/25/1998,7/1/1998,4/15/1998,2,88.8,NULL,"Drubstr. 07
+48645 Bitterfeld",Bitterfeld,1,"07
+48645 ",Germany
+1031,EHLER,6,3/25/1998,4/7/1998,3/28/1998,3,34.8,NULL,"Barkholzallee 609
+96700 Neustadtner Waldnaab", Neustadtner Waldnaab,3,"609
+96700",Germany
+1032,HILLE,4,3/25/1998,6/30/1998,4/1/1998,3,52.1,NULL,"Rolf-Rosemann-Platz 8/7
+48762 Parchim", Parchim,4,"8/7
+48762",Germany
+1033,ROSEM,9,3/25/1998,5/26/1998,4/30/1998,1,2.8,NULL,"Salzplatz 507
+30349 Fürstenfeldbruck", Fürstenfeldbruck,4,"507
+30349",Germany
+1034,MöCH,2,3/25/1998,4/24/1998,3/26/1998,2,66.7,NULL,"Jan-Peter-Dietz-Allee 36
+65835 Sömmerda",Sömmerda,3,"36
+65835 ",Germany
+1035,JUNCK,3,3/26/1998,4/17/1998,3/27/1998,3,85.4,NULL,"Ilona-Walter-Straße 592
+83192 Cuxhaven", Cuxhaven,1,"592
+83192",Germany
+1036,SCHWI,7,3/27/1998,4/27/1998,4/7/1998,1,57.8,NULL,"Haeringring 877
+50050 Artern", Artern,1,"877
+50050",Germany
+1037,HERTR,5,3/27/1998,4/13/1998,3/28/1998,2,46.6,NULL,"Silvana-Wagenknecht-Straße 2
+92679 Stade",tade,2,"2
+92679 S",Germany
+1038,HEIN,5,3/27/1998,4/13/1998,3/29/1998,2,89.8,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,4,"9
+68897 M",Germany
+1039,HARTU,2,3/28/1998,5/13/1998,4/10/1998,2,7.5,NULL,"Schombergasse 6/0
+60594 Kelheim", Kelheim,1,"6/0
+60594",Germany
+1040,SCHWI,8,3/28/1998,5/25/1998,4/18/1998,1,38,NULL,"Hoffmannstraße 67
+65972 Säckingen",Säckingen,2,"67
+65972 ",Germany
+1041,STUMP,2,3/30/1998,4/15/1998,4/5/1998,1,24.4,NULL,"Blümelgasse 9
+50750 Roth",oth,4,"9
+50750 R",Germany
+1042,DöRS,5,3/30/1998,5/16/1998,4/1/1998,3,91.8,NULL,"Hörlegasse 1
+37491 Oberviechtach",berviechtach,3,"1
+37491 O",Germany
+1043,HENSC,4,3/30/1998,4/14/1998,4/1/1998,3,44.7,NULL,"Ernstplatz 453
+17042 Erkelenz", Erkelenz,3,"453
+17042",Germany
+1044,ROSEM,3,3/30/1998,6/3/1998,5/24/1998,1,33.3,NULL,"Dan-Weinhold-Straße 887
+17347 Mellrichstadt", Mellrichstadt,4,"887
+17347",Germany
+1045,BUTTE,5,3/30/1998,5/16/1998,4/20/1998,3,17.9,NULL,"Haufferring 20
+08497 Freising",Freising,3,"20
+08497 ",Germany
+1046,LADEC,4,3/31/1998,4/21/1998,4/7/1998,2,7.5,NULL,"Kochstraße 0
+97773 Neunburg vorm Wald",eunburg vorm Wald,2,"0
+97773 N",Germany
+1047,BEER,2,3/31/1998,6/12/1998,3/31/1998,2,14.7,NULL,"Gotthardallee 5/5
+45130 Hohenmölsen", Hohenmölsen,3,"5/5
+45130",Germany
+1048,KOCH ,1,4/1/1998,7/10/1998,4/7/1998,2,50.3,NULL,"Agnieszka-Geißler-Allee 083
+91273 Schwabmünchen", Schwabmünchen,2,"083
+91273",Germany
+1049,MöCH,1,4/1/1998,6/4/1998,4/3/1998,3,25.7,NULL,"Röhrdanzstraße 5
+55309 Pasewalk",asewalk,4,"5
+55309 P",Germany
+1050,FISCH,9,4/1/1998,6/14/1998,5/12/1998,2,1.9,NULL,"Bohlanderstr. 8
+62701 Backnang",acknang,1,"8
+62701 B",Germany
+1051,SCHü,1,4/1/1998,6/9/1998,4/29/1998,3,4.2,NULL,"Herrmann-Sontag-Platz 8
+06608 Apolda",polda,2,"8
+06608 A",Germany
+1052,SCHOL,4,4/1/1998,4/23/1998,4/7/1998,2,25.5,NULL,"Gottlieb-Gierschner-Straße 937
+53773 Querfurt", Querfurt,4,"937
+53773",Germany
+1053,BENDE,1,4/1/1998,6/7/1998,4/22/1998,2,95.1,NULL,"Kreuselgasse 9
+68897 Merseburg",erseburg,3,"9
+68897 M",Germany
+1054,ZAHN ,3,4/2/1998,5/25/1998,4/19/1998,2,59.1,NULL,"Tillmann-Pölitz-Straße 0/7
+46697 Parchim", Parchim,4,"0/7
+46697",Germany
+1055,KITZM,3,4/3/1998,6/27/1998,6/16/1998,3,70.4,NULL,"Necati-Christoph-Gasse 826
+34790 Seelow", Seelow,4,"826
+34790",Germany
+1056,LORCH,8,4/3/1998,6/21/1998,4/7/1998,1,17.4,NULL,"Winklerplatz 3/9
+51866 Aschaffenburg", Aschaffenburg,4,"3/9
+51866",Germany
+1057,GRöT,9,4/4/1998,5/6/1998,4/5/1998,3,97.7,NULL,"Heinstraße 2/0
+46941 Worbis", Worbis,2,"2/0
+46941",Germany
+1058,SCHOL,7,4/5/1998,4/24/1998,4/9/1998,1,7.8,NULL,"Zobelstraße 578
+16565 Säckingen", Säckingen,2,"578
+16565",Germany
+1059,ZIRME,4,4/5/1998,5/28/1998,5/16/1998,1,69.7,NULL,"Slobodan-Mühle-Allee 613
+69369 Cloppenburg", Cloppenburg,2,"613
+69369",Germany
+1060,LöWE,7,4/6/1998,5/30/1998,4/14/1998,2,29.1,NULL,"Christophallee 1/7
+56027 Cloppenburg", Cloppenburg,1,"1/7
+56027",Germany
+1061,STRIE,6,4/6/1998,5/8/1998,4/26/1998,2,63.1,NULL,"Giuseppe-Scheuermann-Platz 960
+40190 Stadtsteinach", Stadtsteinach,3,"960
+40190",Germany
+1062,SCHWE,6,4/6/1998,5/18/1998,4/17/1998,1,12.4,NULL,"Karen-Kreusel-Gasse 011
+96562 Viersen", Viersen,1,"011
+96562",Germany
+1063,LIEBE,6,4/8/1998,7/15/1998,4/24/1998,2,32.8,NULL,"Strohweg 672
+03176 Torgau", Torgau,2,"672
+03176",Germany
+1064,HöFI,8,4/8/1998,6/9/1998,4/23/1998,2,65.7,NULL,"Martina-Hamann-Straße 667
+17837 Freudenstadt", Freudenstadt,4,"667
+17837",Germany
+1065,HöRL,3,4/9/1998,5/31/1998,5/5/1998,3,12.4,NULL,"Jan-Peter-Dietz-Allee 36
+65835 Sömmerda",Sömmerda,1,"36
+65835 ",Germany
+1066,WESAC,5,4/10/1998,6/18/1998,5/6/1998,1,32,NULL,"Nada-Kraushaar-Gasse 1/1
+57576 Greifswald", Greifswald,2,"1/1
+57576",Germany
+1067,RäDE,4,4/10/1998,5/29/1998,4/18/1998,1,79.6,NULL,"Leonie-Klemt-Gasse 1
+13420 Rottweil",ottweil,1,"1
+13420 R",Germany
+1068,HEß ,2,4/10/1998,4/26/1998,4/16/1998,2,21.9,NULL,"Maja-Lange-Gasse 6
+94712 Eisenhüttenstadt",isenhüttenstadt,2,"6
+94712 E",Germany
+1069,SCHLE,1,4/11/1998,7/5/1998,5/24/1998,3,26.8,NULL,"Arnfried-Stoll-Straße 3/9
+91162 Coburg", Coburg,4,"3/9
+91162",Germany
+1070,SPIE�,4,4/12/1998,5/25/1998,5/12/1998,1,10.1,NULL,"Vincent-Ernst-Weg 19
+51097 Neuss",Neuss,3,"19
+51097 ",Germany
+1071,HERTR,5,4/12/1998,5/18/1998,4/29/1998,2,99.9,NULL,"Schachtstraße 9
+03341 Strasburg",trasburg,2,"9
+03341 S",Germany
+1072,HEINR,5,4/13/1998,7/6/1998,4/20/1998,1,72.6,NULL,"Haufferring 20
+08497 Freising",Freising,3,"20
+08497 ",Germany
+1073,KENSY,2,4/13/1998,4/24/1998,4/13/1998,1,99.5,NULL,"Nadja-Schinke-Straße 315
+58331 Heiligenstadt", Heiligenstadt,4,"315
+58331",Germany
+1074,GUDE ,4,4/13/1998,7/14/1998,6/6/1998,3,61,NULL,"Briemerstr. 701
+09141 Fallingbostel", Fallingbostel,2,"701
+09141",Germany
+1075,RUPPE,8,4/14/1998,6/27/1998,5/24/1998,3,81.1,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,2,"0
+07712 E",Germany
+1076,OTTO,9,4/17/1998,5/1/1998,4/17/1998,1,72.6,NULL,"Nadja-Schinke-Straße 315
+58331 Heiligenstadt", Heiligenstadt,1,"315
+58331",Germany
+1077,FISCH,9,4/17/1998,7/11/1998,4/21/1998,2,77.6,NULL,"Vanessa-van der Dussen-Gasse 2
+44255 Kyritz","-Gasse 2
+44255 Kyritz",2,der Dussen,Germany
+1078,HöRL,1,4/18/1998,6/23/1998,4/30/1998,3,32.7,NULL,"Bruderplatz 118
+88604 Jessen", Jessen,3,"118
+88604",Germany
+1079,MUDE ,5,4/18/1998,6/1/1998,5/17/1998,2,89.1,NULL,"Nikolas-Hövel-Platz 0/1
+00234 Fallingbostel", Fallingbostel,1,"0/1
+00234",Germany
+1080,ALBER,6,4/21/1998,7/4/1998,5/18/1998,2,30.1,NULL,"Gottlieb-Gierschner-Straße 937
+53773 Querfurt", Querfurt,1,"937
+53773",Germany
+1081,RöHR,9,4/21/1998,5/16/1998,5/2/1998,2,22.2,NULL,"Loosring 448
+27008 Garmisch-Partenkirchen", Garmisch-Partenkirchen,4,"448
+27008",Germany
+1082,GORLI,4,4/21/1998,6/20/1998,5/31/1998,2,86.8,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,2,"27
+43327 ",Germany
+1083,KRUSC,9,4/23/1998,6/18/1998,5/29/1998,2,7.5,NULL,"Gehringergasse 5
+50608 Diepholz",iepholz,1,"5
+50608 D",Germany
+1084,AUMAN,3,4/24/1998,6/26/1998,5/28/1998,2,53.9,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,3,"83
+89721 ",Germany
+1085,TRUB ,6,4/24/1998,7/5/1998,5/1/1998,3,93,NULL,"Mirella-Ring-Platz 78
+51455 Greifswald",Greifswald,3,"78
+51455 ",Germany
+1086,MUDE ,1,4/25/1998,5/15/1998,5/5/1998,3,37.2,NULL,"Schachtstraße 9
+03341 Strasburg",trasburg,4,"9
+03341 S",Germany
+1087,KäST,7,4/25/1998,7/22/1998,5/30/1998,3,62.6,NULL,"Herrmann-Sontag-Platz 8
+06608 Apolda",polda,3,"8
+06608 A",Germany
+1088,WESAC,3,4/26/1998,8/2/1998,6/3/1998,3,45.4,NULL,"Patberggasse 3
+50164 Gelnhausen",elnhausen,3,"3
+50164 G",Germany
+1089,EHLER,8,4/27/1998,8/4/1998,6/5/1998,3,93.2,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,3,"45
+89867 ",Germany
+1090,RITTE,7,4/30/1998,5/10/1998,4/30/1998,3,27.5,NULL,"Traudl-Drub-Gasse 7
+03935 Bergzabern",ergzabern,1,"7
+03935 B",Germany
+1091,FISCH,4,4/30/1998,6/20/1998,4/30/1998,3,44.3,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,2,"7
+37523 R",Germany
+1092,WäHN,1,5/1/1998,7/22/1998,5/8/1998,2,16.3,NULL,"Christos-Hölzenbecher-Straße 95
+92216 Bützow",Bützow,3,"95
+92216 ",Germany
+1093,EHLER,1,5/1/1998,7/30/1998,6/4/1998,2,70.9,NULL,"Drubstr. 07
+48645 Bitterfeld",Bitterfeld,3,"07
+48645 ",Germany
+1094,HOFMA,6,5/1/1998,6/28/1998,5/9/1998,3,20.7,NULL,"Knappeweg 9/8
+99974 Lippstadt", Lippstadt,3,"9/8
+99974",Germany
+1095,WEIME,6,5/2/1998,8/9/1998,6/16/1998,1,70.1,NULL,"Wagenknechtgasse 98
+06736 Germersheim",Germersheim,3,"98
+06736 ",Germany
+1096,TRöS,6,5/3/1998,6/17/1998,5/10/1998,2,70.9,NULL,"Meisterstr. 109
+60837 Melle", Melle,1,"109
+60837",Germany
+1097,HOLZA,3,5/3/1998,8/9/1998,6/14/1998,2,16.2,NULL,"Strohweg 672
+03176 Torgau", Torgau,3,"672
+03176",Germany
+1098,WESAC,7,5/3/1998,6/12/1998,5/31/1998,3,98.1,NULL,"Jürgen-Staude-Allee 1
+85413 Cottbus",ottbus,4,"1
+85413 C",Germany
+1099,SCHAA,8,5/4/1998,8/11/1998,7/28/1998,2,31.8,NULL,"Herrmannstr. 02
+29655 Wanzleben",Wanzleben,1,"02
+29655 ",Germany
+1100,STIFF,2,5/4/1998,7/29/1998,5/25/1998,2,83.9,NULL,"Mülichenstraße 995
+87953 Wolfenbüttel", Wolfenbüttel,1,"995
+87953",Germany
+1101,LORCH,1,5/5/1998,8/1/1998,7/10/1998,2,75.5,NULL,"Eileen-Käster-Straße 5/5
+11295 Wolfratshausen", Wolfratshausen,3,"5/5
+11295",Germany
+1102,DITSC,8,5/5/1998,7/27/1998,6/15/1998,1,63.7,NULL,"Gloria-Rudolph-Weg 4
+45515 Illertissen",llertissen,1,"4
+45515 I",Germany
+1103,BIRNB,1,5/6/1998,7/13/1998,6/1/1998,1,86.9,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,1,"0
+59730 F",Germany
+1104,LIEBE,4,5/7/1998,7/21/1998,6/27/1998,2,40.1,NULL,"Karl-Georg-Käster-Straße 861
+71480 Bersenbrück", Bersenbrück,3,"861
+71480",Germany
+1105,JUNCK,3,5/8/1998,8/16/1998,6/25/1998,2,74.1,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,1,"4/9
+01718",Germany
+1106,RUPPE,6,5/8/1998,5/18/1998,5/8/1998,2,18.9,NULL,"Schwitalring 880
+19940 Zossen", Zossen,3,"880
+19940",Germany
+1107,BAUM,8,5/8/1998,5/30/1998,5/18/1998,3,5.3,NULL,"Janus-Paffrath-Weg 731
+80849 Fallingbostel", Fallingbostel,3,"731
+80849",Germany
+1108,MEIST,7,5/8/1998,5/28/1998,5/10/1998,3,50.7,NULL,"Rotraut-Bolander-Ring 6
+20847 Badalzungen",adalzungen,2,"6
+20847 B",Germany
+1109,KREBS,7,5/9/1998,5/22/1998,5/12/1998,1,14.6,NULL,"Rosemannstr. 714
+13031 Euskirchen", Euskirchen,2,"714
+13031",Germany
+1110,MEIST,4,5/10/1998,5/20/1998,5/10/1998,2,82.1,NULL,"Birger-Schönland-Ring 5/8
+69219 Senftenberg", Senftenberg,3,"5/8
+69219",Germany
+1111,SCHLE,3,5/10/1998,6/7/1998,5/28/1998,2,49,NULL,"Gertzstr. 43
+11032 Wesel",Wesel,4,"43
+11032 ",Germany
+1112,LIEBE,3,5/10/1998,7/29/1998,6/20/1998,1,51.9,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,3,"348
+59184",Germany
+1113,HESER,7,5/10/1998,6/6/1998,5/16/1998,3,28.8,NULL,"Rolf-Rosemann-Platz 8/7
+48762 Parchim", Parchim,1,"8/7
+48762",Germany
+1114,KRUSC,4,5/10/1998,7/8/1998,5/17/1998,3,46.4,NULL,"Spießallee 07
+63135 Lemgo",Lemgo,1,"07
+63135 ",Germany
+1115,MITSC,3,5/11/1998,7/25/1998,7/13/1998,2,24.1,NULL,"Lindnergasse 182
+44826 Deggendorf", Deggendorf,2,"182
+44826",Germany
+1116,MUDE ,8,5/11/1998,7/30/1998,6/13/1998,1,2.6,NULL,"Schulzstr. 348
+59184 Schmölln", Schmölln,2,"348
+59184",Germany
+1117,STRIE,9,5/11/1998,7/9/1998,6/24/1998,3,7.8,NULL,"Ernstplatz 453
+17042 Erkelenz", Erkelenz,2,"453
+17042",Germany
+1118,FRöH,7,5/12/1998,5/27/1998,5/14/1998,1,32.3,NULL,"Schachtstraße 9
+03341 Strasburg",trasburg,1,"9
+03341 S",Germany
+1119,FRöH,4,5/13/1998,5/31/1998,5/15/1998,3,33.2,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,4,"0
+59730 F",Germany
+1120,EIGEN,1,5/14/1998,7/23/1998,6/2/1998,3,33.9,NULL,"Arndt-Karge-Platz 90
+16776 Hannover",Hannover,1,"90
+16776 ",Germany
+1121,BAUM,1,5/14/1998,6/5/1998,5/24/1998,3,22.2,NULL,"Vogtring 7
+37523 Rockenhausen",ockenhausen,2,"7
+37523 R",Germany
+1122,WESAC,3,5/15/1998,7/21/1998,6/4/1998,2,82.3,NULL,"Milena-Nohlmans-Allee 06
+20613 Bernburg",Bernburg,2,"06
+20613 ",Germany
+1123,OTTO,6,5/16/1998,6/1/1998,5/18/1998,2,13.8,NULL,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen", Mühlhausen,3,"7/5
+89147",Germany
+1124,WINKL,4,5/16/1998,8/16/1998,5/31/1998,2,22.1,NULL,"Langering 9/1
+59895 Eisenach", Eisenach,1,"9/1
+59895",Germany
+1125,STUMP,7,5/16/1998,7/29/1998,5/18/1998,2,29.2,NULL,"Jan-Peter-Dietz-Allee 36
+65835 Sömmerda",Sömmerda,3,"36
+65835 ",Germany
+1126,WEITZ,1,5/17/1998,7/22/1998,6/24/1998,2,97,NULL,"Blümelgasse 9
+50750 Roth",oth,2,"9
+50750 R",Germany
+1127,GUMPR,4,5/17/1998,7/26/1998,6/24/1998,3,91.6,NULL,"Loosring 448
+24596 Prenzlau", Prenzlau,1,"448
+24596",Germany
+1128,SCHOM,8,5/17/1998,8/2/1998,5/20/1998,3,39.6,NULL,"Pamela-Stahr-Weg 43
+96301 Merseburg",Merseburg,3,"43
+96301 ",Germany
+1129,GUDE ,4,5/19/1998,6/3/1998,5/21/1998,3,55.5,NULL,"Mülichenstraße 995
+87953 Wolfenbüttel", Wolfenbüttel,4,"995
+87953",Germany
+1130,KNAPP,9,5/19/1998,7/4/1998,6/24/1998,3,82.8,NULL,"Kochplatz 4/4
+43815 Uelzen", Uelzen,2,"4/4
+43815",Germany
+1131,LüBS,5,5/20/1998,8/13/1998,6/15/1998,3,88.6,NULL,"August-Schönland-Gasse 0
+07712 Eggenfelden",ggenfelden,2,"0
+07712 E",Germany
+1132,WULF ,8,5/20/1998,6/11/1998,5/21/1998,1,44.8,NULL,"Deborah-Kambs-Platz 9/7
+14188 Mallersdorf", Mallersdorf,4,"9/7
+14188",Germany
+1133,LöWE,2,5/22/1998,8/16/1998,6/5/1998,3,22.4,NULL,"Bohlanderplatz 0
+59730 Fürstenfeldbruck",ürstenfeldbruck,1,"0
+59730 F",Germany
+1134,HENSC,8,5/23/1998,7/11/1998,6/9/1998,3,98.1,NULL,"Rosemannstr. 304
+11229 Coburg", Coburg,2,"304
+11229",Germany
+1135,SCHOL,9,5/24/1998,8/17/1998,8/1/1998,2,30.6,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,2,"3/6
+00456",Germany
+1136,LIEBE,1,5/24/1998,7/15/1998,5/29/1998,3,39.4,NULL,"Michaela-Schüler-Ring 83
+89721 Kehl",Kehl,4,"83
+89721 ",Germany
+1137,ZORBA,5,5/25/1998,7/18/1998,6/30/1998,3,4.9,NULL,"Miguel-Siering-Straße 564
+86195 Bitterfeld", Bitterfeld,3,"564
+86195",Germany
+1138,TROMM,1,5/25/1998,7/3/1998,5/31/1998,3,26.1,NULL,"Drewesgasse 71
+11958 Neuss",Neuss,1,"71
+11958 ",Germany
+1139,NASER,5,5/26/1998,8/16/1998,5/30/1998,1,50.6,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,3,"7/6
+10323",Germany
+1140,SPEER,8,5/28/1998,8/12/1998,7/28/1998,3,86.7,NULL,"Nada-Kraushaar-Gasse 1/1
+57576 Greifswald", Greifswald,3,"1/1
+57576",Germany
+1141,WERNE,8,5/28/1998,7/27/1998,6/17/1998,1,59.3,NULL,"Gerald-Langern-Allee 24
+45998 Bad Kissingen",Bad Kissingen,1,"24
+45998 ",Germany
+1142,HOLZA,1,5/28/1998,7/24/1998,6/25/1998,3,41.4,NULL,"Patberggasse 3
+50164 Gelnhausen",elnhausen,2,"3
+50164 G",Germany
+1143,RäDE,4,5/28/1998,6/27/1998,6/9/1998,3,95.3,NULL,"Ramazan-Schuster-Platz 2
+82214 Celle",elle,3,"2
+82214 C",Germany
+1144,FREUD,5,5/29/1998,7/9/1998,6/11/1998,1,71.9,NULL,"Blümelgasse 9
+50750 Roth",oth,4,"9
+50750 R",Germany
+1145,BAUER,1,5/29/1998,6/11/1998,5/29/1998,3,13.9,NULL,"Schwitalring 880
+19940 Zossen", Zossen,2,"880
+19940",Germany
+1146,GUDE ,4,5/30/1998,6/17/1998,6/6/1998,2,17.4,NULL,"Birnbaumplatz 1/9
+56858 Schwabmünchen", Schwabmünchen,2,"1/9
+56858",Germany
+1147,HäRI,6,5/31/1998,7/24/1998,6/7/1998,3,6.9,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,3,"33
+13526 ",Germany
+1148,EHLER,8,5/31/1998,6/19/1998,6/6/1998,2,30,NULL,"Gretl-Pieper-Platz 726
+07541 Fallingbostel", Fallingbostel,3,"726
+07541",Germany
+1149,JüTT,6,6/1/1998,8/28/1998,8/1/1998,3,84.2,NULL,"Reza-Neureuther-Straße 224
+41022 Göttingen", Göttingen,4,"224
+41022",Germany
+1150,KREIN,2,6/3/1998,7/16/1998,7/1/1998,3,48,NULL,"Jost-Trubin-Platz 90
+69119 Höxter",Höxter,3,"90
+69119 ",Germany
+1151,MIELC,3,6/3/1998,7/25/1998,6/8/1998,3,34.1,NULL,"Haeringring 877
+50050 Artern", Artern,2,"877
+50050",Germany
+1152,FECHN,7,6/3/1998,8/29/1998,6/18/1998,2,44.9,NULL,"Gertraude-Jockel-Platz 5/0
+90995 Lübz", Lübz,3,"5/0
+90995",Germany
+1153,RITTE,6,6/3/1998,7/8/1998,6/21/1998,2,80.8,NULL,"Ante-Rohleder-Gasse 74
+69440 Soltau",Soltau,1,"74
+69440 ",Germany
+1154,LORCH,5,6/4/1998,7/6/1998,6/19/1998,2,58.9,NULL,"Goran-Faust-Straße 5/2
+91453 Kemnath", Kemnath,3,"5/2
+91453",Germany
+1155,KEUDE,7,6/6/1998,8/1/1998,6/24/1998,1,86.2,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,4,"3/6
+00456",Germany
+1156,JäNT,5,6/7/1998,8/14/1998,6/16/1998,1,90.2,NULL,"Adrian-Hiller-Straße 4/0
+25180 Kehl", Kehl,1,"4/0
+25180",Germany
+1157,CARST,7,6/7/1998,9/4/1998,7/27/1998,2,32.8,NULL,"Winklerring 4/5
+87966 Artern", Artern,4,"4/5
+87966",Germany
+1158,SPEER,6,6/8/1998,8/12/1998,7/10/1998,3,20.6,NULL,"Sylwia-Margraf-Straße 1/3
+87860 Holzminden", Holzminden,2,"1/3
+87860",Germany
+1159,BäHR,2,6/10/1998,9/7/1998,6/25/1998,2,16.9,NULL,"Schuchhardtweg 466
+50840 Hünfeld", Hünfeld,4,"466
+50840",Germany
+1160,HöFI,3,6/10/1998,8/16/1998,6/15/1998,2,35.6,NULL,"Gorlitzplatz 8
+85319 Tecklenburg",ecklenburg,2,"8
+85319 T",Germany
+1161,HENSC,3,6/13/1998,7/16/1998,6/21/1998,2,82.4,NULL,"Wiltrud-Kobelt-Platz 8/8
+65103 Norden", Norden,3,"8/8
+65103",Germany
+1162,WEIHM,5,6/14/1998,7/6/1998,6/17/1998,2,84.8,NULL,"Gertzstr. 43
+11032 Wesel",Wesel,1,"43
+11032 ",Germany
+1163,BARTH,3,6/16/1998,7/6/1998,6/19/1998,3,85.7,NULL,address,#VALUE!,3,#VALUE!,Germany
+1164,JUNCK,8,6/17/1998,9/15/1998,8/29/1998,2,56.6,NULL,"Senta-Schulz-Gasse 33
+13526 Nauen",Nauen,2,"33
+13526 ",Germany
+1165,JUNCK,1,6/18/1998,7/22/1998,7/11/1998,3,47.3,NULL,"Olena-Schäfer-Weg 7/6
+10323 Werdau", Werdau,4,"7/6
+10323",Germany
+1166,WEITZ,8,6/18/1998,9/24/1998,9/14/1998,2,87.3,NULL,"Nevenka-Schuchhardt-Gasse 9/3
+45614 Calw", Calw,3,"9/3
+45614",Germany
+1167,BAUER,3,6/19/1998,7/3/1998,6/19/1998,2,47,NULL,"Kunigunde-Köhler-Weg 3/6
+00456 Uffenheim", Uffenheim,1,"3/6
+00456",Germany
+1168,GEHRI,4,6/20/1998,7/13/1998,6/27/1998,3,49.8,NULL,"Enrico-Drewes-Allee 864
+55722 Suhl", Suhl,4,"864
+55722",Germany
+1169,EBERH,1,6/20/1998,8/3/1998,6/30/1998,3,38.1,NULL,"Reza-Neureuther-Straße 224
+41022 Göttingen", Göttingen,4,"224
+41022",Germany
+1170,SCHü,3,6/20/1998,9/7/1998,6/30/1998,2,51.3,NULL,"Barthweg 5
+57957 Bersenbrück",ersenbrück,4,"5
+57957 B",Germany
+1171,ROGGE,5,6/23/1998,8/9/1998,7/14/1998,1,19.8,NULL,"Danuta-Aumann-Straße 5/7
+36390 Neustadtner Waldnaab", Neustadtner Waldnaab,2,"5/7
+36390",Germany
+1172,KITZM,9,6/23/1998,9/20/1998,7/30/1998,3,40,NULL,"Hanife-Schuster-Allee 45
+89867 Strausberg",Strausberg,1,"45
+89867 ",Germany
+1173,KRAUS,6,6/24/1998,8/30/1998,7/2/1998,2,79,NULL,"Nelly-Warmer-Gasse 507
+03770 Wesel", Wesel,4,"507
+03770",Germany
+1174,WäHN,2,6/24/1998,8/30/1998,8/6/1998,3,94.3,NULL,"Zirmeplatz 3/7
+37704 Bützow", Bützow,4,"3/7
+37704",Germany
+1175,EBERH,5,6/24/1998,9/27/1998,9/14/1998,2,43.8,NULL,"Süleyman-Köster-Weg 7
+64507 Wolfenbüttel",olfenbüttel,2,"7
+64507 W",Germany
+1176,HENCK,7,6/25/1998,7/8/1998,6/25/1998,3,11.3,NULL,"Cemal-Scheuermann-Weg 5
+66982 Dessau",essau,3,"5
+66982 D",Germany
+1177,HENCK,5,6/25/1998,8/9/1998,7/2/1998,3,89,NULL,"Haeringring 877
+50050 Artern", Artern,4,"877
+50050",Germany
+1178,CASPA,2,6/25/1998,9/16/1998,9/3/1998,3,34.3,NULL,"Meik-Grein Groth-Ring 2/0
+59593 Kronach"," 2/0
+59593 Kronach",3,Groth-Ring,Germany
+1179,RITTE,8,6/25/1998,7/14/1998,6/28/1998,3,53.1,NULL,"Slobodan-Mühle-Allee 613
+69369 Cloppenburg", Cloppenburg,1,"613
+69369",Germany
+1180,THIES,4,6/26/1998,9/16/1998,8/27/1998,2,20.8,NULL,"Luciano-Ruppersberger-Allee 4/9
+01718 Bad Kissingen", Bad Kissingen,1,"4/9
+01718",Germany
+1181,BENDE,7,6/26/1998,7/30/1998,7/8/1998,3,73.6,NULL,"Cemil-Carsten-Platz 27
+43327 Passau",Passau,2,"27
+43327 ",Germany
+1182,HOLST,9,6/27/1998,7/22/1998,7/2/1998,1,39.3,NULL,"Josephine-Hentschel-Ring 7/2
+58548 Groß-Gerau", Groß-Gerau,2,"7/2
+58548",Germany
+1183,POHL ,9,6/30/1998,7/21/1998,7/6/1998,2,61.2,NULL,"Jacobi Jäckelweg 78
+83078 Freising"," 78
+83078 Freising",2,Jäckelweg,Germany
+1184,FRANK,3,6/30/1998,8/24/1998,8/6/1998,3,25.3,NULL,"Jane-Losekann-Allee 7/5
+89147 Mühlhausen", Mühlhausen,3,"7/5
+89147",Germany

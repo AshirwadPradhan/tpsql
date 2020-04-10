@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # local databse
-db/
 tmp/
 out/
 spark-warehouse/
+.vscode/

@@ -1,0 +1,307 @@
+customerID,companyName,contactName,contactTitle,address,city,region,postalCode,country,phone,fax
+CHAVE,Chavez-Turner,Stacey Martin,Mr/Ms,"0 Katie Junction
+Hinesmouth, VIC, 2958","Hinesmouth, VIC, 2958",NULL,2958,AUS,0470 644 721,NULL
+RIVAS,Rivas-Chambers,Randy Young,Mr/Ms,"Unit 73
+ 517 Montgomery Route
+Rogersburgh, ACT, 2962","Rogersburgh, ACT, 2962",NULL,2962,AUS,0499 367 143,NULL
+GARZA,"Garza, Gay and Adams",James Medina,Mr/Ms,"Flat 91
+ 090 Courtney Subway
+North Melissa, NT, 2272","North Melissa, NT, 2272",NULL,2272,AUS,(08)50013674,NULL
+WRIGH,Wright PLC,Linda Watts,Mr/Ms,"35 Long Alley
+Stacymouth, VIC, 2956","Stacymouth, VIC, 2956",NULL,2956,AUS,351975109,NULL
+BECK-,Beck-Dixon,Rebecca Garcia,Mr/Ms,"154 Anderson Villas
+Wilkinsville, TAS, 0996","Wilkinsville, TAS, 0996",NULL,996,AUS,29817549,NULL
+GORDO,"Gordon, Pham and Patel",Julia Kelly,Mr/Ms,"390 John Plaza
+Hendersonburgh, WA, 8621","Hendersonburgh, WA, 8621",NULL,8621,AUS,(02).6626.6265,NULL
+"BELL,","Bell, Patel and Townsend",Michele Oconnor,Mr/Ms,"9 Wiley Freeway
+Jasonberg, NSW, 2662","Jasonberg, NSW, 2662",NULL,2662,AUS,+61 8 5557 0471,NULL
+KRUEG,"Krueger, Shields and Hahn",Melvin Hurley,Mr/Ms,"44 /
+ 534 Benjamin Close
+Pamelaville, SA, 2955","Pamelaville, SA, 2955",NULL,2955,AUS,-1946,NULL
+GIBSO,"Gibson, Warren and Hall",Amy Kim,Mr/Ms,"Unit 57
+ 48 David Ronde
+Jamieborough, NT, 2611","Jamieborough, NT, 2611",NULL,2611,AUS,9427402,NULL
+THOMA,Thomas Inc,Christine Reyes,Mr/Ms,"8 Camacho Amble
+Ortizshire, QLD, 2362","Ortizshire, QLD, 2362",NULL,2362,AUS,(08).9468.9067,NULL
+WILLI,Williams-Carter,William Roberts,Mr/Ms,"Apt. 483
+ 1 Ronald Front
+Marymouth, SA, 4455","Marymouth, SA, 4455",NULL,4455,AUS,08.8426.5779,NULL
+HOWAR,"Howard, Huff and Golden",Amanda Morris,Mr/Ms,"8 /
+ 8 Williams Mount
+South Heidiport, ACT, 9541","South Heidiport, ACT, 9541",NULL,9541,AUS,-9851,NULL
+MOORE,Moore-Vaughn,Pamela Gonzalez,Mr/Ms,"88 Bennett Strip
+Potterview, VIC, 9993","Potterview, VIC, 9993",NULL,9993,AUS,+61.443.321.453,NULL
+GORDO,"Gordon, Robinson and Andrews",Timothy Sullivan,Mr/Ms,"84 Hansen Follow
+New Allison, SA, 2920","New Allison, SA, 2920",NULL,2920,AUS,-13227,NULL
+FORD-,Ford-Wolf,Noah Turner,Mr/Ms,"4 /
+ 9 Kimberly Pocket
+Port Kaylaborough, TAS, 2920","Port Kaylaborough, TAS, 2920",NULL,2920,AUS,(02)96015880,NULL
+MORRI,Morris LLC,Nathaniel Thompson,Mr/Ms,"Flat 28
+ 393 Aaron Foreshore
+South Jonathan, TAS, 2941","South Jonathan, TAS, 2941",NULL,2941,AUS,(08)-0565-1175,NULL
+BRIGG,Briggs-James,Adam Trujillo,Mr/Ms,"602 Heather Cutting
+Lake Ericborough, QLD, 2667","Lake Ericborough, QLD, 2667",NULL,2667,AUS,0415 273 602,NULL
+GONZA,Gonzalez-Murray,Brandon Ali DDS,Mr/Ms,"813 Valerie Retreat
+Laurenmouth, WA, 2917","Laurenmouth, WA, 2917",NULL,2917,AUS,07.9286.8565,NULL
+WILLI,Williams-Jacobson,Casey Smith,Mr/Ms,"Suite 989
+ 703 Potter Entrance
+St. Rhonda, NSW, 2634","St. Rhonda, NSW, 2634",NULL,2634,AUS,+61.7.4218.2191,NULL
+WARNE,"Warner, Davis and Molina",Gina Torres,Mr/Ms,"36 Austin Cove
+Nelsonhaven, TAS, 2697","Nelsonhaven, TAS, 2697",NULL,2697,AUS,6254 1158,NULL
+BUCKL,Buckley Inc,Heather Robinson,Mr/Ms,"74 Tammy Mount
+St. Laurafurt, SA, 2579","St. Laurafurt, SA, 2579",NULL,2579,AUS,(02)78496911,NULL
+RAMIR,"Ramirez, Harper and Coleman",John Mann,Mr/Ms,"Apt. 868
+ 34 Rebecca Ridgeway
+Allenhaven, ACT, 2600","Allenhaven, ACT, 2600",NULL,2600,AUS,+61 8 3272 0800,NULL
+LEBLA,"Leblanc, Moore and Riggs",Tamara Stevens,Mr/Ms,"0 Ray Little
+Anthonyburgh, VIC, 2619","Anthonyburgh, VIC, 2619",NULL,2619,AUS,(02).6085.3110,NULL
+VAZQU,Vazquez-Watkins,Jaime Hall,Mr/Ms,"Apt. 457
+ 6 Matthew Steps
+Rachelport, VIC, 2908","Rachelport, VIC, 2908",NULL,2908,AUS,(07).4018.3934,NULL
+WALLA,"Wallace, Turner and Hall",Terri Henry,Mr/Ms,"Level 8
+ 2 Buck Ramp
+Port Curtisshire, NT, 2966","Port Curtisshire, NT, 2966",NULL,2966,AUS,-8150,NULL
+JOHNS,"Johnson, Rogers and Anderson",Arthur Roman,Mr/Ms,"Unit 37
+ 021 Stokes View
+Jamesberg, SA, 2656","Jamesberg, SA, 2656",NULL,2656,AUS,-896,NULL
+HARPE,Harper-Grant,Karen Giles,Mr/Ms,"12 West Approach
+Port Timothy, NT, 3204","Port Timothy, NT, 3204",NULL,3204,AUS,(02)22532160,NULL
+ALLEN,Allen-Johnson,Raymond Mueller,Mr/Ms,"09 Bruce Link
+Port Miguelview, QLD, 9718","Port Miguelview, QLD, 9718",NULL,9718,AUS,(03).5903.3286,NULL
+MUNOZ,Munoz and Sons,Michael Williams,Mr/Ms,"4 Nicole Ramp
+Nelsonshire, SA, 3789","Nelsonshire, SA, 3789",NULL,3789,AUS,0417 569 012,NULL
+JOHNS,"Johnson, Carter and Orr",Lauren Lambert,Mr/Ms,"Level 5
+ 66 Martin Towers
+Lake Amandastad, NSW, 2674","Lake Amandastad, NSW, 2674",NULL,2674,AUS,(03).8690.2231,NULL
+GUTIE,"Gutierrez, Boyd and Bell",Benjamin Walker,Mr/Ms,"0 Stephen Heights
+Petersonbury, NT, 1470","Petersonbury, NT, 1470",NULL,1470,AUS,0473.625.032,NULL
+GRAHA,"Graham, Martinez and Henry",Michelle Hopkins,Mr/Ms,"173 Roy Rue
+Hodgebury, NT, 9786","Hodgebury, NT, 9786",NULL,9786,AUS,2274.6023,NULL
+MARTI,"Martinez, Hicks and Gibson",Jonathan Wang,Mr/Ms,"341 /
+ 261 Joseph Alley
+West Amy, QLD, 6639","West Amy, QLD, 6639",NULL,6639,AUS,(07).9791.2870,NULL
+CHAPM,"Chapman, Jones and Clayton",Elizabeth Wright,Mr/Ms,"814 Henderson Crossroad
+East Christinamouth, WA, 8384","East Christinamouth, WA, 8384",NULL,8384,AUS,08 3793 7500,NULL
+GARCI,"Garcia, Barnett and Gibson",John Adams,Mr/Ms,"Suite 920
+ 269 Higgins Lane
+New Alexis, NSW, 2665","New Alexis, NSW, 2665",NULL,2665,AUS,02-8773-3389,NULL
+BRYAN,"Bryan, Baker and Booth",Kimberly Hawkins,Mr/Ms,"Level 6
+ 994 Emma Place
+Annside, ACT, 2603","Annside, ACT, 2603",NULL,2603,AUS,53757889,NULL
+MYERS,Myers-Morgan,Tony Rose,Mr/Ms,"0 /
+ 07 Castillo Ramble
+Haleyshire, VIC, 0223","Haleyshire, VIC, 0223",NULL,223,AUS,39348860,NULL
+EVANS,"Evans, Parker and Chen",Heather Austin,Mr/Ms,"76 Deborah Reserve
+New Nancy, TAS, 2663","New Nancy, TAS, 2663",NULL,2663,AUS,55113701,NULL
+FUENT,"Fuentes, Cowan and Frazier",Philip Hahn,Mr/Ms,"943 Gregory Garden
+West Jon, TAS, 2905","West Jon, TAS, 2905",NULL,2905,AUS,-1130,NULL
+LOWER,Lowery-Suarez,Tammie Erickson,Mr/Ms,"Suite 162
+ 561 Kimberly Fairway
+East Allenland, TAS, 0237","East Allenland, TAS, 0237",NULL,237,AUS,3425 8543,NULL
+WALLE,"Waller, Spencer and Curtis",Matthew Hess,Mr/Ms,"0 English Round
+New Williammouth, VIC, 2942","New Williammouth, VIC, 2942",NULL,2942,AUS,03-8046-6937,NULL
+STANL,Stanley Ltd,Bill Lynch,Mr/Ms,"31 Davis Route
+Blackton, NSW, 2625","Blackton, NSW, 2625",NULL,2625,AUS,2869-7446,NULL
+BELL ,Bell Ltd,Brandon Hicks,Mr/Ms,"Unit 56
+ 6 Lee Corner
+Kimberlyville, WA, 0241","Kimberlyville, WA, 0241",NULL,241,AUS,+61 483 240 374,NULL
+AGUIR,Aguirre-Robinson,Daniel Bradshaw,Mr/Ms,"1 /
+ 42 Jones Walk
+North Michael, TAS, 2246","North Michael, TAS, 2246",NULL,2246,AUS,0493-069-012,NULL
+REESE,"Reese, Riley and Tran",Anthony Sullivan,Mr/Ms,"65 Bishop Colonnade
+North Robert, VIC, 2980","North Robert, VIC, 2980",NULL,2980,AUS,08.0142.1221,NULL
+BALL ,Ball and Sons,James Johnson,Mr/Ms,"391 /
+ 28 Sara Link
+Port Carloston, ACT, 1587","Port Carloston, ACT, 1587",NULL,1587,AUS,0434.680.145,NULL
+JENKI,Jenkins-Nelson,Nancy Green,Mr/Ms,"Apt. 401
+ 6 Nguyen Brow
+Andersonbury, VIC, 2149","Andersonbury, VIC, 2149",NULL,2149,AUS,08 8636 9279,NULL
+DORSE,"Dorsey, Rodriguez and Brown",Tommy Cook,Mr/Ms,"10 /
+ 11 Johnson Distributor
+Schmidtbury, TAS, 2541","Schmidtbury, TAS, 2541",NULL,2541,AUS,07-7745-2965,NULL
+ALVAR,Alvarado-Payne,Jordan Johnson,Mr/Ms,"Apt. 682
+ 671 Carey Circle
+Bobbyshire, NT, 9397","Bobbyshire, NT, 9397",NULL,9397,AUS,61397443987,NULL
+SMITH,Smith LLC,Nathaniel Sweeney,Mr/Ms,"Apt. 527
+ 71 King Mew
+West Melissa, NT, 2977","West Melissa, NT, 2977",NULL,2977,AUS,(07)-8657-9525,NULL
+VARGA,Vargas PLC,Renee Garcia,Mr/Ms,"89 Michaela Tarn
+Port Susanport, TAS, 2615","Port Susanport, TAS, 2615",NULL,2615,AUS,02-6776-2844,NULL
+RIVER,Rivers LLC,Kevin Arias,Mr/Ms,"Unit 62
+ 33 Michael Dell
+Kevinview, TAS, 4175","Kevinview, TAS, 4175",NULL,4175,AUS,-13610,NULL
+AGUIL,Aguilar-Williams,Michael Peterson,Mr/Ms,"7 /
+ 2 Ross Grove
+Port Gerald, NSW, 2933","Port Gerald, NSW, 2933",NULL,2933,AUS,0124-2178,NULL
+MIRAN,Miranda-Carlson,Tiffany Sullivan,Mr/Ms,"Apt. 184
+ 8 Hawkins Underpass
+Lake Austinborough, WA, 0866","Lake Austinborough, WA, 0866",NULL,866,AUS,61872572398,NULL
+BARNE,Barnett Inc,Zachary Murray,Mr/Ms,"35 Jeremy Quad
+South Trevorstad, NSW, 2270","South Trevorstad, NSW, 2270",NULL,2270,AUS,-13671,NULL
+KELLY,Kelly-Stephens,Mary Mcdaniel,Mr/Ms,"9 Park Front
+Thomasbury, NT, 0234","Thomasbury, NT, 0234",NULL,234,AUS,+61.2.5176.3220,NULL
+DAVID,Davidson Group,Joe Lynn,Mr/Ms,"6 /
+ 60 Williams Ride
+Nancyborough, SA, 2913","Nancyborough, SA, 2913",NULL,2913,AUS,02.5859.5896,NULL
+GRIME,"Grimes, Hill and Johnson",James Wright,Mr/Ms,"Flat 44
+ 37 Morales Boulevard
+West Eric, QLD, 2619","West Eric, QLD, 2619",NULL,2619,AUS,(07)53438925,NULL
+RAMIR,"Ramirez, Murray and Bradley",Joshua Underwood,Mr/Ms,"Suite 431
+ 00 Charlotte End
+Longmouth, ACT, 7943","Longmouth, ACT, 7943",NULL,7943,AUS,(03)-7024-5776,NULL
+OLSON,"Olson, Blake and Murray",Christine Jackson,Mr/Ms,"5 /
+ 520 Samantha Foreshore
+New Craigville, VIC, 4600","New Craigville, VIC, 4600",NULL,4600,AUS,-1383,NULL
+SEXTO,Sexton PLC,Charles Williams,Mr/Ms,"2 /
+ 8 Bullock Common
+Jessicaside, VIC, 2637","Jessicaside, VIC, 2637",NULL,2637,AUS,-1484,NULL
+HENDE,"Henderson, Reed and Roman",Jessica Barr,Mr/Ms,"Level 2
+ 0 Adriana Spur
+West Josephborough, ACT, 8951","West Josephborough, ACT, 8951",NULL,8951,AUS,+61.477.496.392,NULL
+HOLME,Holmes Ltd,Mark Robinson,Mr/Ms,"7 Hernandez Trunkway
+Maryburgh, NT, 2684","Maryburgh, NT, 2684",NULL,2684,AUS,-5137,NULL
+DAVIS,"Davis, Moreno and Carter",Gerald Martin,Mr/Ms,"63 /
+ 32 Jenkins Walkway
+Elijahmouth, WA, 2911","Elijahmouth, WA, 2911",NULL,2911,AUS,-740,NULL
+COHEN,Cohen-Silva,Annette Larson,Mr/Ms,"528 Devin Colonnade
+West Samantha, VIC, 2937","West Samantha, VIC, 2937",NULL,2937,AUS,-1736,NULL
+GREEN,Green Group,Andrew Sanders,Mr/Ms,"Level 9
+ 8 Bailey Lane
+East Colleen, NSW, 6388","East Colleen, NSW, 6388",NULL,6388,AUS,0452.814.227,NULL
+JACKS,Jackson Group,Pamela Williams,Mr/Ms,"471 /
+ 80 Leslie Copse
+Delgadoshire, TAS, 2217","Delgadoshire, TAS, 2217",NULL,2217,AUS,0489.065.777,NULL
+NGUYE,Nguyen-Stevens,Beth Coleman,Mr/Ms,"Flat 87
+ 553 Chen Footway
+Lake Jamieland, TAS, 2994","Lake Jamieland, TAS, 2994",NULL,2994,AUS,0446-031-039,NULL
+HENDE,"Henderson, Byrd and Dean",Jordan Thomas,Mr/Ms,"Unit 58
+ 7 Berg Dell
+St. Jenny, TAS, 2666","St. Jenny, TAS, 2666",NULL,2666,AUS,0427 608 716,NULL
+JACKS,Jackson Group,Debbie Perkins,Mr/Ms,"Unit 61
+ 4 Edward Brace
+West Michelle, ACT, 2920","West Michelle, ACT, 2920",NULL,2920,AUS,+61.3.0482.9212,NULL
+ANDRA,Andrade-Mejia,Theresa Thomas,Mr/Ms,"219 Adams Alleyway
+St. Stephenton, NSW, 2648","St. Stephenton, NSW, 2648",NULL,2648,AUS,+61.3.5328.0610,NULL
+GREEN,Green-Vaughan,Marissa Bryant,Mr/Ms,"50 /
+ 527 Ryan Cruiseway
+Brentville, TAS, 2600","Brentville, TAS, 2600",NULL,2600,AUS,-7156,NULL
+SMITH,"Smith, West and Rivera",Andrew Norris,Mr/Ms,"00 /
+ 3 Michael Green
+Anitafort, SA, 2932","Anitafort, SA, 2932",NULL,2932,AUS,+61 7 4014 6996,NULL
+DAVIS,Davis-Norris,Stephen Hicks,Mr/Ms,"83 Giles Top
+North Shanechester, WA, 7317","North Shanechester, WA, 7317",NULL,7317,AUS,(03)-4936-8071,NULL
+ORTIZ,Ortiz-Foster,Julie Johnson,Mr/Ms,"8 Meghan Ridge
+West Johnburgh, NSW, 6743","West Johnburgh, NSW, 6743",NULL,6743,AUS,(02).9591.8665,NULL
+WILLI,"Williams, Kelly and Jenkins",Heather Evans,Mr/Ms,"Apt. 607
+ 177 Williams Roadside
+Allisonchester, SA, 2993","Allisonchester, SA, 2993",NULL,2993,AUS,08 0926 4361,NULL
+HAWKI,Hawkins PLC,Jenny Barnes,Mr/Ms,"Level 1
+ 560 Flynn Ronde
+Reesetown, NT, 1444","Reesetown, NT, 1444",NULL,1444,AUS,(03) 7863 9418,NULL
+MCKNI,Mcknight-Robinson,Denise Jones,Mr/Ms,"Unit 62
+ 49 Eugene Dip
+New Robert, ACT, 2517","New Robert, ACT, 2517",NULL,2517,AUS,+61.445.083.416,NULL
+WATSO,"Watson, Williams and Crosby",Paula Bryan,Mr/Ms,"Flat 22
+ 46 Farley Intersection
+East Juliaburgh, SA, 8554","East Juliaburgh, SA, 8554",NULL,8554,AUS,762993892,NULL
+WRIGH,Wright-Hunter,Frank Hicks,Mr/Ms,"Unit 55
+ 1 Baird River
+New Ericport, SA, 2683","New Ericport, SA, 2683",NULL,2683,AUS,02 6255 3742,NULL
+HOLT-,Holt-Cook,Anna Pope,Mr/Ms,"Unit 25
+ 03 Gregory Run
+North Kristinfurt, NSW, 2622","North Kristinfurt, NSW, 2622",NULL,2622,AUS,(03)39852882,NULL
+ORTIZ,Ortiz-Gray,Patrick Francis,Mr/Ms,"Unit 86
+ 854 Kenneth Brae
+South Amanda, VIC, 2711","South Amanda, VIC, 2711",NULL,2711,AUS,+61 499 110 058,NULL
+BAKER,Baker PLC,Richard Schaefer,Mr/Ms,"Unit 35
+ 04 Miller Corner
+Lake Cassie, NT, 2979","Lake Cassie, NT, 2979",NULL,2979,AUS,(03)72909135,NULL
+MORRI,"Morris, Fox and Barnes",Troy Eaton,Mr/Ms,"65 Dawn Quays
+Schmidtview, SA, 2490","Schmidtview, SA, 2490",NULL,2490,AUS,(03)00044531,NULL
+CRAWF,Crawford Group,Brian Edwards,Mr/Ms,"06 Thomas Estate
+South Leahfort, WA, 2580","South Leahfort, WA, 2580",NULL,2580,AUS,0444.521.215,NULL
+FREEM,Freeman-Sanchez,Linda Hughes,Mr/Ms,"207 Veronica Spur
+North Donside, ACT, 2923","North Donside, ACT, 2923",NULL,2923,AUS,717799337,NULL
+SMITH,Smith Ltd,Dana Gutierrez,Mr/Ms,"Suite 938
+ 8 Brenda Part
+South Heathertown, VIC, 0884","South Heathertown, VIC, 0884",NULL,884,AUS,(08).7856.3084,NULL
+"ROSS,","Ross, Mcclure and Johnson",Dylan Swanson,Mr/Ms,"90 Horton Loop
+Port John, NT, 2958","Port John, NT, 2958",NULL,2958,AUS,02.1092.9817,NULL
+CRAWF,"Crawford, Bryan and Moore",Sonya Torres,Mr/Ms,"8 /
+ 917 Travis Hill
+Walkerstad, WA, 0249","Walkerstad, WA, 0249",NULL,249,AUS,(08).5663.1303,NULL
+SUTTO,Sutton Inc,James Schmidt,Mr/Ms,"7 /
+ 06 Mary Trailer
+Lake Laura, WA, 2627","Lake Laura, WA, 2627",NULL,2627,AUS,(02)-1003-8946,NULL
+ADAMS,Adams and Sons,Alyssa Jones,Mr/Ms,"130 Thomas Cutting
+North Marvin, SA, 2101","North Marvin, SA, 2101",NULL,2101,AUS,0495.766.182,NULL
+CUEVA,"Cuevas, Williams and Bennett",Joseph Palmer,Mr/Ms,"Flat 72
+ 3 Scott Glade
+New Mark, NSW, 0948","New Mark, NSW, 0948",NULL,948,AUS,08.2970.3139,NULL
+JONES,Jones Group,Deanna Brennan,Mr/Ms,"3 David Brace
+East Dustin, TAS, 2622","East Dustin, TAS, 2622",NULL,2622,AUS,9160.3457,NULL
+JOHNS,"Johnson, Mercado and Herman",Mr. Benjamin Lee,Mr/Ms,"Unit 82
+ 14 Zavala Piazza
+Michaelberg, NT, 0231","Michaelberg, NT, 0231",NULL,231,AUS,03 1950 4654,NULL
+CHOI-,Choi-Guerrero,Eric Kelly,Mr/Ms,"Suite 763
+ 1 Lauren Slope
+Stephaniemouth, VIC, 2614","Stephaniemouth, VIC, 2614",NULL,2614,AUS,6103-4268,NULL
+THOMP,Thompson Inc,Danielle Snyder,Mr/Ms,"830 Alvarez Causeway
+Thompsonton, SA, 8632","Thompsonton, SA, 8632",NULL,8632,AUS,(02) 0881 3304,NULL
+BROWN,Brown-Lee,Amy Palmer,Mr/Ms,"3 Smith Gates
+East Marymouth, NSW, 2981","East Marymouth, NSW, 2981",NULL,2981,AUS,(08)13336014,NULL
+SCHMI,Schmitt-Anderson,Emily Guerrero,Mr/Ms,"83 Thompson Square
+West Michaelbury, WA, 2694","West Michaelbury, WA, 2694",NULL,2694,AUS,3788.0349,NULL
+JONES,Jones LLC,David Doyle,Mr/Ms,"280 Davis Plaza
+West William, NT, 5595","West William, NT, 5595",NULL,5595,AUS,-1549,NULL
+LIN P,Lin PLC,Dr. Brittney Morris,Mr/Ms,"019 Perez Run
+New Ronaldshire, WA, 6671","New Ronaldshire, WA, 6671",NULL,6671,AUS,03-0578-5504,NULL
+TURNE,Turner-Quinn,Charles Williams,Mr/Ms,"44 Billy Way
+North Jessicaburgh, VIC, 2236","North Jessicaburgh, VIC, 2236",NULL,2236,AUS,0403-448-374,NULL
+STEWA,Stewart-Baldwin,Jonathan Gonzalez,Mr/Ms,"251 Sanchez Expressway
+South Mariahmouth, WA, 2600","South Mariahmouth, WA, 2600",NULL,2600,AUS,3400 6743,NULL
+WILSO,Wilson LLC,Brandon Banks,Mr/Ms,"7 Harry Distributor
+Mcdonaldmouth, SA, 2365","Mcdonaldmouth, SA, 2365",NULL,2365,AUS,1223502,NULL
+WRIGH,Wright LLC,Scott Mooney,Mr/Ms,"Apt. 959
+ 2 Robin Terrace
+Loweryshire, TAS, 2920","Loweryshire, TAS, 2920",NULL,2920,AUS,+61.465.735.581,NULL
+WEBER,Weber PLC,Melissa Oliver,Mr/Ms,"971 Shawn Part
+West Sherry, ACT, 3369","West Sherry, ACT, 3369",NULL,3369,AUS,+61 430 267 424,NULL
+REID ,Reid Ltd,Alan Davidson,Mr/Ms,"363 Morris Boulevard
+Allenbury, QLD, 2019","Allenbury, QLD, 2019",NULL,2019,AUS,(03).3289.7994,NULL
+"WONG,","Wong, Gray and Chavez",Megan Copeland,Mr/Ms,"Flat 33
+ 82 Courtney Park
+Port Alvinfurt, VIC, 2187","Port Alvinfurt, VIC, 2187",NULL,2187,AUS,+61 2 7117 3438,NULL
+CALDE,Calderon Group,Ashley Ayala,Mr/Ms,"892 Ryan Part
+Erikbury, QLD, 5822","Erikbury, QLD, 5822",NULL,5822,AUS,+61 407 444 381,NULL
+MARTI,Martin Ltd,Sarah Martinez,Mr/Ms,"001 Black Ride
+St. Robert, ACT, 2619","St. Robert, ACT, 2619",NULL,2619,AUS,-6745,NULL
+PADIL,Padilla LLC,Kathryn Hebert,Mr/Ms,"33 Collins Alleyway
+South Vincenttown, QLD, 2450","South Vincenttown, QLD, 2450",NULL,2450,AUS,-802,NULL
+BERGE,Berger Inc,Michelle Wilson,Mr/Ms,"97 /
+ 87 Jason Gates
+New Meaganchester, TAS, 2005","New Meaganchester, TAS, 2005",NULL,2005,AUS,(02).7674.3720,NULL
+BEARD,Beard PLC,Karen Weiss,Mr/Ms,"498 Carson Trunkway
+New Rachelfort, NSW, 2600","New Rachelfort, NSW, 2600",NULL,2600,AUS,(08)56010426,NULL
+MARTI,Martinez-Kirk,Vanessa Owen,Mr/Ms,"6 /
+ 7 Michael Glen
+West Jasmine, NSW, 2619","West Jasmine, NSW, 2619",NULL,2619,AUS,0422-672-553,NULL
+WILSO,Wilson Inc,Cynthia Mathews,Mr/Ms,"Level 6
+ 24 Jose Little
+Lindachester, NT, 2519","Lindachester, NT, 2519",NULL,2519,AUS,(02)38598352,NULL
+MCDON,Mcdonald-Hogan,Stephanie Hays,Mr/Ms,"Level 4
+ 183 Hunter Chase
+East Chelsea, WA, 2914","East Chelsea, WA, 2914",NULL,2914,AUS,03 2851 6794,NULL
+ALVAR,Alvarado and Sons,Katie Drake,Mr/Ms,"79 /
+ 00 Amy Grange
+Dianefurt, SA, 2668","Dianefurt, SA, 2668",NULL,2668,AUS,(07)-3744-7448,NULL
+KAUFM,"Kaufman, Patterson and Holt",Jack Joyce,Mr/Ms,"1 Singh Basin
+Brendamouth, ACT, 7006","Brendamouth, ACT, 7006",NULL,7006,AUS,0469-389-382,NULL
+MURRA,Murray Group,Karl Holmes,Mr/Ms,"6 /
+ 71 Gomez Rest
+South Nathanville, NT, 2987","South Nathanville, NT, 2987",NULL,2987,AUS,(02)-8559-0643,NULL
+PATTE,Patterson PLC,Mary Martinez,Mr/Ms,"050 Jessica Trail
+South Melody, SA, 2646","South Melody, SA, 2646",NULL,2646,AUS,37181067,NULL
+RANDA,Randall-Howard,Scott Howard,Mr/Ms,"541 /
+ 7 Campbell Common
+Port Monicabury, TAS, 2995","Port Monicabury, TAS, 2995",NULL,2995,AUS,0491.335.642,NULL

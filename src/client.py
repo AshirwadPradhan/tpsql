@@ -16,12 +16,12 @@ class TPSQLClient(Cmd):
             # send to query manager
             try:
                 res = proc_main('select '+inp)
+                if res == True:
+                    print('Query Execution Completed..')
+                else:
+                    print('Problem in Execution... Please see logs for errors')
             except Exception as e:
                 print('Exception Occurred: See logs for details: \n'+str(e))
-            if res == True:
-                print('Query Execution Completed..')
-            else:
-                print('Problem in Execution... Please see logs for errors')
         else:
             print('*** No input provided')
     
