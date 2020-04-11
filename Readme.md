@@ -1,7 +1,7 @@
 ## TPSQL (Task Parallel SQL)
 ### Asynchronous tasks for parallely executing SQL query in technoloically distributed data warehouse.
 
-Steps to use build this project:
+Steps to build this project:
 - The project already contains a customized version of Northwind database. Inside the folder `/src/db` you can find folders `/localdbX` which represents remote local data warehouses. The tables within localdbX represents region-wise local data.
 - This project uses `make` for build automation. Please make sure you have `make` installed already in your system.
   
